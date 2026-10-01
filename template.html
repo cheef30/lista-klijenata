@@ -1,0 +1,152 @@
+<title>Lista klijenata</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky toolbar + single column of lead rows, message expands inline */
+:root{
+  --bg:#f5f6f4; --surface:#ffffff; --line:#dfe3dd; --fg:#1d2420; --muted:#5f6b63;
+  --accent:#1f6f54; --accent-soft:#e3f1ea; --hot:#b4541a; --hot-soft:#fbeadf; --warm:#8a6d12; --warm-soft:#f6efd6;
+  --display:"Familjen Grotesk",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#141917; --surface:#1c2320; --line:#2e3833; --fg:#e6ebe7; --muted:#9aa69e;
+  --accent:#5fc49a; --accent-soft:#1f3a2f; --hot:#f0935a; --hot-soft:#3d2618; --warm:#e0c35c; --warm-soft:#3a3218; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141917; --surface:#1c2320; --line:#2e3833; --fg:#e6ebe7; --muted:#9aa69e;
+  --accent:#5fc49a; --accent-soft:#1f3a2f; --hot:#f0935a; --hot-soft:#3d2618; --warm:#e0c35c; --warm-soft:#3a3218; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--display);font-size:15px;line-height:1.5}
+.wrap{max-width:1000px;margin:0 auto;padding-inline:16px;padding-block:24px 64px}
+h1{font-size:clamp(26px,4vw,36px);margin:0;letter-spacing:-.01em;text-wrap:balance}
+.lede{color:var(--muted);max-width:65ch;margin:.4em 0 0}
+.stats{display:flex;flex-wrap:wrap;gap:8px 20px;margin:18px 0 6px;font-family:var(--mono);font-size:13px;color:var(--muted)}
+.stats b{color:var(--fg);font-weight:500}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:12px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input,select{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg);min-width:0}
+input#q{flex:1 1 200px}
+label.me{display:flex;gap:6px;align-items:center;font-size:13px;color:var(--muted)}
+label.me input{width:120px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.list{display:flex;flex-direction:column;gap:10px;margin-top:16px}
+.lead{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;grid-template-columns:auto 1fr auto;gap:4px 14px;align-items:start}
+.lead.done{opacity:.62}
+.num{font-family:var(--mono);font-size:12px;color:var(--muted);padding-top:3px;font-variant-numeric:tabular-nums}
+.main{min-width:0}
+.nm{font-weight:700;font-size:16px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:13px;color:var(--muted);margin-top:2px}
+.pill{font-family:var(--mono);font-size:11px;padding:2px 8px;border-radius:99px;white-space:nowrap}
+.pA{background:var(--hot-soft);color:var(--hot)} .pB{background:var(--warm-soft);color:var(--warm)} .pC{background:var(--line);color:var(--muted)}
+.site{border:1px solid var(--line);color:var(--muted)}
+.contact{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px;align-items:center}
+.tel{font-family:var(--mono);font-size:14px;user-select:all}
+button{font:inherit;font-size:13px;padding:6px 11px;border-radius:7px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+button:hover{border-color:var(--accent)}
+button.pri{background:var(--accent);border-color:var(--accent);color:var(--surface);font-weight:600}
+a{color:var(--accent)}
+.msg{white-space:pre-wrap;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:12px;margin-top:10px;font-size:14px;max-width:70ch}
+.side{display:flex;flex-direction:column;gap:6px;align-items:flex-end}
+.side select{font-size:13px;padding:5px 8px}
+details.help{margin-top:28px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+details.help summary{cursor:pointer;font-weight:700}
+details.help p,details.help li{max-width:65ch}
+.empty{color:var(--muted);padding:24px 0}
+@media (max-width:620px){.lead{grid-template-columns:1fr}.num{display:none}.side{align-items:flex-start;flex-direction:row;flex-wrap:wrap}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <h1>Lista klijenata za sajtove</h1>
+  <p class="lede"><span id="total"></span> biznisa sa telefonom, Instagramom gde postoji, statusom sajta i porukom za svakog. Prioritet A su oni bez sajta ili sa puno recenzija u nišama koje plaćaju. Status koji označiš pamti se u ovom pregledaču.</p>
+  <div class="stats" id="stats"></div>
+
+  <div class="bar">
+    <input id="q" type="search" placeholder="Pretraga: naziv, grad, kategorija">
+    <select id="fz"><option value="">Cela lista</option><option>Obrenovac i okolina</option><option>Ostatak Srbije</option></select>
+    <select id="fp"><option value="">Svi prioriteti</option><option>A</option><option>B</option><option>C</option></select>
+    <select id="fc"><option value="">Sve kategorije</option></select>
+    <select id="fg"><option value="">Svi gradovi</option></select>
+    <select id="fs"><option value="">Svi statusi</option></select>
+    <label class="me" for="me">Tvoje ime <input id="me" value="Stefan"></label>
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <details class="help" id="help">
+    <summary>Kako slati, šta posle odgovora, follow-up poruka</summary>
+    <ul>
+      <li><b>Kanal:</b> Instagram DM gde postoji nalog, inače Viber/WhatsApp na mobilni (06x). Fiksni brojevi (011, 014 i slično) su za poziv, ne za poruku.</li>
+      <li><b>Tempo:</b> 10–15 poruka dnevno, radnim danima između 10 i 12h ili 15 i 17h. Ugostitelje ne kontaktiraj u vreme ručka i petkom uveče.</li>
+      <li><b>Pre slanja:</b> kod statusa „Nije provereno“ za 10 sekundi proguglaj naziv. Ako imaju dobar sajt, preskoči ih ili pošalji samo ponudu za održavanje.</li>
+      <li><b>Kad kažu da može:</b> skicu napravi za 1–2 dana i pošalji kao link (GitHub Pages ili Vercel). Cena tek kad vide skicu: 150–400 € za sajt, 20–30 € mesečno održavanje.</li>
+      <li><b>Follow-up posle 4–5 dana bez odgovora:</b></li>
+    </ul>
+    <div class="msg" id="fu"></div>
+    <div class="contact"><button class="pri" data-copyfu>Kopiraj follow-up</button></div>
+  </details>
+</div>
+
+<script>
+const DATA = __DATA__;
+const STATUSES = ["Nije poslato","Poslato","Odgovorio","Zainteresovan","Dogovoreno","Odbio"];
+const store = {get(k,d){try{const v=localStorage.getItem(k);return v===null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let st = store.get("leadStatus",{});
+const $ = s=>document.querySelector(s);
+const me = $("#me"); me.value = store.get("leadName","Stefan");
+const FU = "Pozdrav, samo da proverim da li ste videli poruku od pre par dana za sajt. Ponuda za besplatan primer i dalje važi, treba mi samo vaše ok i par slika. {IME}";
+function fill(sel, vals){vals.forEach(v=>{const o=document.createElement("option");o.textContent=v;sel.appendChild(o)})}
+fill($("#fc"),[...new Set(DATA.map(d=>d.cat))].sort());
+fill($("#fg"),[...new Set(DATA.map(d=>d.grad))].sort());
+fill($("#fs"),STATUSES);
+const msgFor = d => d.msg.replaceAll("{IME}", me.value.trim()||"[tvoje ime]");
+const esc = s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+async function copy(text, btn){
+  const old=btn.textContent;
+  try{await navigator.clipboard.writeText(text);btn.textContent="Kopirano"}
+  catch(e){btn.textContent="Označi tekst ručno"}
+  setTimeout(()=>btn.textContent=old,1400);
+}
+function render(){
+  const fz=$("#fz").value, q=$("#q").value.toLowerCase(), fp=$("#fp").value, fc=$("#fc").value, fg=$("#fg").value, fs=$("#fs").value;
+  const rows = DATA.filter(d=>{
+    const s=st[d.n]||"Nije poslato";
+    return (!fz||d.zona===fz)&&(!fp||d.p===fp)&&(!fc||d.cat===fc)&&(!fg||d.grad===fg)&&(!fs||s===fs)&&
+      (!q||(d.n+" "+d.grad+" "+d.cat).toLowerCase().includes(q));
+  });
+  $("#list").innerHTML = rows.length? rows.map(d=>{
+    const s=st[d.n]||"Nije poslato";
+    const ig = d.ig?`<a href="https://instagram.com/${d.ig.slice(1)}" target="_blank" rel="noopener">${esc(d.ig)}</a>`:"";
+    const rt = d.rev?`★ ${d.rt.toFixed(1)} · ${d.rev.toLocaleString("sr-RS")} recenzija`:"bez recenzija";
+    return `<article class="lead ${["Odbio","Dogovoreno"].includes(s)?"done":""}">
+      <div class="num">${String(d.id).padStart(3,"0")}</div>
+      <div class="main">
+        <div class="nm">${esc(d.n)}</div>
+        <div class="meta"><span>${esc(d.grad)}</span><span>${esc(d.cat)}</span><span>${rt}</span>
+          <span class="pill p${d.p}">Prioritet ${d.p}</span><span class="pill site">${esc(d.site)}</span></div>
+        <div class="contact"><span class="tel">${esc(d.tel)}</span>${ig}
+          <button data-copytel="${d.id}">Kopiraj broj</button>
+          <button data-show="${d.id}">Prikaži poruku</button>
+          <button class="pri" data-copy="${d.id}">Kopiraj poruku</button></div>
+        <div class="msg" id="m${d.id}" hidden>${esc(msgFor(d))}</div>
+      </div>
+      <div class="side"><select id="s${d.id}" data-status="${d.id}" aria-label="Status">${STATUSES.map(x=>`<option ${x===s?"selected":""}>${x}</option>`).join("")}</select></div>
+    </article>`}).join("") : `<p class="empty">Nijedan biznis ne odgovara filterima.</p>`;
+  const cnt=k=>DATA.filter(d=>(st[d.n]||"Nije poslato")===k).length;
+  $("#stats").innerHTML = `<span>Prikazano <b>${rows.length}</b> od ${DATA.length}</span><span>Prioritet A <b>${DATA.filter(d=>d.p==="A").length}</b></span><span>Poslato <b>${DATA.length-cnt("Nije poslato")}</b></span><span>Zainteresovani <b>${cnt("Zainteresovan")}</b></span><span>Dogovoreno <b>${cnt("Dogovoreno")}</b></span>`;
+  $("#fu").textContent = FU.replace("{IME}", me.value.trim()||"[tvoje ime]");
+}
+const byId = id => DATA.find(d=>d.id==id);
+document.addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return;
+  if(b.dataset.copy){const d=byId(b.dataset.copy);copy(msgFor(d),b);if(!st[d.n]||st[d.n]==="Nije poslato"){st[d.n]="Poslato";store.set("leadStatus",st);setTimeout(render,1500)}}
+  if(b.dataset.copytel){copy(byId(b.dataset.copytel).tel.split(" / ")[0],b)}
+  if(b.dataset.show){const m=$("#m"+b.dataset.show);m.hidden=!m.hidden;b.textContent=m.hidden?"Prikaži poruku":"Sakrij poruku"}
+  if("copyfu" in b.dataset){copy($("#fu").textContent,b)}
+});
+document.addEventListener("change",e=>{
+  if(e.target.dataset.status){const d=byId(e.target.dataset.status);st[d.n]=e.target.value;store.set("leadStatus",st);render()}
+});
+["#q","#fz","#fp","#fc","#fg","#fs"].forEach(s=>$(s).addEventListener("input",render));
+me.addEventListener("input",()=>{store.set("leadName",me.value);render()});
+document.getElementById("total").textContent=DATA.length;
+render();
+</script>
