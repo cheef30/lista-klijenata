@@ -110,12 +110,12 @@ async function copy(text, btn){
 function render(){
   const fk=$("#fk").value, fz=$("#fz").value, q=$("#q").value.toLowerCase(), fp=$("#fp").value, fc=$("#fc").value, fg=$("#fg").value, fs=$("#fs").value;
   const rows = DATA.filter(d=>{
-    const s=st[d.n]||"Nije poslato";
+    const s=st[d.n]||(d.sent?"Poslato":"Nije poslato");
     return (!fk||(fk==="*"?d.kanal:d.kanal===fk))&&(!fz||d.zona===fz)&&(!fp||d.p===fp)&&(!fc||d.cat===fc)&&(!fg||d.grad===fg)&&(!fs||s===fs)&&
       (!q||(d.n+" "+d.grad+" "+d.cat).toLowerCase().includes(q));
   });
   $("#list").innerHTML = rows.length? rows.map(d=>{
-    const s=st[d.n]||"Nije poslato";
+    const s=st[d.n]||(d.sent?"Poslato":"Nije poslato");
     const ig = d.ig?`<a href="https://instagram.com/${d.ig.slice(1)}" target="_blank" rel="noopener">${esc(d.ig)}</a>`:"";
     const rt = d.rev?`★ ${d.rt.toFixed(1)} · ${d.rev.toLocaleString("sr-RS")} recenzija`:"bez recenzija";
     return `<article class="lead ${["Odbio","Dogovoreno"].includes(s)?"done":""}">
@@ -123,7 +123,7 @@ function render(){
       <div class="main">
         <div class="nm">${esc(d.n)}</div>
         <div class="meta"><span>${esc(d.grad)}</span><span>${esc(d.cat)}</span><span>${rt}</span>
-          <span class="pill p${d.p}">Prioritet ${d.p}</span><span class="pill site">${esc(d.site)}</span>${d.kanal?`<span class="pill pK">Tura 1: ${esc(d.kanal)}</span>`:""}</div>
+          <span class="pill p${d.p}">Prioritet ${d.p}</span><span class="pill site">${esc(d.site)}</span>${d.kanal?`<span class="pill pK">Tura 1: ${esc(d.kanal)}</span>`:""}${d.sent?`<span class="pill pA">Poslato: ${esc(d.sent)}</span>`:""}</div>${d.note?`<div class="meta"><span>Napomena: ${esc(d.note)}</span></div>`:""}
         <div class="contact"><span class="tel">${esc(d.tel)}</span>${ig}${d.email?`<span class="tel">${esc(d.email)}</span>`:""}
           <button data-copytel="${d.id}">Kopiraj broj</button>
           <button data-show="${d.id}">Prikaži poruku</button>
@@ -132,7 +132,7 @@ function render(){
       </div>
       <div class="side"><select id="s${d.id}" data-status="${d.id}" aria-label="Status">${STATUSES.map(x=>`<option ${x===s?"selected":""}>${x}</option>`).join("")}</select></div>
     </article>`}).join("") : `<p class="empty">Nijedan biznis ne odgovara filterima.</p>`;
-  const cnt=k=>DATA.filter(d=>(st[d.n]||"Nije poslato")===k).length;
+  const cnt=k=>DATA.filter(d=>(st[d.n]||(d.sent?"Poslato":"Nije poslato"))===k).length;
   $("#stats").innerHTML = `<span>Prikazano <b>${rows.length}</b> od ${DATA.length}</span><span>Prioritet A <b>${DATA.filter(d=>d.p==="A").length}</b></span><span>Poslato <b>${DATA.length-cnt("Nije poslato")}</b></span><span>Zainteresovani <b>${cnt("Zainteresovan")}</b></span><span>Dogovoreno <b>${cnt("Dogovoreno")}</b></span>`;
   $("#fu").textContent = FU.replace("{IME}", me.value.trim()||"[tvoje ime]");
 }

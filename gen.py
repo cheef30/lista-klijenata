@@ -77,6 +77,21 @@ TURA1 = {
    "Life & Fitness","Dukos"],
 }
 KANAL = {n:k for k,v in TURA1.items() for n in v}
+POSLATO = {  # 2.10.2026
+ **{n:"Mejl 2.10." for n in ["Life & Fitness","Etno selo Zabran","Ranč Sava","Hotel Svetionik","Restoran Đukić","Restoran Aleksandar","Savski kutak","Rustikana","Ring Gym","Dukos"]},
+ **{n:"WhatsApp 2.10." for n in ["Splav restoran kod Dejana","Zona Event Hall","Mala Kolubara","Vulkanizer Pavlović 24h","Kombi prevoz i selidbe Obrenovac","Golden Servis klime i bela tehnika","Pro Klima"]},
+ **{n:"Instagram 2.10." for n in ["Kod tri lepe","Deky Gym","Poslastičarnica Saša","Sremački zet","Cvećara Marina","Legura Bar","Antica Picerija","Bubble Gum igraonica"]},
+}
+NAPOMENA = {
+ "Domaća brza hrana Nedelja M":"Nema WhatsApp","Vaš Kutak":"Nema WhatsApp","Deževa doo":"Nema WhatsApp","Auto servis Mijatović":"Nema WhatsApp",
+ "Picerija Kraljica":"Nema WhatsApp","Mesara kod Bobana":"Nema WhatsApp",
+ "Foto studio Lazarević":"Broj ti je u kontaktima kao Solja, nije poslato",
+ "Restoran Koncept":"Ima sajt restorankoncept.rs","Candy Land igraonica":"Ima sajt candyland.rs","Blaža":"Privatan Instagram, bez poruka",
+ "Zona Lounge Bar":"Instagram nije pronađen (zona.lounge.bar je iz Hrvatske)","Ubska kapija":"Instagram nije pronađen","Level Fitness":"Instagram nije pronađen",
+ "Zlatni roštilj":"Instagram nije pronađen","Zavet Cafe Bar":"Instagram nije pronađen",
+ "Auto škola Start":"Ne kontaktirati",
+}
+IG_NADJEN = {"Legura Bar":"@legura.bar","Antica Picerija":"@pizzeria_antica_","Bubble Gum igraonica":"@bubblegum_igraonica","Cvećara Marina":"@cvecara_marina","Candy Land igraonica":"@candy_land_obrenovac"}
 
 out = []
 for i,(n,grad,cat,tel,ig,site,rt,rev,hook) in enumerate(L):
@@ -96,7 +111,7 @@ for i,(n,grad,cat,tel,ig,site,rt,rev,hook) in enumerate(L):
         msg = msg + "\n\nPozdrav,\n{IME}"
     assert "—" not in msg and "–" not in msg, n
     out.append({"n":n,"grad":grad,"zona":"Obrenovac i okolina" if grad in OKOLINA else "Ostatak Srbije",
-                "cat":label,"tel":tel,"ig":ig,"site":SITE_LABEL[site],"rt":rt,"rev":rev,
+                "cat":label,"tel":tel,"ig":IG_NADJEN.get(n,"" if n=="Zona Lounge Bar" else ig),"sent":POSLATO.get(n,""),"note":NAPOMENA.get(n,""),"site":SITE_LABEL[site],"rt":rt,"rev":rev,
                 "p":prio(cat,site,rev,n),"msg":msg,"email":EMAIL.get(n,""),"kanal":KANAL.get(n,""),
                 "subj":f"Sajt za {n}" if KANAL.get(n)=="Mejl" else ""})
 
