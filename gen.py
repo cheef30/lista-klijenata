@@ -67,7 +67,7 @@ EMAIL = {
  "Dukos":"dukos.vrata@gmail.com","Kod tri lepe":"kuburovicdanijel@gmail.com",
 }
 TURA1 = {
- "WhatsApp":["Auto škola Start","Zona Event Hall","Splav restoran kod Dejana","Vulkanizer Pavlović 24h","Kombi prevoz i selidbe Obrenovac",
+ "WhatsApp":["Zona Event Hall","Splav restoran kod Dejana","Vulkanizer Pavlović 24h","Kombi prevoz i selidbe Obrenovac",
    "Auto servis Mijatović","Golden Servis klime i bela tehnika","Pro Klima","Mesara kod Bobana","Mala Kolubara","Domaća brza hrana Nedelja M",
    "Vaš Kutak","Picerija Kraljica","Foto studio Lazarević","Deževa doo"],
  "Instagram":["Kod tri lepe","Restoran Koncept","Deky Gym","Poslastičarnica Saša","Sremački zet","Zona Lounge Bar",
