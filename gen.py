@@ -48,7 +48,7 @@ INTRO = ["Ja sam {IME}, pravim sajtove za lokalne firme.",
          "Ja sam {IME}, pravim sajtove za radnje i lokale."]
 ASK = {"U":["Hteo sam da pitam da li imate sajt?","Da li imate sajt?","Hteo sam da pitam da li ste razmišljali o sajtu?"],
        "N":["Koliko vidim nemate sajt, samo Google i društvene mreže.","Primetio sam da nemate sajt.","Koliko vidim nemate svoj sajt."],
-       "O":["Video sam i vaš sajt, ali mislim da bi mogao da bude moderniji i bolji na telefonu.","Gledao sam i vaš sajt, malo je zastareo i ne izgleda najbolje na telefonu."]}
+       "O":["Gledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona.","Video sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija."]}
 OFFER = ["Ako hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
          "Mogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
          "Ako vas zanima, napravim vam besplatno primer pa vi odlučite."]
@@ -59,6 +59,24 @@ def prio(cat, site, rev, name):
     if site == "N" or name == "Auto škola Start": return "A"
     if site == "U" and cat in HOT and rev >= 150: return "A"
     return "B"
+
+EMAIL = {
+ "Restoran Đukić":"restorandjukic@gmail.com","Hotel Svetionik":"svetionikdoo@gmail.com","Ranč Sava":"office@rancsava.rs",
+ "Savski kutak":"office@savskikutak.rs","Rustikana":"tesic.m@rustikana.rs","Restoran Aleksandar":"pera.nikolic1412@gmail.com",
+ "Ring Gym":"info@ringcentar.rs","Etno selo Zabran":"restoranzabran84@yahoo.com","Life & Fitness":"lifefitnessobrenovac@gmail.com",
+ "Dukos":"dukos.vrata@gmail.com","Kod tri lepe":"kuburovicdanijel@gmail.com",
+}
+TURA1 = {
+ "WhatsApp":["Auto škola Start","Zona Event Hall","Splav restoran kod Dejana","Vulkanizer Pavlović 24h","Kombi prevoz i selidbe Obrenovac",
+   "Auto servis Mijatović","Golden Servis klime i bela tehnika","Pro Klima","Mesara kod Bobana","Mala Kolubara","Domaća brza hrana Nedelja M",
+   "Vaš Kutak","Picerija Kraljica","Foto studio Lazarević","Deževa doo"],
+ "Instagram":["Kod tri lepe","Restoran Koncept","Deky Gym","Poslastičarnica Saša","Sremački zet","Zona Lounge Bar",
+   "Legura Bar","Antica Picerija","Zavet Cafe Bar","Cvećara Marina","Bubble Gum igraonica","Candy Land igraonica","Level Fitness",
+   "Ubska kapija","Blaža","Zlatni roštilj"],
+ "Mejl":["Restoran Đukić","Hotel Svetionik","Ranč Sava","Savski kutak","Rustikana","Restoran Aleksandar","Ring Gym","Etno selo Zabran",
+   "Life & Fitness","Dukos"],
+}
+KANAL = {n:k for k,v in TURA1.items() for n in v}
 
 out = []
 for i,(n,grad,cat,tel,ig,site,rt,rev,hook) in enumerate(L):
@@ -74,15 +92,19 @@ for i,(n,grad,cat,tel,ig,site,rt,rev,hook) in enumerate(L):
     else:
         ask = ASK[site][v % len(ASK[site])]
         msg = f"{GREET[v]} {INTRO[v]} {hook}\n\n{ask} {pitch}\n\n{OFFER[v]}"
+    if KANAL.get(n)=="Mejl":
+        msg = msg + "\n\nPozdrav,\n{IME}"
     assert "—" not in msg and "–" not in msg, n
     out.append({"n":n,"grad":grad,"zona":"Obrenovac i okolina" if grad in OKOLINA else "Ostatak Srbije",
                 "cat":label,"tel":tel,"ig":ig,"site":SITE_LABEL[site],"rt":rt,"rev":rev,
-                "p":prio(cat,site,rev,n),"msg":msg})
+                "p":prio(cat,site,rev,n),"msg":msg,"email":EMAIL.get(n,""),"kanal":KANAL.get(n,""),
+                "subj":f"Sajt za {n}" if KANAL.get(n)=="Mejl" else ""})
 
 order = {"A":0,"B":1,"C":2}
 out.sort(key=lambda x:(x["zona"]!="Obrenovac i okolina", order[x["p"]], x["site"]!="Nema sajt (provereno)", x["n"]!="Auto škola Start", -x["rev"]))
 for k,o in enumerate(out,1): o["id"]=k
+missing=[n for n in KANAL if n not in {o["n"] for o in out}]; assert not missing, missing
 names=[o["n"] for o in out]; assert len(names)==len(set(names)), [x for x,c in Counter(names).items() if c>1]
 json.dump(out, open("data.json","w"), ensure_ascii=False, indent=0)
 print(len(out), Counter(o["zona"] for o in out), Counter(o["p"] for o in out))
-for k in (0,1,40): print("----\n"+out[k]["msg"])
+print(Counter(o["kanal"] for o in out if o["kanal"]))

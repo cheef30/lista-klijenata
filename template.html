@@ -37,6 +37,7 @@ label.me input{width:120px}
 .pill{font-family:var(--mono);font-size:11px;padding:2px 8px;border-radius:99px;white-space:nowrap}
 .pA{background:var(--hot-soft);color:var(--hot)} .pB{background:var(--warm-soft);color:var(--warm)} .pC{background:var(--line);color:var(--muted)}
 .site{border:1px solid var(--line);color:var(--muted)}
+.pK{background:var(--accent-soft);color:var(--accent)}
 .contact{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px;align-items:center}
 .tel{font-family:var(--mono);font-size:14px;user-select:all}
 button{font:inherit;font-size:13px;padding:6px 11px;border-radius:7px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
@@ -61,6 +62,7 @@ details.help p,details.help li{max-width:65ch}
 
   <div class="bar">
     <input id="q" type="search" placeholder="Pretraga: naziv, grad, kategorija">
+    <select id="fk"><option value="">Tura 1: svi kanali</option><option value="*">Tura 1: sve</option><option>WhatsApp</option><option>Instagram</option><option>Mejl</option></select>
     <select id="fz"><option value="">Cela lista</option><option>Obrenovac i okolina</option><option>Ostatak Srbije</option></select>
     <select id="fp"><option value="">Svi prioriteti</option><option>A</option><option>B</option><option>C</option></select>
     <select id="fc"><option value="">Sve kategorije</option></select>
@@ -106,10 +108,10 @@ async function copy(text, btn){
   setTimeout(()=>btn.textContent=old,1400);
 }
 function render(){
-  const fz=$("#fz").value, q=$("#q").value.toLowerCase(), fp=$("#fp").value, fc=$("#fc").value, fg=$("#fg").value, fs=$("#fs").value;
+  const fk=$("#fk").value, fz=$("#fz").value, q=$("#q").value.toLowerCase(), fp=$("#fp").value, fc=$("#fc").value, fg=$("#fg").value, fs=$("#fs").value;
   const rows = DATA.filter(d=>{
     const s=st[d.n]||"Nije poslato";
-    return (!fz||d.zona===fz)&&(!fp||d.p===fp)&&(!fc||d.cat===fc)&&(!fg||d.grad===fg)&&(!fs||s===fs)&&
+    return (!fk||(fk==="*"?d.kanal:d.kanal===fk))&&(!fz||d.zona===fz)&&(!fp||d.p===fp)&&(!fc||d.cat===fc)&&(!fg||d.grad===fg)&&(!fs||s===fs)&&
       (!q||(d.n+" "+d.grad+" "+d.cat).toLowerCase().includes(q));
   });
   $("#list").innerHTML = rows.length? rows.map(d=>{
@@ -121,12 +123,12 @@ function render(){
       <div class="main">
         <div class="nm">${esc(d.n)}</div>
         <div class="meta"><span>${esc(d.grad)}</span><span>${esc(d.cat)}</span><span>${rt}</span>
-          <span class="pill p${d.p}">Prioritet ${d.p}</span><span class="pill site">${esc(d.site)}</span></div>
-        <div class="contact"><span class="tel">${esc(d.tel)}</span>${ig}
+          <span class="pill p${d.p}">Prioritet ${d.p}</span><span class="pill site">${esc(d.site)}</span>${d.kanal?`<span class="pill pK">Tura 1: ${esc(d.kanal)}</span>`:""}</div>
+        <div class="contact"><span class="tel">${esc(d.tel)}</span>${ig}${d.email?`<span class="tel">${esc(d.email)}</span>`:""}
           <button data-copytel="${d.id}">Kopiraj broj</button>
           <button data-show="${d.id}">Prikaži poruku</button>
           <button class="pri" data-copy="${d.id}">Kopiraj poruku</button></div>
-        <div class="msg" id="m${d.id}" hidden>${esc(msgFor(d))}</div>
+        <div class="msg" id="m${d.id}" hidden>${d.subj?`Naslov: ${esc(d.subj)}\n\n`:""}${esc(msgFor(d))}</div>
       </div>
       <div class="side"><select id="s${d.id}" data-status="${d.id}" aria-label="Status">${STATUSES.map(x=>`<option ${x===s?"selected":""}>${x}</option>`).join("")}</select></div>
     </article>`}).join("") : `<p class="empty">Nijedan biznis ne odgovara filterima.</p>`;
@@ -145,7 +147,7 @@ document.addEventListener("click",e=>{
 document.addEventListener("change",e=>{
   if(e.target.dataset.status){const d=byId(e.target.dataset.status);st[d.n]=e.target.value;store.set("leadStatus",st);render()}
 });
-["#q","#fz","#fp","#fc","#fg","#fs"].forEach(s=>$(s).addEventListener("input",render));
+["#q","#fk","#fz","#fp","#fc","#fg","#fs"].forEach(s=>$(s).addEventListener("input",render));
 me.addEventListener("input",()=>{store.set("leadName",me.value);render()});
 document.getElementById("total").textContent=DATA.length;
 render();
