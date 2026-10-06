@@ -161,7 +161,7 @@ L = [
 ("Konaci Staro selo Sirogojno","Sirogojno","smestaj","031 3802291","","U",4.8,316,"Video sam da vam gosti pišu da je to najlepše što su videli na Zlatiboru."),
 ("Etno selo Zlatiborska jezera","Zlatibor","smestaj","062 8569214","","U",3.7,952,"Video sam da imate skoro 1000 recenzija."),
 ("Etno domaćinstvo Kutlačić","Zarube","smestaj","014 276106","","U",4.6,301,"Video sam da gosti hvale hranu, bazen i magarce u dvorištu."),
-("Etno selo Gostoljublje","Mionica","smestaj","060 3273327","","U",4.8,516,"Video sam da vas gosti zovu najboljim etno selom u Srbiji."),
+("Etno selo Gostoljublje","Mionica","smestaj","060 3273327","","O",4.8,516,"Video sam da vas gosti zovu najboljim etno selom u Srbiji."),
 ("Etno selo Rajski konaci","Leušići","smestaj","063 7128325","","U",4.7,474,"Video sam da gosti hvale hot tub napolju i sobe sa saunom."),
 ("Etno restoran Kneževa večera","Krnule","restoran","015 515454","","U",4.6,1797,"Video sam da imate skoro 1800 recenzija."),
 ("Vila Fruškica","Vrdnik","smestaj","065 3002444","","U",5.0,22,"Video sam da imate čistu peticu i da ljudi kod vas prave i dečije rođendane."),
@@ -185,7 +185,7 @@ L = [
 ("Hram 032","Čačak","stolarija","032 361213","","U",4.3,96,"Video sam da imate radnje i u Čačku i u Lazarevcu."),
 # ===== SRBIJA: gradnja =====
 ("Avenija Gradnja","Novi Sad","investitor","069 677587","","U",5.0,26,"Video sam da imate čistu peticu."),
-("Milenković gradnja","Novi Sad","investitor","066 6362637","","U",4.9,55,"Video sam da vas kupci stanova preporučuju."),
+("Milenković gradnja","Novi Sad","investitor","066 6362637","","O",4.9,55,"Video sam da vas kupci stanova preporučuju."),
 ("Aleksandar Gradnja","Novi Sad","investitor","021 6467777","","U",4.5,31,"Video sam da imate dobru reputaciju za kvalitet gradnje."),
 ("Kalman NS košuljice","Novi Sad","gradjevina","060 3072584","","U",5.0,21,"Video sam da imate čistu peticu."),
 # ===== SRBIJA: auto i restorani =====

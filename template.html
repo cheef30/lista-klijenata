@@ -62,7 +62,7 @@ details.help p,details.help li{max-width:65ch}
 
   <div class="bar">
     <input id="q" type="search" placeholder="Pretraga: naziv, grad, kategorija">
-    <select id="fk"><option value="">Tura 1: svi kanali</option><option value="*">Tura 1: sve</option><option>WhatsApp</option><option>Instagram</option><option>Mejl</option></select>
+    <select id="fk"><option value="">Ture: sve i ostali</option><option value="*">Samo u turama</option><option>WhatsApp</option><option>Instagram</option><option>Mejl</option></select>
     <select id="fz"><option value="">Cela lista</option><option>Obrenovac i okolina</option><option>Ostatak Srbije</option></select>
     <select id="fp"><option value="">Svi prioriteti</option><option>A</option><option>B</option><option>C</option></select>
     <select id="fc"><option value="">Sve kategorije</option></select>
@@ -123,7 +123,7 @@ function render(){
       <div class="main">
         <div class="nm">${esc(d.n)}</div>
         <div class="meta"><span>${esc(d.grad)}</span><span>${esc(d.cat)}</span><span>${rt}</span>
-          <span class="pill p${d.p}">Prioritet ${d.p}</span><span class="pill site">${esc(d.site)}</span>${d.kanal?`<span class="pill pK">Tura 1: ${esc(d.kanal)}</span>`:""}${d.sent?`<span class="pill pA">Poslato: ${esc(d.sent)}</span>`:""}</div>${d.note?`<div class="meta"><span>Napomena: ${esc(d.note)}</span></div>`:""}
+          <span class="pill p${d.p}">Prioritet ${d.p}</span><span class="pill site">${esc(d.site)}</span>${d.kanal?`<span class="pill pK">Tura ${d.tura}: ${esc(d.kanal)}</span>`:""}${d.sent?`<span class="pill pA">Poslato: ${esc(d.sent)}</span>`:""}</div>${d.note?`<div class="meta"><span>Napomena: ${esc(d.note)}</span></div>`:""}
         <div class="contact"><span class="tel">${esc(d.tel)}</span>${ig}${d.email?`<span class="tel">${esc(d.email)}</span>`:""}
           <button data-copytel="${d.id}">Kopiraj broj</button>
           <button data-show="${d.id}">Prikaži poruku</button>

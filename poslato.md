@@ -8,3 +8,8 @@ Zadržano: Foto studio Lazarević (broj u kontaktima kao Solja)
 Preskočeno: Koncept i Candy Land (imaju sajt), Blaža (privatan IG), Zona Lounge (pogrešan nalog)
 IG nije pronađen: Ubska kapija, Level Fitness, Zlatni roštilj, Zavet
 Ne kontaktirati: Auto škola Start, Kafeterija Mlin
+## 2026-10-06 (tura 2, u toku)
+Mejl (3): Skillton, Etno selo Gostoljublje, Milenković gradnja. Animalia blokirano, poslati ručno.
+Instagram (4): Fabrika Italia, Pikadili, Džigibau, Gostionica Karađorđe
+Preskočeno: Bajka Lazarevac i Bajka Ub, Kafanica, Exclusive NS (imaju sajt); Djuka, Dve Frajle (pogrešan nalog); Tom & Jerry, NIVA, Zabran61 (IG neupotrebljiv)
+Preostalo: Vinoteka, Cvećara BV, Apartmani Nenadović, Restoran Kale, Školarac, Leskovčanka, Studio MiS (IG); svih 17 WhatsApp (WA Web izlogovan)

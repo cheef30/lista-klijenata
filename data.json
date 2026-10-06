@@ -15,6 +15,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Gledao sam vaše recenzije na Google-u, preko 1000 komentara sa ocenom 4.8, svaka čast.\n\nKoliko vidim nemate sajt, samo Google i društvene mreže. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "kuburovicdanijel@gmail.com",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 1
 },
@@ -34,6 +35,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Čuo sam za vašu dimljenu vešalicu, a video sam i da radite kao porodična kafana preko 40 godina.\n\nKoliko vidim nemate sajt, samo Google i društvene mreže. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 2
 },
@@ -53,6 +55,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi pišu da vas je malo teško naći, a da je riba fantastična.\n\nKoliko vidim nemate svoj sajt. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 3
 },
@@ -72,6 +75,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Čitao sam recenzije mladenaca i svi pišu da je sve bilo savršeno.\n\nPrimetio sam da nemate sajt. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 4
 },
@@ -88,9 +92,10 @@
 "rt": 4.9,
 "rev": 34,
 "p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da članovi kažu da imate najbolju opremu u gradu.\n\nKoliko vidim nemate svoj sajt. Sajt sa članarinama i rasporedom treninga bi vam doneo nove članove, a cene možete da menjate sami kad god hoćete.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.\n\nPozdrav,\n{IME}",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da članovi kažu da imate najbolju opremu u gradu.\n\nKoliko vidim nemate svoj sajt. Sajt sa članarinama i rasporedom treninga bi vam doneo nove članove, a cene možete da menjate sami kad god hoćete.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.\n\n{IME}",
 "email": "lifefitnessobrenovac@gmail.com",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Life & Fitness",
 "id": 5
 },
@@ -110,6 +115,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove. Napravio sam primer sajta za vašu auto školu, sa cenama kategorija, rasporedom i prijavom za upis, pa sam hteo da vam pokažem. Evo linka cheef30.github.io/Auto-skola\n\nAko vam se svidi, ubacim vaše prave podatke i slike i stavim ga na vaš domen. Mogu i da svratim da vam pokažem uživo, samo javite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 6
 },
@@ -119,7 +125,7 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "011 8140806",
-"ig": "",
+"ig": "@restoran_kale",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
@@ -128,7 +134,8 @@
 "p": "A",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate skoro 8500 recenzija, to je verovatno najposećeniji restoran na Ibarskoj.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 7
 },
@@ -145,9 +152,10 @@
 "rt": 4.4,
 "rev": 2436,
 "p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Imate preko 2400 recenzija, ljudi vas znaju kao Zabransku bajku.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\nPozdrav,\n{IME}",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Imate preko 2400 recenzija, ljudi vas znaju kao Zabransku bajku.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\n{IME}",
 "email": "restoranzabran84@yahoo.com",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Etno selo Zabran",
 "id": 8
 },
@@ -157,16 +165,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "063 314618",
-"ig": "",
+"ig": "@restoran.bajka.lazarevac",
 "sent": "",
-"note": "",
+"note": "Ima sajt restoranbajka.com",
 "site": "Nije provereno",
 "rt": 4.6,
 "rev": 1595,
 "p": "A",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate skoro 1600 recenzija i švedski sto vikendom.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 9
 },
@@ -186,6 +195,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Imate preko 1500 recenzija, ljudi dolaze iz drugih gradova samo zbog vaših kolača.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt sa slikama torti i kolača gde ljudi mogu da poruče tortu za rođendan ili slavu.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 10
 },
@@ -195,8 +205,8 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "064 9646371",
-"ig": "",
-"sent": "",
+"ig": "@fabrika_italia_",
+"sent": "Instagram 6.10.",
 "note": "",
 "site": "Nije provereno",
 "rt": 4.6,
@@ -204,7 +214,8 @@
 "p": "A",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate preko 1200 recenzija.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 11
 },
@@ -214,7 +225,7 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "014 411215",
-"ig": "",
+"ig": "@skolarac.restoran.ub",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
@@ -223,7 +234,8 @@
 "p": "A",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 1000 recenzija.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 12
 },
@@ -233,16 +245,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "063 314036",
-"ig": "",
+"ig": "@restoran.bajka.ub",
 "sent": "",
-"note": "",
+"note": "Ima sajt restoranbajka.com",
 "site": "Nije provereno",
 "rt": 4.7,
 "rev": 852,
 "p": "A",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate najlepši pogled u Ubu.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 13
 },
@@ -261,7 +274,8 @@
 "p": "A",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi hvale i hranu i enterijer.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 14
 },
@@ -271,7 +285,7 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "014 411558",
-"ig": "",
+"ig": "@restoranleskovcanka",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
@@ -280,7 +294,8 @@
 "p": "A",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate preko 500 recenzija.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 15
 },
@@ -300,6 +315,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate preko 400 recenzija.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 16
 },
@@ -319,6 +335,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vas zovu najboljom pečenjarom u kraju.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 17
 },
@@ -337,7 +354,8 @@
 "p": "A",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi hvale enterijer i hranu kod vas.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 18
 },
@@ -347,8 +365,8 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "060 5253004",
-"ig": "",
-"sent": "",
+"ig": "@pikadili_restoran_splav",
+"sent": "Instagram 6.10.",
 "note": "",
 "site": "Nije provereno",
 "rt": 4.3,
@@ -356,7 +374,8 @@
 "p": "A",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi dolaze kod vas na Savu i da jedu i da se kupaju.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 19
 },
@@ -376,6 +395,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vam čak i ljudi iz dijaspore pišu da je kod vas najbolji roštilj koji su jeli.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 20
 },
@@ -385,16 +405,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Picerija",
 "tel": "062 8322603",
-"ig": "",
+"ig": "@caffe_pizzeria_djuka",
 "sent": "",
-"note": "",
+"note": "Instagram nije pronađen (nađeni nalog nije iz Obrenovca)",
 "site": "Nije provereno",
 "rt": 4.4,
 "rev": 229,
 "p": "A",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vam ljudi preporučuju Đuka specijal i slatke pite.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam sajt sa menijem i cenama dobro došao, ljudi bi vas zvali direktno umesto preko Glova i Wolta, pa ne bi plaćali proviziju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 21
 },
@@ -404,8 +425,8 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "065 2428180",
-"ig": "",
-"sent": "",
+"ig": "@gostionica_karadjordje",
+"sent": "Instagram 6.10.",
 "note": "",
 "site": "Nije provereno",
 "rt": 4.7,
@@ -413,7 +434,8 @@
 "p": "A",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas ljudi zovu jednim od najboljih domaćih restorana u kraju.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 22
 },
@@ -433,6 +455,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi hvale vaše koktele i burgere, a i lokacija na trgu je top.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 23
 },
@@ -452,6 +475,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vam dosta ljudi u recenzijama piše da im je Koncept omiljeno mesto za doručak.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 24
 },
@@ -470,7 +494,8 @@
 "p": "A",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi hvale salu za svadbe i pogled napolju.\n\nDa li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 25
 },
@@ -487,9 +512,10 @@
 "rt": 4.4,
 "rev": 1934,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Pratim vaš Instagram, 8000 pratilaca, dve sale i marina, imate stvarno puno toga da pokažete.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\nPozdrav,\n{IME}",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Pratim vaš Instagram, 8000 pratilaca, dve sale i marina, imate stvarno puno toga da pokažete.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\n{IME}",
 "email": "office@rancsava.rs",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Ranč Sava",
 "id": 26
 },
@@ -509,6 +535,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Imate skoro 1800 recenzija i svi hvale terasu na Savi.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.\n\nPozdrav,\n{IME}",
 "email": "svetionikdoo@gmail.com",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Hotel Svetionik",
 "id": 27
 },
@@ -525,9 +552,10 @@
 "rt": 4.7,
 "rev": 1113,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Radite od 1992. i imate preko 1100 recenzija, to je ozbiljna stvar za Obrenovac.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\nPozdrav,\n{IME}",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Radite od 1992. i imate preko 1100 recenzija, to je ozbiljna stvar za Obrenovac.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\n{IME}",
 "email": "restorandjukic@gmail.com",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Restoran Đukić",
 "id": 28
 },
@@ -546,7 +574,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 1100 recenzija sa 4.9.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 29
 },
@@ -563,9 +592,10 @@
 "rt": 4.7,
 "rev": 1051,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 1000 recenzija i dve sale.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\nPozdrav,\n{IME}",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 1000 recenzija i dve sale.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\n{IME}",
 "email": "pera.nikolic1412@gmail.com",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Restoran Aleksandar",
 "id": 30
 },
@@ -585,6 +615,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Pratim vaš Instagram, Savski kutak je skoro simbol Zabrana.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.\n\nPozdrav,\n{IME}",
 "email": "office@savskikutak.rs",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Savski kutak",
 "id": 31
 },
@@ -601,9 +632,10 @@
 "rt": 4.7,
 "rev": 439,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Svidela mi se priča sa bavarskom tradicijom i šefom koji je radio po Evropi.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.\n\nPozdrav,\n{IME}",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Svidela mi se priča sa bavarskom tradicijom i šefom koji je radio po Evropi.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.\n\n{IME}",
 "email": "tesic.m@rustikana.rs",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Rustikana",
 "id": 32
 },
@@ -622,7 +654,8 @@
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate preko 300 recenzija.\n\nDa li imate sajt? Mislim da bi vam dobro došao sajt sa ponudom i brojem za porudžbine, posebno za roštilj i pečenje za slave i praznike.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 33
 },
@@ -642,6 +675,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam recenziju gde čovek piše da ste mu nedeljom po vrućini rešili gumu za 3 minuta, to je jako dobra reklama.\n\nDa li imate sajt? Kad nekom pukne guma ili stane auto, prvo gugla, i sajt sa velikim dugmetom za poziv bi značio da zovu baš vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 34
 },
@@ -653,15 +687,16 @@
 "tel": "062 1857133",
 "ig": "",
 "sent": "",
-"note": "",
+"note": "Mejl nije poslat (blokirano), pošalji ručno na info@animalia.rs",
 "site": "Ima stariji sajt",
 "rt": 4.7,
 "rev": 238,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi dolaze i iz Umke zbog dr Dalibora.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Kad se ljubimcu nešto desi ljudi prvo guglaju, i sajt sa radnim vremenom, hitnim brojem i zakazivanjem bi vam dosta značio.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
-"email": "",
-"kanal": "",
-"subj": "",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi dolaze i iz Umke zbog dr Dalibora.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Kad se ljubimcu nešto desi ljudi prvo guglaju, i sajt sa radnim vremenom, hitnim brojem i zakazivanjem bi vam dosta značio.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.\n\n{IME}",
+"email": "info@animalia.rs",
+"kanal": "Mejl",
+"tura": 2,
+"subj": "Sajt za Veterinarska ambulanta Animalia",
 "id": 35
 },
 {
@@ -679,7 +714,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate skoro 200 recenzija.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt gde majstori i kupci vide šta imate i kako ide dostava pre nego što dođu.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 36
 },
@@ -699,6 +735,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate 170 recenzija i da vas zovu najboljom cvećarom.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt gde ljudi mogu da poruče buket sa dostavom, i oni koji žive van grada a šalju cveće nekom ovde.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 37
 },
@@ -718,6 +755,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da pečete i za praznike, a ljudi hvale roštilj.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt sa ponudom i brojem za porudžbine, posebno za roštilj i pečenje za slave i praznike.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 38
 },
@@ -734,9 +772,10 @@
 "rt": 4.9,
 "rev": 143,
 "p": "B",
-"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate 143 recenzije sa 4.9 i da radite i prevode.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred septembar.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate 143 recenzije sa 4.9 i da radite i prevode.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred novi semestar.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 39
 },
@@ -746,16 +785,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Kafić / bar",
 "tel": "069 3218666",
-"ig": "",
+"ig": "@caffebar_zabran61",
 "sent": "",
-"note": "",
+"note": "Instagram neaktivan od 2018, probaj WhatsApp",
 "site": "Nije provereno",
 "rt": 4.6,
 "rev": 139,
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas i turisti nalaze dok putuju kroz Srbiju, lokacija na reci je odlična.\n\nHteo sam da pitam da li imate sajt? Na sajtu bi mogli da imate meni, najave za kvizove i svirke i rezervacije za vikend, sve na jednom linku koji stavite i na Instagram.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 40
 },
@@ -775,6 +815,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate i restoran i apartmane, i da gosti hvale doručak.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 41
 },
@@ -794,6 +835,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas ljudi hvale za savete i fer cene.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt gde majstori i kupci vide šta imate i kako ide dostava pre nego što dođu.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 42
 },
@@ -813,6 +855,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate preko 120 recenzija.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 43
 },
@@ -831,7 +874,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas zovu najboljim roštiljem u Obrenovcu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt sa ponudom i brojem za porudžbine, posebno za roštilj i pečenje za slave i praznike.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 44
 },
@@ -850,7 +894,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Dosta ljudi vas u recenzijama zove najboljom picerijom u Obrenovcu.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Mislim da bi vam sajt sa menijem i cenama dobro došao, ljudi bi vas zvali direktno umesto preko Glova i Wolta, pa ne bi plaćali proviziju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 45
 },
@@ -870,6 +915,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi hvale prostor i grupne treninge.\n\nHteo sam da pitam da li imate sajt? Sajt sa članarinama i rasporedom treninga bi vam doneo nove članove, a cene možete da menjate sami kad god hoćete.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 46
 },
@@ -888,7 +934,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 100 recenzija na Google-u.\n\nHteo sam da pitam da li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 47
 },
@@ -908,6 +955,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate čistu peticu na preko 100 recenzija, to je retkost za selidbe.\n\nHteo sam da pitam da li imate sajt? Ljudi selidbu skoro uvek traže na netu, i sajt sa cenama i brojem bi vam doneo još poslova.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 48
 },
@@ -927,6 +975,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate preko 100 recenzija i veliki izbor materijala.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 49
 },
@@ -946,6 +995,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas zovu najboljim tehničkim u Lazarevcu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 50
 },
@@ -965,6 +1015,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da organizujete kvizove i koncerte, a ocena 4.9 govori sve.\n\nDa li imate sajt? Na sajtu bi mogli da imate meni, najave za kvizove i svirke i rezervacije za vikend, sve na jednom linku koji stavite i na Instagram.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 51
 },
@@ -974,16 +1025,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Restoran / kafana",
 "tel": "069 699611",
-"ig": "",
+"ig": "@kafanica.lazarevac",
 "sent": "",
-"note": "",
+"note": "Ima sajt kafanica-sa-dobrom-klopom.rs",
 "site": "Nije provereno",
 "rt": 4.8,
 "rev": 102,
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam recenziju gde piše da je cela porodica jela za 20 evra.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 52
 },
@@ -1003,6 +1055,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vam gosti dosta hvale novi prostor i onu fontanu ispred.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 53
 },
@@ -1021,7 +1074,8 @@
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate čistu peticu na 95 recenzija i da radite do 23h.\n\nDa li imate sajt? Kad se ljubimcu nešto desi ljudi prvo guglaju, i sajt sa radnim vremenom, hitnim brojem i zakazivanjem bi vam dosta značio.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 54
 },
@@ -1041,6 +1095,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vam ljudi veruju i po 16 godina.\n\nHteo sam da pitam da li imate sajt? Kad se ljubimcu nešto desi ljudi prvo guglaju, i sajt sa radnim vremenom, hitnim brojem i zakazivanjem bi vam dosta značio.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 55
 },
@@ -1059,7 +1114,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate skoro 90 recenzija.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt gde ljudi vide šta sve štampate i mogu da pošalju fajl i upit odmah.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 56
 },
@@ -1076,9 +1132,10 @@
 "rt": 4.4,
 "rev": 86,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam recenziju gde član kaže da cene na sajtu nisu iste kao u teretani.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Sajt sa članarinama i rasporedom treninga bi vam doneo nove članove, a cene možete da menjate sami kad god hoćete.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.\n\nPozdrav,\n{IME}",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam recenziju gde član kaže da cene na sajtu nisu iste kao u teretani.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Sajt sa članarinama i rasporedom treninga bi vam doneo nove članove, a cene možete da menjate sami kad god hoćete.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.\n\n{IME}",
 "email": "info@ringcentar.rs",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Ring Gym",
 "id": 57
 },
@@ -1098,6 +1155,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate skoro 90 recenzija.\n\nDa li imate sajt? Kad ljudima crkne telefon ili računar, prvo guglaju servis, i sajt sa uslugama i cenama bi vam doneo nove mušterije.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 58
 },
@@ -1116,7 +1174,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi hvale ćevape i punjeni karaše kod vas.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 59
 },
@@ -1135,7 +1194,8 @@
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da uz rasadnik imate i radnju sa alatom.\n\nDa li imate sajt? Mislim da bi vam dobro došao sajt sa slikama sadnica i cenama, ljudi bi znali šta imate pre nego što dođu.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 60
 },
@@ -1145,7 +1205,7 @@
 "zona": "Obrenovac i okolina",
 "cat": "Cvećara",
 "tel": "063 8046777",
-"ig": "",
+"ig": "@cvecara_bv",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
@@ -1154,7 +1214,8 @@
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi kažu da im na licu mesta napravite buket kakav treba.\n\nDa li imate sajt? Mislim da bi vam dobro došao sajt gde ljudi mogu da poruče buket sa dostavom, i oni koji žive van grada a šalju cveće nekom ovde.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 61
 },
@@ -1173,7 +1234,8 @@
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Čitao sam recenziju gde ste ljudima otvorili radionicu kasno noću kad su ostali sa bebom na putu, svaka čast.\n\nDa li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 62
 },
@@ -1192,7 +1254,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi hvale ambijent i uslugu na proslavama kod vas.\n\nHteo sam da pitam da li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 63
 },
@@ -1212,6 +1275,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi pišu da je majstor Nikola najbolji u tom poslu.\n\nHteo sam da pitam da li imate sajt? Pred leto i zimu svi guglaju ugradnju i servis klima, i sajt sa cenama i brojem bi vam doneo dosta poziva.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 64
 },
@@ -1230,7 +1294,8 @@
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate dosta vozila i preko 60 recenzija.\n\nDa li imate sajt? Sajt sa vozilima i cenama bi vam doneo rezervacije i od stranaca i ljudi iz dijaspore koji traže auto pre nego što dođu.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 65
 },
@@ -1250,6 +1315,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi kažu da kod vas ima svega.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt gde majstori i kupci vide šta imate i kako ide dostava pre nego što dođu.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 66
 },
@@ -1269,6 +1335,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate i cvećaru i veliki rasadnik.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt sa slikama sadnica i cenama, ljudi bi znali šta imate pre nego što dođu.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 67
 },
@@ -1287,7 +1354,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas ljudi zovu doktorima za Opel.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "WhatsApp",
+"tura": 2,
 "subj": "",
 "id": 68
 },
@@ -1307,6 +1375,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da radite i velike servise na BMW motorima.\n\nHteo sam da pitam da li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 69
 },
@@ -1326,6 +1395,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas ljudi hvale za brzinu i profesionalan pristup.\n\nHteo sam da pitam da li imate sajt? Kad ljudima treba majstor prvo guglaju, i sajt sa uslugama i radovima bi vam doneo nove poslove.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 70
 },
@@ -1345,6 +1415,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vas ljudi zovu najboljim fotografom u gradu.\n\nDa li imate sajt? Za fotografa je sajt sa galerijom najbolja reklama, mladenci i roditelji uvek prvo gledaju radove na netu.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 71
 },
@@ -1364,6 +1435,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate servis, gume i šlep na jednom mestu i ocenu 4.9.\n\nDa li imate sajt? Kad nekom pukne guma ili stane auto, prvo gugla, i sajt sa velikim dugmetom za poziv bi značio da zovu baš vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 72
 },
@@ -1383,6 +1455,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da kandidati baš hvale instruktore i vozila kod vas.\n\nHteo sam da pitam da li imate sajt? Budući kandidati prvo guglaju, i sajt sa cenama kategorija i prijavom bi vam doneo dosta upisa.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 73
 },
@@ -1402,6 +1475,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate preko 50 recenzija.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Za fotografa je sajt sa galerijom najbolja reklama, mladenci i roditelji uvek prvo gledaju radove na netu.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 74
 },
@@ -1421,6 +1495,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Čitao sam recenzije, ljudi kažu da Ilija rešava svaki kvar i da kod vas održavaju kola godinama.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 75
 },
@@ -1440,6 +1515,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da članovi hvale Dekija i Maju za savete.\n\nDa li imate sajt? Sajt sa članarinama i rasporedom treninga bi vam doneo nove članove, a cene možete da menjate sami kad god hoćete.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 76
 },
@@ -1459,6 +1535,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da izlazite i na teren, ljudi to baš hvale.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad se ljubimcu nešto desi ljudi prvo guglaju, i sajt sa radnim vremenom, hitnim brojem i zakazivanjem bi vam dosta značio.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 77
 },
@@ -1470,7 +1547,7 @@
 "tel": "060 3360919",
 "ig": "",
 "sent": "",
-"note": "",
+"note": "Konkurencija Pro Klime, ne kontaktirati za sada",
 "site": "Ima stariji sajt",
 "rt": 5.0,
 "rev": 50,
@@ -1478,6 +1555,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate čistu peticu na 50 recenzija i da ljudi kažu da je Aleksandar čovek od reči.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Pred leto i zimu svi guglaju ugradnju i servis klima, i sajt sa cenama i brojem bi vam doneo dosta poziva.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 78
 },
@@ -1497,6 +1575,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate čistu peticu na Google-u, to se retko viđa.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam sajt sa menijem i cenama dobro došao, ljudi bi vas zvali direktno umesto preko Glova i Wolta, pa ne bi plaćali proviziju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 79
 },
@@ -1516,6 +1595,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Čitao sam recenzije i ljudi kažu da je kod vas najbolja pljeskavica u gradu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 80
 },
@@ -1535,6 +1615,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi kažu da imate najbolji nameštaj u gradu.\n\nDa li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 81
 },
@@ -1544,8 +1625,8 @@
 "zona": "Obrenovac i okolina",
 "cat": "Igraonica",
 "tel": "060 5980980",
-"ig": "",
-"sent": "",
+"ig": "@dzigibau_igraonica",
+"sent": "Instagram 6.10.",
 "note": "",
 "site": "Nije provereno",
 "rt": 4.4,
@@ -1553,7 +1634,8 @@
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate i kafić i igraonicu na jednom mestu.\n\nDa li imate sajt? Roditelji traže igraonicu za rođendan na netu, i sajt sa paketima, cenama i slobodnim terminima bi vam doneo dosta rezervacija.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 82
 },
@@ -1573,6 +1655,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vam ljudi hvale testo i sveže sastojke.\n\nDa li imate sajt? Mislim da bi vam sajt sa menijem i cenama dobro došao, ljudi bi vas zvali direktno umesto preko Glova i Wolta, pa ne bi plaćali proviziju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 83
 },
@@ -1583,16 +1666,17 @@
 "cat": "Škola jezika",
 "tel": "064 4716688",
 "ig": "",
-"sent": "",
+"sent": "Mejl 6.10.",
 "note": "",
 "site": "Ima stariji sajt",
 "rt": 5.0,
 "rev": 39,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da roditelji pišu da deca vole časove kod vas.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred septembar.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
-"email": "",
-"kanal": "",
-"subj": "",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da roditelji pišu da deca vole časove kod vas.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred novi semestar.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\n{IME}",
+"email": "info@skilltonschool.rs",
+"kanal": "Mejl",
+"tura": 2,
+"subj": "Sajt za Skillton škola jezika",
 "id": 84
 },
 {
@@ -1611,6 +1695,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate čistu peticu i da ljudi kažu da je kod vas najbolja atmosfera u gradu.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Na sajtu bi mogli da imate meni, najave za kvizove i svirke i rezervacije za vikend, sve na jednom linku koji stavite i na Instagram.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 85
 },
@@ -1620,16 +1705,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Igraonica",
 "tel": "065 2123123",
-"ig": "",
+"ig": "@igraonica_tom_and_jerry_",
 "sent": "",
-"note": "",
+"note": "Instagram nalog prazan",
 "site": "Nije provereno",
 "rt": 4.6,
 "rev": 35,
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate igraonicu na tri nivoa.\n\nHteo sam da pitam da li imate sajt? Roditelji traže igraonicu za rođendan na netu, i sajt sa paketima, cenama i slobodnim terminima bi vam doneo dosta rezervacija.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 86
 },
@@ -1649,6 +1735,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da dajete kola i za inostranstvo.\n\nHteo sam da pitam da li imate sajt? Sajt sa vozilima i cenama bi vam doneo rezervacije i od stranaca i ljudi iz dijaspore koji traže auto pre nego što dođu.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 87
 },
@@ -1668,6 +1755,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi naručuju bukete preko Instagrama i da sve stigne kako treba.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt gde ljudi mogu da poruče buket sa dostavom, i oni koji žive van grada a šalju cveće nekom ovde.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 88
 },
@@ -1687,6 +1775,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi kažu da im uvek date savet za sadnice.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt sa slikama sadnica i cenama, ljudi bi znali šta imate pre nego što dođu.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 89
 },
@@ -1706,6 +1795,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da roditelji kažu da deca obožavaju vašu igraonicu.\n\nHteo sam da pitam da li imate sajt? Roditelji traže igraonicu za rođendan na netu, i sajt sa paketima, cenama i slobodnim terminima bi vam doneo dosta rezervacija.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 90
 },
@@ -1715,16 +1805,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Cvećara",
 "tel": "064 0938147",
-"ig": "",
+"ig": "@dvef.rajle",
 "sent": "",
-"note": "",
+"note": "Instagram nije pronađen (nađeni nalog je iz Banatskog Dvora)",
 "site": "Nije provereno",
 "rt": 4.5,
 "rev": 30,
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi hvale vaše bidermajere.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt gde ljudi mogu da poruče buket sa dostavom, i oni koji žive van grada a šalju cveće nekom ovde.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 91
 },
@@ -1744,6 +1835,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi kažu da kod Bokija ima svega i da su cene najbolje u gradu.\n\nDa li imate sajt? Mislim da bi vam dobro došao sajt gde majstori i kupci vide šta imate i kako ide dostava pre nego što dođu.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 92
 },
@@ -1763,6 +1855,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate odlične ocene i za hranu i za osoblje.\n\nDa li imate sajt? Na sajtu bi mogli da imate meni, najave za kvizove i svirke i rezervacije za vikend, sve na jednom linku koji stavite i na Instagram.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 93
 },
@@ -1782,6 +1875,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ste klijente čekali na aerodromu u 1 noću, to ljudi pamte.\n\nDa li imate sajt? Sajt sa vozilima i cenama bi vam doneo rezervacije i od stranaca i ljudi iz dijaspore koji traže auto pre nego što dođu.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 94
 },
@@ -1801,6 +1895,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas ljudi hvale za brzinu i dobre cene.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 95
 },
@@ -1820,6 +1915,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi hvale i cveće i vaše domaće đubrivo.\n\nDa li imate sajt? Mislim da bi vam dobro došao sajt sa slikama sadnica i cenama, ljudi bi znali šta imate pre nego što dođu.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 96
 },
@@ -1839,6 +1935,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da roditelji posebno hvale vaše animatore.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Roditelji traže igraonicu za rođendan na netu, i sajt sa paketima, cenama i slobodnim terminima bi vam doneo dosta rezervacija.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 97
 },
@@ -1858,6 +1955,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi pišu da ste prijatno iznenađenje za Umku.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "Instagram",
+"tura": 1,
 "subj": "",
 "id": 98
 },
@@ -1877,6 +1975,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi kod vas sve sređuju na jednom mestu, i materijal i sečenje.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 99
 },
@@ -1886,7 +1985,7 @@
 "zona": "Obrenovac i okolina",
 "cat": "Fotograf",
 "tel": "060 5100029",
-"ig": "",
+"ig": "@studio_mis_no1",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
@@ -1895,7 +1994,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate čistu peticu.\n\nHteo sam da pitam da li imate sajt? Za fotografa je sajt sa galerijom najbolja reklama, mladenci i roditelji uvek prvo gledaju radove na netu.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 100
 },
@@ -1915,6 +2015,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ste nekome odštampali etikete za jedan dan pred Novu godinu.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt gde ljudi vide šta sve štampate i mogu da pošalju fajl i upit odmah.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 101
 },
@@ -1934,6 +2035,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi hvale brzu ugradnju i cene.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 102
 },
@@ -1945,7 +2047,7 @@
 "tel": "069 625301",
 "ig": "",
 "sent": "WhatsApp 2.10.",
-"note": "",
+"note": "Klijent: radi se sajt (100 €)",
 "site": "Nije provereno",
 "rt": 5.0,
 "rev": 23,
@@ -1953,6 +2055,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate čistu peticu i pohvale za brz dolazak.\n\nDa li imate sajt? Pred leto i zimu svi guglaju ugradnju i servis klima, i sajt sa cenama i brojem bi vam doneo dosta poziva.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 103
 },
@@ -1972,6 +2075,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da primate porudžbine telefonom i da imate sve petice.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt sa ponudom i brojem za porudžbine, posebno za roštilj i pečenje za slave i praznike.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "WhatsApp",
+"tura": 1,
 "subj": "",
 "id": 104
 },
@@ -1991,6 +2095,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate odlične ocene za prodavnicu delova.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt gde ljudi vide šta imate i mogu da pošalju upit za deo pre nego što dođu.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 105
 },
@@ -2000,7 +2105,7 @@
 "zona": "Obrenovac i okolina",
 "cat": "Radnja",
 "tel": "060 5810300",
-"ig": "",
+"ig": "@vinoteka_obrenovac",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
@@ -2009,7 +2114,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate sve petice i dobar izbor domaćih rakija i vina.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao jednostavan sajt sa ponudom, radnim vremenom i brojem, ljudi bi vas lakše našli.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 106
 },
@@ -2029,6 +2135,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi kod vas i popravljaju i kupuju opremu.\n\nHteo sam da pitam da li imate sajt? Kad ljudima crkne telefon ili računar, prvo guglaju servis, i sajt sa uslugama i cenama bi vam doneo nove mušterije.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 107
 },
@@ -2048,6 +2155,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas ljudi hvale da ste brzi i pedantni.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt sa cenovnikom i brojem za zakazivanje.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 108
 },
@@ -2057,7 +2165,7 @@
 "zona": "Obrenovac i okolina",
 "cat": "Smeštaj / etno",
 "tel": "060 3869898",
-"ig": "",
+"ig": "@apartmani_nenadovic",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
@@ -2066,7 +2174,8 @@
 "p": "B",
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da gosti stalno hvale apartman i vas kao domaćina.\n\nHteo sam da pitam da li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 109
 },
@@ -2086,6 +2195,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas ljudi zovu poštenim majstorima.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 110
 },
@@ -2105,6 +2215,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas ljudi hvale što poštujete rokove.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 111
 },
@@ -2124,6 +2235,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate apartmane u centru.\n\nDa li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 112
 },
@@ -2143,6 +2255,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da izlazite na teren za sat vremena, i 20 km dalje.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad nekom pukne guma ili stane auto, prvo gugla, i sajt sa velikim dugmetom za poziv bi značio da zovu baš vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 113
 },
@@ -2162,6 +2275,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate čistu peticu i da ljudi hvale nova kola.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Sajt sa vozilima i cenama bi vam doneo rezervacije i od stranaca i ljudi iz dijaspore koji traže auto pre nego što dođu.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 114
 },
@@ -2181,6 +2295,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ste relativno nova škola u gradu.\n\nDa li imate sajt? Budući kandidati prvo guglaju, i sajt sa cenama kategorija i prijavom bi vam doneo dosta upisa.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 115
 },
@@ -2200,6 +2315,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da kandidati hvale instruktora Sašu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Budući kandidati prvo guglaju, i sajt sa cenama kategorija i prijavom bi vam doneo dosta upisa.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 116
 },
@@ -2219,6 +2335,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate i sadnice koje se teško nalaze.\n\nHteo sam da pitam da li imate sajt? Mislim da bi vam dobro došao sajt sa slikama sadnica i cenama, ljudi bi znali šta imate pre nego što dođu.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 117
 },
@@ -2238,6 +2355,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi hvale i hranu i muziku kod vas.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 118
 },
@@ -2257,6 +2375,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate odlične ocene od klijenata.\n\nDa li imate sajt? Kad ljudima treba majstor prvo guglaju, i sajt sa uslugama i radovima bi vam doneo nove poslove.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 119
 },
@@ -2276,6 +2395,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas ljudi hvale da ste pošteni i brzi.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudima crkne telefon ili računar, prvo guglaju servis, i sajt sa uslugama i cenama bi vam doneo nove mušterije.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 120
 },
@@ -2295,6 +2415,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vas klijenti preporučuju.\n\nDa li imate sajt? Preduzetnici danas knjigovođu traže na netu, i sajt sa uslugama i cenama za paušalce i firme bi vam doneo nove klijente.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 121
 },
@@ -2314,6 +2435,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi hvale cene i popravku naočara.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao jednostavan sajt sa ponudom, radnim vremenom i brojem, ljudi bi vas lakše našli.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 122
 },
@@ -2333,6 +2455,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vam ljudi dolaze na preporuku i iz drugih gradova.\n\nHteo sam da pitam da li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 123
 },
@@ -2352,6 +2475,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate visoku ocenu za limariju i farbanje.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 124
 },
@@ -2371,6 +2495,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Čitao sam recenzije i par roditelja piše da im nije bilo jasno kako ide upis i lista čekanja.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Na sajtu bi mogli lepo da objasnite kako ide upis i lista čekanja i da roditelji sami ostave prijavu, pa bi bilo manje nesporazuma.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 125
 },
@@ -2382,7 +2507,7 @@
 "tel": "062 8559410",
 "ig": "",
 "sent": "",
-"note": "",
+"note": "Konkurencija Pro Klime, ne kontaktirati za sada",
 "site": "Nije provereno",
 "rt": 5.0,
 "rev": 6,
@@ -2390,6 +2515,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate sve petice za ugradnju klima.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Pred leto i zimu svi guglaju ugradnju i servis klima, i sajt sa cenama i brojem bi vam doneo dosta poziva.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 126
 },
@@ -2409,6 +2535,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da radite nameštaj po meri.\n\nDa li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 127
 },
@@ -2428,6 +2555,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate i pet shop i veterinara.\n\nDa li imate sajt? Mislim da bi vam dobro došao jednostavan sajt sa ponudom, radnim vremenom i brojem, ljudi bi vas lakše našli.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 128
 },
@@ -2447,6 +2575,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Naleteo sam na vaš profil na Google mapi.\n\nHteo sam da pitam da li imate sajt? Preduzetnici danas knjigovođu traže na netu, i sajt sa uslugama i cenama za paušalce i firme bi vam doneo nove klijente.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 129
 },
@@ -2466,6 +2595,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da radite i vikendom, što je super za perionicu.\n\nDa li imate sajt? Mislim da bi vam dobro došao sajt sa cenovnikom i brojem za zakazivanje.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 130
 },
@@ -2485,6 +2615,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate sve petice.\n\nDa li imate sajt? Roditelji traže klub za decu na netu, i sajt sa treninzima, terminima i upisom bi vam doneo nove članove.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 131
 },
@@ -2494,16 +2625,17 @@
 "zona": "Obrenovac i okolina",
 "cat": "Cvećara",
 "tel": "063 8233985",
-"ig": "",
+"ig": "@niva.dv",
 "sent": "",
-"note": "",
+"note": "Instagram ne prima poruke",
 "site": "Nije provereno",
 "rt": 5.0,
 "rev": 4,
 "p": "B",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi kažu da buket uživo izgleda lepše nego na slici.\n\nDa li imate sajt? Mislim da bi vam dobro došao sajt gde ljudi mogu da poruče buket sa dostavom, i oni koji žive van grada a šalju cveće nekom ovde.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 132
 },
@@ -2523,6 +2655,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Naleteo sam na vaš profil na Google mapi.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Preduzetnici danas knjigovođu traže na netu, i sajt sa uslugama i cenama za paušalce i firme bi vam doneo nove klijente.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 133
 },
@@ -2542,6 +2675,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vas ljudi hvale za realne cene.\n\nDa li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 134
 },
@@ -2558,9 +2692,10 @@
 "rt": 5.0,
 "rev": 3,
 "p": "B",
-"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate sve petice.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred septembar.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate sve petice.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred novi semestar.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 135
 },
@@ -2580,6 +2715,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da snimate svadbe.\n\nDa li imate sajt? Za fotografa je sajt sa galerijom najbolja reklama, mladenci i roditelji uvek prvo gledaju radove na netu.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 136
 },
@@ -2599,6 +2735,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Baš vam je simpatično ime za knjigovodstvo.\n\nDa li imate sajt? Preduzetnici danas knjigovođu traže na netu, i sajt sa uslugama i cenama za paušalce i firme bi vam doneo nove klijente.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 137
 },
@@ -2618,6 +2755,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da radite i nedeljom.\n\nHteo sam da pitam da li imate sajt? Sajt sa članarinama i rasporedom treninga bi vam doneo nove članove, a cene možete da menjate sami kad god hoćete.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 138
 },
@@ -2637,6 +2775,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ste nova firma.\n\nDa li imate sajt? Sajt sa slikama ograda, kapija i konstrukcija koje ste radili je najbolja reklama za bravarski posao.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 139
 },
@@ -2653,9 +2792,10 @@
 "rt": 5.0,
 "rev": 1,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da radite i vikendom, to je super za ljude koji rade.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred septembar.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da radite i vikendom, to je super za ljude koji rade.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Sajt sa kursevima, cenama i prijavom bi vam doneo upise i van radnog vremena, posebno pred novi semestar.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 140
 },
@@ -2675,6 +2815,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Naleteo sam na vaš profil na Google mapi.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Sajt sa slikama ograda, kapija i konstrukcija koje ste radili je najbolja reklama za bravarski posao.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 141
 },
@@ -2694,6 +2835,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Naleteo sam na vaš profil na Google mapi.\n\nHteo sam da pitam da li imate sajt? Kad se ljubimcu nešto desi ljudi prvo guglaju, i sajt sa radnim vremenom, hitnim brojem i zakazivanjem bi vam dosta značio.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 142
 },
@@ -2713,6 +2855,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate skoro 200 recenzija i da vas ljudi biraju baš zbog toga. Vaš sajt je već dobar, pa ne nudim novi, ali ako vam treba neko da ga održava i menja stvari kad zatreba, tu sam. Javite ako vas zanima.\n\nPozdrav,\n{IME}",
 "email": "dukos.vrata@gmail.com",
 "kanal": "Mejl",
+"tura": 1,
 "subj": "Sajt za Dukos",
 "id": 143
 },
@@ -2732,6 +2875,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate preko 4000 recenzija, ljudi dolaze baš zbog sirove pljeskavice.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 144
 },
@@ -2751,6 +2895,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 3000 recenzija i baštu pored reke.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 145
 },
@@ -2770,6 +2915,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate preko 2300 recenzija i pogled na ceo Valjevo.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 146
 },
@@ -2789,6 +2935,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate skoro 1800 recenzija.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 147
 },
@@ -2808,6 +2955,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da gosti kažu da je kod vas bila najbolja hrana na celom Zlatiboru.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 148
 },
@@ -2827,6 +2975,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi pišu da imate ogroman meni.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 149
 },
@@ -2836,16 +2985,17 @@
 "zona": "Ostatak Srbije",
 "cat": "Sala za proslave",
 "tel": "063 1017017",
-"ig": "",
+"ig": "@ekskluzivns",
 "sent": "",
-"note": "",
+"note": "Ima sajt exclusivens.com, treba poruka za doradu",
 "site": "Nije provereno",
 "rt": 4.7,
 "rev": 966,
 "p": "A",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi posebno hvale vašu baštu za venčanja.\n\nDa li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
-"kanal": "",
+"kanal": "Instagram",
+"tura": 2,
 "subj": "",
 "id": 150
 },
@@ -2865,6 +3015,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate skoro 1000 recenzija.\n\nDa li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 151
 },
@@ -2884,6 +3035,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da kod vas idu i svadbe od 300 ljudi.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 152
 },
@@ -2903,27 +3055,9 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas zovu najboljom italijanskom hranom u Valjevu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 153
-},
-{
-"n": "Etno selo Gostoljublje",
-"grad": "Mionica",
-"zona": "Ostatak Srbije",
-"cat": "Smeštaj / etno",
-"tel": "060 3273327",
-"ig": "",
-"sent": "",
-"note": "",
-"site": "Nije provereno",
-"rt": 4.8,
-"rev": 516,
-"p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas gosti zovu najboljim etno selom u Srbiji.\n\nHteo sam da pitam da li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
-"email": "",
-"kanal": "",
-"subj": "",
-"id": 154
 },
 {
 "n": "Etno selo Rajski konaci",
@@ -2941,8 +3075,9 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da gosti hvale hot tub napolju i sobe sa saunom.\n\nDa li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
-"id": 155
+"id": 154
 },
 {
 "n": "Konaci Staro selo Sirogojno",
@@ -2960,8 +3095,9 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vam gosti pišu da je to najlepše što su videli na Zlatiboru.\n\nHteo sam da pitam da li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
-"id": 156
+"id": 155
 },
 {
 "n": "Etno domaćinstvo Kutlačić",
@@ -2979,8 +3115,9 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da gosti hvale hranu, bazen i magarce u dvorištu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
-"id": 157
+"id": 156
 },
 {
 "n": "Svečana sala Harmonija",
@@ -2998,7 +3135,28 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate preko 260 recenzija.\n\nDa li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
+"id": 157
+},
+{
+"n": "Etno selo Gostoljublje",
+"grad": "Mionica",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj / etno",
+"tel": "060 3273327",
+"ig": "",
+"sent": "Mejl 6.10.",
+"note": "",
+"site": "Ima stariji sajt",
+"rt": 4.8,
+"rev": 516,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas gosti zovu najboljim etno selom u Srbiji.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\n{IME}",
+"email": "rezervacija@gostoljublje.com",
+"kanal": "Mejl",
+"tura": 2,
+"subj": "Sajt za Etno selo Gostoljublje",
 "id": 158
 },
 {
@@ -3017,6 +3175,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate radnje i u Čačku i u Lazarevcu.\n\nDa li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 159
 },
@@ -3036,6 +3195,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas zovu najboljom radionicom u Šapcu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 160
 },
@@ -3055,6 +3215,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ste treća generacija majstora i da imate čistu peticu.\n\nHteo sam da pitam da li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 161
 },
@@ -3065,16 +3226,17 @@
 "cat": "Gradnja / investitor",
 "tel": "066 6362637",
 "ig": "",
-"sent": "",
+"sent": "Mejl 6.10.",
 "note": "",
-"site": "Nije provereno",
+"site": "Ima stariji sajt",
 "rt": 4.9,
 "rev": 55,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas kupci stanova preporučuju.\n\nHteo sam da pitam da li imate sajt? Kupci stanova žele da vide raspored i kvadraturu pre nego što pozovu, i sajt sa stanovima u ponudi bi vam dosta ubrzao prodaju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
-"email": "",
-"kanal": "",
-"subj": "",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas kupci stanova preporučuju.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Kupci stanova žele da vide raspored i kvadraturu pre nego što pozovu, i sajt sa stanovima u ponudi bi vam dosta ubrzao prodaju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.\n\n{IME}",
+"email": "evrogradnjamsplus@gmail.com",
+"kanal": "Mejl",
+"tura": 2,
+"subj": "Sajt za Milenković gradnja",
 "id": 162
 },
 {
@@ -3093,6 +3255,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da pričate više jezika, to je super za ljude iz dijaspore.\n\nDa li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 163
 },
@@ -3112,6 +3275,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi kažu da se kod vas sve može dogovoriti.\n\nHteo sam da pitam da li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 164
 },
@@ -3131,6 +3295,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vam ljudi dolaze čak iz Vrbasa na pregled pred kupovinu auta.\n\nHteo sam da pitam da li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 165
 },
@@ -3150,6 +3315,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ste porodična firma za kuhinje.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 166
 },
@@ -3169,6 +3335,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate i sopstvenu proizvodnju metalnih delova.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 167
 },
@@ -3188,6 +3355,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate čistu peticu na 31 recenziju.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 168
 },
@@ -3207,6 +3375,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate dobru reputaciju za kvalitet gradnje.\n\nDa li imate sajt? Kupci stanova žele da vide raspored i kvadraturu pre nego što pozovu, i sajt sa stanovima u ponudi bi vam dosta ubrzao prodaju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 169
 },
@@ -3226,6 +3395,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi kažu da je nameštaj ispao lepši nego što su zamislili.\n\nDa li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 170
 },
@@ -3245,6 +3415,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate čistu peticu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kupci stanova žele da vide raspored i kvadraturu pre nego što pozovu, i sajt sa stanovima u ponudi bi vam dosta ubrzao prodaju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 171
 },
@@ -3264,6 +3435,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate čistu peticu i da ljudi kod vas prave i dečije rođendane.\n\nHteo sam da pitam da li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 172
 },
@@ -3283,6 +3455,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate čistu peticu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mislim da bi vam dobro došao sajt gde majstori i kupci vide šta imate i kako ide dostava pre nego što dođu.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 173
 },
@@ -3302,6 +3475,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas klijenti hvale da ste im ispunili ideje.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 174
 },
@@ -3321,6 +3495,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi hvale kvalitet i brzinu montaže.\n\nDa li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 175
 },
@@ -3340,6 +3515,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vas hvale da završavate i pre roka.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 176
 },
@@ -3359,6 +3535,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate sve petice.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 177
 },
@@ -3378,6 +3555,7 @@
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vas ljudi hvale za predloge oko uređenja.\n\nDa li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 178
 },
@@ -3397,6 +3575,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Naleteo sam na vaš profil na Google mapi.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 179
 },
@@ -3416,6 +3595,7 @@
 "msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Naleteo sam na vaš profil na Google mapi.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
 "email": "",
 "kanal": "",
+"tura": 0,
 "subj": "",
 "id": 180
 }
