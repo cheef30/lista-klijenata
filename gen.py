@@ -117,6 +117,15 @@ NAPOMENA = {
  "Zlatni roštilj":"Instagram nije pronađen","Zavet Cafe Bar":"Instagram nije pronađen",
  "Auto škola Start":"Ne kontaktirati",
 }
+import json as _j, os as _o
+if _o.path.exists('wa_res.json'):
+    for _n,_s in _j.load(open('wa_res.json')).items():
+        if _s=='POSLATO': POSLATO.setdefault(_n,"WhatsApp 9.10.")
+        elif _s=='nema WA':
+            _old=NAPOMENA.get(_n,'')
+            if 'Nema WhatsApp' not in _old: NAPOMENA[_n]=("Nema WhatsApp. "+_old).strip()
+        elif _s.startswith('preskoceno'): NAPOMENA.setdefault(_n,"Ista firma kao Rasadnik Popović, nije slato posebno")
+NAPOMENA["Rent a car Spid N&N"]=NAPOMENA["Rasadnik Breković"]="WhatsApp: proveri da li je poruka otišla (Chrome se diskonektovao 9.10.)"; NAPOMENA.pop("Blaža",None); NAPOMENA["Blaža"]="Nema WhatsApp. Privatan Instagram, bez poruka"
 IG_NADJEN = {"Restoran Bajka":"@restoran.bajka.lazarevac","Fabrika Italia":"@fabrika_italia_","Restoran Bajka Ub":"@restoran.bajka.ub",
  "Pikadili splav":"@pikadili_restoran_splav","Pizzeria Đuka":"@caffe_pizzeria_djuka","Gostionica Karađorđe":"@gostionica_karadjordje","Kafanica":"@kafanica.lazarevac",
  "Zabran61 Caffebar":"@caffebar_zabran61","Caffe i igraonica Džigibau":"@dzigibau_igraonica","Tom & Jerry igraonica":"@igraonica_tom_and_jerry_",
