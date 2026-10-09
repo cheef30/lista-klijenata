@@ -198,6 +198,23 @@ L = [
 ("Lovački dom","Valjevo","restoran","060 7217201","","U",4.6,3014,"Video sam da imate preko 3000 recenzija i baštu pored reke."),
 ("Skadarlija","Valjevo","restoran","014 521692","","U",4.7,1072,"Video sam da ljudi pišu da imate ogroman meni."),
 ("Paviljon Markova stolica","Valjevo","restoran","014 3520216","","U",4.6,2368,"Video sam da imate preko 2300 recenzija i pogled na ceo Valjevo."),
+# ===== NOVO 9.10. =====
+("NB Auto Servis","Sremčica","auto","060 0716698","","U",4.7,88,"Video sam da ljudi kažu da kod vas dobiju dobar servis za realnu cenu."),
+("Auto servis Roksandić","Sremčica","auto","064 2011133","","U",4.9,32,"Video sam da vas ljudi zovu najboljim majstorom u kraju."),
+("Auto servis PAJA","Sremčica","auto","060 0854705","","U",4.7,39,"Video sam recenziju gde ste generalku motora završili pre roka."),
+("Restoran Potkovica","Barajevo","restoran","063 8551184","","U",4.5,89,"Video sam da ljudi hvale gulaš od divljači i staru kafansku atmosferu."),
+("Lipovačka šuma","Barajevo","restoran","063 444300","","U",4.7,1107,"Video sam da imate preko 1100 recenzija i da ljudi hvale ambijent."),
+("Zavičaj etno imanje","Barajevo","restoran","063 207855","","U",4.6,1121,"Video sam da imate preko 1100 recenzija i da vam i stranci hvale domaću hranu."),
+("ID Concept nameštaj po meri","Novi Beograd","stolarija","063 334514","","U",4.8,48,"Video sam da vas klijenti hvale za dobre ideje i dizajn."),
+("Stara Krčma","Šabac","restoran","062 8266074","","U",4.7,223,"Video sam da vas ljudi zovu jednim od najboljih mesta za domaću hranu."),
+("Svečana sala Amfora","Šabac","sala","064 1986986","","U",4.7,407,"Video sam da ljudi hvale salu na reci i to što je vlasnik uvek tu."),
+("Events Center Anđela","Šabac","sala","066 337730","","U",4.6,320,"Video sam da imate preko 300 recenzija."),
+("Doll event","Šabac","sala","064 9339328","","U",4.8,24,"Video sam da ljudi hvale ambijent i hranu na proslavama kod vas."),
+("Portal Šabac PVC stolarija","Šabac","stolarija","063 8030208","","U",4.3,7,"Video sam da ljudi hvale profesionalnu ugradnju."),
+("SIEGELN PVC stolarija","Majur","stolarija","069 2262166","","U",4.0,27,"Video sam da imate skoro 30 recenzija."),
+("EXTOL stolarija","Šabac","stolarija","062 8877302","","U",4.1,16,"Video sam da ljudi hvale brzu i preciznu uslugu."),
+("Mali Balkan","Šabac","restoran","015 344808","","O",4.8,3594,"Video sam da imate skoro 3600 recenzija sa ocenom 4.8."),
+("Euro ND PVC ALU stolarija","Jelenča","stolarija","064 8146045","","U",5.0,3,"Video sam da imate sve petice."),
 ]
 
 OKOLINA = {"Obrenovac","Barič","Mislođin","Zvečka","Zabrežje","Urovci","Veliko Polje","Krtinska","Dren","Grabovac","Umka","Ostružnica","Lazarevac","Ub","Vrbovno","Stepojevac","Veliki Crljeni"}

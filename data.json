@@ -160,26 +160,6 @@
 "id": 8
 },
 {
-"n": "Restoran Bajka",
-"grad": "Lazarevac",
-"zona": "Obrenovac i okolina",
-"cat": "Restoran / kafana",
-"tel": "063 314618",
-"ig": "@restoran.bajka.lazarevac",
-"sent": "",
-"note": "Ima sajt restoranbajka.com",
-"site": "Nije provereno",
-"rt": 4.6,
-"rev": 1595,
-"p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate skoro 1600 recenzija i švedski sto vikendom.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
-"email": "",
-"kanal": "Instagram",
-"tura": 2,
-"subj": "",
-"id": 9
-},
-{
 "n": "Poslastičarnica Saša",
 "grad": "Obrenovac",
 "zona": "Obrenovac i okolina",
@@ -197,7 +177,7 @@
 "kanal": "Instagram",
 "tura": 1,
 "subj": "",
-"id": 10
+"id": 9
 },
 {
 "n": "Fabrika Italia",
@@ -217,7 +197,7 @@
 "kanal": "Instagram",
 "tura": 2,
 "subj": "",
-"id": 11
+"id": 10
 },
 {
 "n": "Restoran Školarac",
@@ -237,27 +217,7 @@
 "kanal": "Instagram",
 "tura": 2,
 "subj": "",
-"id": 12
-},
-{
-"n": "Restoran Bajka Ub",
-"grad": "Ub",
-"zona": "Obrenovac i okolina",
-"cat": "Restoran / kafana",
-"tel": "063 314036",
-"ig": "@restoran.bajka.ub",
-"sent": "",
-"note": "Ima sajt restoranbajka.com",
-"site": "Nije provereno",
-"rt": 4.7,
-"rev": 852,
-"p": "A",
-"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate najlepši pogled u Ubu.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
-"email": "",
-"kanal": "Instagram",
-"tura": 2,
-"subj": "",
-"id": 13
+"id": 11
 },
 {
 "n": "La Flamingo",
@@ -267,7 +227,7 @@
 "tel": "062 1903602",
 "ig": "",
 "sent": "",
-"note": "",
+"note": "Nema WhatsApp",
 "site": "Nije provereno",
 "rt": 4.6,
 "rev": 542,
@@ -277,7 +237,7 @@
 "kanal": "WhatsApp",
 "tura": 2,
 "subj": "",
-"id": 14
+"id": 12
 },
 {
 "n": "Leskovčanka",
@@ -297,7 +257,7 @@
 "kanal": "Instagram",
 "tura": 2,
 "subj": "",
-"id": 15
+"id": 13
 },
 {
 "n": "Restoran Grand",
@@ -317,7 +277,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 16
+"id": 14
 },
 {
 "n": "Mala Kolubara",
@@ -337,7 +297,7 @@
 "kanal": "WhatsApp",
 "tura": 1,
 "subj": "",
-"id": 17
+"id": 15
 },
 {
 "n": "Svečana sala Fontana",
@@ -347,7 +307,7 @@
 "tel": "064 3103321",
 "ig": "",
 "sent": "",
-"note": "",
+"note": "Nema WhatsApp",
 "site": "Nije provereno",
 "rt": 4.5,
 "rev": 243,
@@ -357,7 +317,7 @@
 "kanal": "WhatsApp",
 "tura": 2,
 "subj": "",
-"id": 18
+"id": 16
 },
 {
 "n": "Pikadili splav",
@@ -377,7 +337,7 @@
 "kanal": "Instagram",
 "tura": 2,
 "subj": "",
-"id": 19
+"id": 17
 },
 {
 "n": "Domaća brza hrana Nedelja M",
@@ -397,7 +357,7 @@
 "kanal": "WhatsApp",
 "tura": 1,
 "subj": "",
-"id": 20
+"id": 18
 },
 {
 "n": "Pizzeria Đuka",
@@ -417,7 +377,7 @@
 "kanal": "Instagram",
 "tura": 2,
 "subj": "",
-"id": 21
+"id": 19
 },
 {
 "n": "Gostionica Karađorđe",
@@ -437,7 +397,7 @@
 "kanal": "Instagram",
 "tura": 2,
 "subj": "",
-"id": 22
+"id": 20
 },
 {
 "n": "Zona Lounge Bar",
@@ -457,27 +417,7 @@
 "kanal": "Instagram",
 "tura": 1,
 "subj": "",
-"id": 23
-},
-{
-"n": "Restoran Koncept",
-"grad": "Obrenovac",
-"zona": "Obrenovac i okolina",
-"cat": "Restoran / kafana",
-"tel": "060 5836583",
-"ig": "@restorankoncept",
-"sent": "",
-"note": "Ima sajt restorankoncept.rs",
-"site": "Nije provereno",
-"rt": 4.7,
-"rev": 203,
-"p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vam dosta ljudi u recenzijama piše da im je Koncept omiljeno mesto za doručak.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
-"email": "",
-"kanal": "Instagram",
-"tura": 1,
-"subj": "",
-"id": 24
+"id": 21
 },
 {
 "n": "Event hall The Lake",
@@ -486,7 +426,7 @@
 "cat": "Sala za proslave",
 "tel": "063 207463",
 "ig": "",
-"sent": "",
+"sent": "WhatsApp 9.10.",
 "note": "",
 "site": "Nije provereno",
 "rt": 4.7,
@@ -497,7 +437,7 @@
 "kanal": "WhatsApp",
 "tura": 2,
 "subj": "",
-"id": 25
+"id": 22
 },
 {
 "n": "Ranč Sava",
@@ -517,7 +457,7 @@
 "kanal": "Mejl",
 "tura": 1,
 "subj": "Sajt za Ranč Sava",
-"id": 26
+"id": 23
 },
 {
 "n": "Hotel Svetionik",
@@ -537,7 +477,27 @@
 "kanal": "Mejl",
 "tura": 1,
 "subj": "Sajt za Hotel Svetionik",
-"id": 27
+"id": 24
+},
+{
+"n": "Restoran Bajka",
+"grad": "Lazarevac",
+"zona": "Obrenovac i okolina",
+"cat": "Restoran / kafana",
+"tel": "063 314618",
+"ig": "@restoran.bajka.lazarevac",
+"sent": "",
+"note": "Nema WhatsApp",
+"site": "Ima stariji sajt",
+"rt": 4.6,
+"rev": 1595,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate skoro 1600 recenzija i švedski sto vikendom.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"email": "",
+"kanal": "Instagram",
+"tura": 2,
+"subj": "",
+"id": 25
 },
 {
 "n": "Restoran Đukić",
@@ -557,7 +517,7 @@
 "kanal": "Mejl",
 "tura": 1,
 "subj": "Sajt za Restoran Đukić",
-"id": 28
+"id": 26
 },
 {
 "n": "Svečana sala Imperia Gold",
@@ -567,7 +527,7 @@
 "tel": "062 350050",
 "ig": "",
 "sent": "",
-"note": "",
+"note": "Nema WhatsApp",
 "site": "Ima stariji sajt",
 "rt": 4.9,
 "rev": 1107,
@@ -577,7 +537,7 @@
 "kanal": "WhatsApp",
 "tura": 2,
 "subj": "",
-"id": 29
+"id": 27
 },
 {
 "n": "Restoran Aleksandar",
@@ -597,7 +557,27 @@
 "kanal": "Mejl",
 "tura": 1,
 "subj": "Sajt za Restoran Aleksandar",
-"id": 30
+"id": 28
+},
+{
+"n": "Restoran Bajka Ub",
+"grad": "Ub",
+"zona": "Obrenovac i okolina",
+"cat": "Restoran / kafana",
+"tel": "063 314036",
+"ig": "@restoran.bajka.ub",
+"sent": "",
+"note": "Nema WhatsApp",
+"site": "Ima stariji sajt",
+"rt": 4.7,
+"rev": 852,
+"p": "B",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate najlepši pogled u Ubu.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"email": "",
+"kanal": "Instagram",
+"tura": 2,
+"subj": "",
+"id": 29
 },
 {
 "n": "Savski kutak",
@@ -617,7 +597,7 @@
 "kanal": "Mejl",
 "tura": 1,
 "subj": "Sajt za Savski kutak",
-"id": 31
+"id": 30
 },
 {
 "n": "Rustikana",
@@ -637,7 +617,7 @@
 "kanal": "Mejl",
 "tura": 1,
 "subj": "Sajt za Rustikana",
-"id": 32
+"id": 31
 },
 {
 "n": "Royal mesara",
@@ -647,7 +627,7 @@
 "tel": "065 5070146",
 "ig": "",
 "sent": "",
-"note": "",
+"note": "Nema WhatsApp",
 "site": "Nije provereno",
 "rt": 4.6,
 "rev": 344,
@@ -657,7 +637,7 @@
 "kanal": "WhatsApp",
 "tura": 2,
 "subj": "",
-"id": 33
+"id": 32
 },
 {
 "n": "Vulkanizer Pavlović 24h",
@@ -677,7 +657,7 @@
 "kanal": "WhatsApp",
 "tura": 1,
 "subj": "",
-"id": 34
+"id": 33
 },
 {
 "n": "Veterinarska ambulanta Animalia",
@@ -697,6 +677,26 @@
 "kanal": "Mejl",
 "tura": 2,
 "subj": "Sajt za Veterinarska ambulanta Animalia",
+"id": 34
+},
+{
+"n": "Restoran Koncept",
+"grad": "Obrenovac",
+"zona": "Obrenovac i okolina",
+"cat": "Restoran / kafana",
+"tel": "060 5836583",
+"ig": "@restorankoncept",
+"sent": "",
+"note": "Nema WhatsApp",
+"site": "Ima stariji sajt",
+"rt": 4.7,
+"rev": 203,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da vam dosta ljudi u recenzijama piše da im je Koncept omiljeno mesto za doručak.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "Instagram",
+"tura": 1,
+"subj": "",
 "id": 35
 },
 {
@@ -706,7 +706,7 @@
 "cat": "Građevinski materijal",
 "tel": "063 286233",
 "ig": "",
-"sent": "",
+"sent": "WhatsApp 9.10.",
 "note": "",
 "site": "Nije provereno",
 "rt": 4.6,
@@ -1027,12 +1027,12 @@
 "tel": "069 699611",
 "ig": "@kafanica.lazarevac",
 "sent": "",
-"note": "Ima sajt kafanica-sa-dobrom-klopom.rs",
-"site": "Nije provereno",
+"note": "",
+"site": "Ima stariji sajt",
 "rt": 4.8,
 "rev": 102,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam recenziju gde piše da je cela porodica jela za 20 evra.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam recenziju gde piše da je cela porodica jela za 20 evra.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
 "tura": 2,
@@ -1787,12 +1787,12 @@
 "tel": "065 3333399",
 "ig": "@candy_land_obrenovac",
 "sent": "",
-"note": "Ima sajt candyland.rs",
-"site": "Nije provereno",
+"note": "",
+"site": "Ima stariji sajt",
 "rt": 4.4,
 "rev": 30,
 "p": "B",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da roditelji kažu da deca obožavaju vašu igraonicu.\n\nHteo sam da pitam da li imate sajt? Roditelji traže igraonicu za rođendan na netu, i sajt sa paketima, cenama i slobodnim terminima bi vam doneo dosta rezervacija.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da roditelji kažu da deca obožavaju vašu igraonicu.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Roditelji traže igraonicu za rođendan na netu, i sajt sa paketima, cenama i slobodnim terminima bi vam doneo dosta rezervacija.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "Instagram",
 "tura": 1,
@@ -2880,26 +2880,6 @@
 "id": 144
 },
 {
-"n": "Lovački dom",
-"grad": "Valjevo",
-"zona": "Ostatak Srbije",
-"cat": "Restoran / kafana",
-"tel": "060 7217201",
-"ig": "",
-"sent": "",
-"note": "",
-"site": "Nije provereno",
-"rt": 4.6,
-"rev": 3014,
-"p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 3000 recenzija i baštu pored reke.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
-"email": "",
-"kanal": "",
-"tura": 0,
-"subj": "",
-"id": 145
-},
-{
 "n": "Paviljon Markova stolica",
 "grad": "Valjevo",
 "zona": "Ostatak Srbije",
@@ -2917,7 +2897,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 146
+"id": 145
 },
 {
 "n": "Etno restoran Kneževa večera",
@@ -2937,22 +2917,42 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 147
+"id": 146
 },
 {
-"n": "Etno selo Boškova voda",
-"grad": "Zlatibor",
+"n": "Zavičaj etno imanje",
+"grad": "Barajevo",
 "zona": "Ostatak Srbije",
-"cat": "Smeštaj / etno",
-"tel": "069 5205777",
+"cat": "Restoran / kafana",
+"tel": "063 207855",
 "ig": "",
 "sent": "",
 "note": "",
 "site": "Nije provereno",
 "rt": 4.6,
-"rev": 1407,
+"rev": 1121,
 "p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da gosti kažu da je kod vas bila najbolja hrana na celom Zlatiboru.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate preko 1100 recenzija i da vam i stranci hvale domaću hranu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 147
+},
+{
+"n": "Lipovačka šuma",
+"grad": "Barajevo",
+"zona": "Ostatak Srbije",
+"cat": "Restoran / kafana",
+"tel": "063 444300",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.7,
+"rev": 1107,
+"p": "A",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da imate preko 1100 recenzija i da ljudi hvale ambijent.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
 "email": "",
 "kanal": "",
 "tura": 0,
@@ -2980,26 +2980,6 @@
 "id": 149
 },
 {
-"n": "Exclusive NS",
-"grad": "Novi Sad",
-"zona": "Ostatak Srbije",
-"cat": "Sala za proslave",
-"tel": "063 1017017",
-"ig": "@ekskluzivns",
-"sent": "",
-"note": "Ima sajt exclusivens.com, treba poruka za doradu",
-"site": "Nije provereno",
-"rt": 4.7,
-"rev": 966,
-"p": "A",
-"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi posebno hvale vašu baštu za venčanja.\n\nDa li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
-"email": "",
-"kanal": "Instagram",
-"tura": 2,
-"subj": "",
-"id": 150
-},
-{
 "n": "Etno selo Zlatiborska jezera",
 "grad": "Zlatibor",
 "zona": "Ostatak Srbije",
@@ -3017,27 +2997,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 151
-},
-{
-"n": "Zlatna dvorana",
-"grad": "Novi Sad",
-"zona": "Ostatak Srbije",
-"cat": "Sala za proslave",
-"tel": "064 8200600",
-"ig": "",
-"sent": "",
-"note": "",
-"site": "Nije provereno",
-"rt": 4.7,
-"rev": 949,
-"p": "A",
-"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da kod vas idu i svadbe od 300 ljudi.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
-"email": "",
-"kanal": "",
-"tura": 0,
-"subj": "",
-"id": 152
+"id": 150
 },
 {
 "n": "Restoran Bar Petra",
@@ -3057,7 +3017,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 153
+"id": 151
 },
 {
 "n": "Etno selo Rajski konaci",
@@ -3073,6 +3033,46 @@
 "rev": 474,
 "p": "A",
 "msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da gosti hvale hot tub napolju i sobe sa saunom.\n\nDa li imate sajt? Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 152
+},
+{
+"n": "Svečana sala Amfora",
+"grad": "Šabac",
+"zona": "Ostatak Srbije",
+"cat": "Sala za proslave",
+"tel": "064 1986986",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.7,
+"rev": 407,
+"p": "A",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi hvale salu na reci i to što je vlasnik uvek tu.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 153
+},
+{
+"n": "Events Center Anđela",
+"grad": "Šabac",
+"zona": "Ostatak Srbije",
+"cat": "Sala za proslave",
+"tel": "066 337730",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.6,
+"rev": 320,
+"p": "A",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 300 recenzija.\n\nHteo sam da pitam da li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
 "email": "",
 "kanal": "",
 "tura": 0,
@@ -3140,6 +3140,126 @@
 "id": 157
 },
 {
+"n": "Stara Krčma",
+"grad": "Šabac",
+"zona": "Ostatak Srbije",
+"cat": "Restoran / kafana",
+"tel": "062 8266074",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.7,
+"rev": 223,
+"p": "A",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vas ljudi zovu jednim od najboljih mesta za domaću hranu.\n\nDa li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 158
+},
+{
+"n": "Mali Balkan",
+"grad": "Šabac",
+"zona": "Ostatak Srbije",
+"cat": "Restoran / kafana",
+"tel": "015 344808",
+"ig": "",
+"sent": "Mejl 9.10.",
+"note": "",
+"site": "Ima stariji sajt",
+"rt": 4.8,
+"rev": 3594,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da imate skoro 3600 recenzija sa ocenom 4.8.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 159
+},
+{
+"n": "Lovački dom",
+"grad": "Valjevo",
+"zona": "Ostatak Srbije",
+"cat": "Restoran / kafana",
+"tel": "060 7217201",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Ima stariji sajt",
+"rt": 4.6,
+"rev": 3014,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate preko 3000 recenzija i baštu pored reke.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 160
+},
+{
+"n": "Etno selo Boškova voda",
+"grad": "Zlatibor",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj / etno",
+"tel": "069 5205777",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Ima stariji sajt",
+"rt": 4.6,
+"rev": 1407,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da gosti kažu da je kod vas bila najbolja hrana na celom Zlatiboru.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Sa svojim sajtom gosti mogu da rezervišu direktno kod vas, pa ne plaćate proviziju Booking-u, a to se brzo isplati.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 161
+},
+{
+"n": "Exclusive NS",
+"grad": "Novi Sad",
+"zona": "Ostatak Srbije",
+"cat": "Sala za proslave",
+"tel": "063 1017017",
+"ig": "@ekskluzivns",
+"sent": "",
+"note": "",
+"site": "Ima stariji sajt",
+"rt": 4.7,
+"rev": 966,
+"p": "B",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi posebno hvale vašu baštu za venčanja.\n\nVideo sam vaš sajt i mislim da bi uz par izmena mogao da vam donosi više mušterija. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"email": "",
+"kanal": "Instagram",
+"tura": 2,
+"subj": "",
+"id": 162
+},
+{
+"n": "Zlatna dvorana",
+"grad": "Novi Sad",
+"zona": "Ostatak Srbije",
+"cat": "Sala za proslave",
+"tel": "064 8200600",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Ima stariji sajt",
+"rt": 4.7,
+"rev": 949,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da kod vas idu i svadbe od 300 ljudi.\n\nGledao sam i vaš sajt i imam par ideja kako bi mogao da vam donosi više upita, posebno sa telefona. Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 163
+},
+{
 "n": "Etno selo Gostoljublje",
 "grad": "Mionica",
 "zona": "Ostatak Srbije",
@@ -3157,7 +3277,7 @@
 "kanal": "Mejl",
 "tura": 2,
 "subj": "Sajt za Etno selo Gostoljublje",
-"id": 158
+"id": 164
 },
 {
 "n": "Hram 032",
@@ -3177,7 +3297,47 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 159
+"id": 165
+},
+{
+"n": "Restoran Potkovica",
+"grad": "Barajevo",
+"zona": "Ostatak Srbije",
+"cat": "Restoran / kafana",
+"tel": "063 8551184",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.5,
+"rev": 89,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi hvale gulaš od divljači i staru kafansku atmosferu.\n\nHteo sam da pitam da li imate sajt? Dosta ljudi pre nego što izađe prvo pogleda na netu gde da ide, i sajt sa menijem, slikama i brojem za rezervaciju bi vam doneo dosta gostiju.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 166
+},
+{
+"n": "NB Auto Servis",
+"grad": "Sremčica",
+"zona": "Ostatak Srbije",
+"cat": "Auto servis",
+"tel": "060 0716698",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.7,
+"rev": 88,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da ljudi kažu da kod vas dobiju dobar servis za realnu cenu.\n\nHteo sam da pitam da li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 167
 },
 {
 "n": "Autoservis Rakić",
@@ -3197,7 +3357,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 160
+"id": 168
 },
 {
 "n": "Auto servis Mirović",
@@ -3217,7 +3377,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 161
+"id": 169
 },
 {
 "n": "Milenković gradnja",
@@ -3237,7 +3397,7 @@
 "kanal": "Mejl",
 "tura": 2,
 "subj": "Sajt za Milenković gradnja",
-"id": 162
+"id": 170
 },
 {
 "n": "Auto servis Stepić",
@@ -3257,7 +3417,27 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 163
+"id": 171
+},
+{
+"n": "ID Concept nameštaj po meri",
+"grad": "Novi Beograd",
+"zona": "Ostatak Srbije",
+"cat": "Stolarija / nameštaj",
+"tel": "063 334514",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.8,
+"rev": 48,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da vas klijenti hvale za dobre ideje i dizajn.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 172
 },
 {
 "n": "Banquet Hall Stella",
@@ -3277,7 +3457,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 164
+"id": 173
 },
 {
 "n": "Auto servis Mijailović",
@@ -3297,7 +3477,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 165
+"id": 174
 },
 {
 "n": "Stamenković kuhinje",
@@ -3317,7 +3497,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 166
+"id": 175
 },
 {
 "n": "Eurostil nameštaj",
@@ -3337,7 +3517,47 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 167
+"id": 176
+},
+{
+"n": "Auto servis PAJA",
+"grad": "Sremčica",
+"zona": "Ostatak Srbije",
+"cat": "Auto servis",
+"tel": "060 0854705",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.7,
+"rev": 39,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam recenziju gde ste generalku motora završili pre roka.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 177
+},
+{
+"n": "Auto servis Roksandić",
+"grad": "Sremčica",
+"zona": "Ostatak Srbije",
+"cat": "Auto servis",
+"tel": "064 2011133",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.9,
+"rev": 32,
+"p": "B",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da vas ljudi zovu najboljim majstorom u kraju.\n\nDa li imate sajt? Kad ljudi traže servis, prvo guglaju, i sajt sa uslugama i brojem bi vam doneo nove mušterije iz celog kraja.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 178
 },
 {
 "n": "Vial NR",
@@ -3357,7 +3577,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 168
+"id": 179
 },
 {
 "n": "Aleksandar Gradnja",
@@ -3377,7 +3597,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 169
+"id": 180
 },
 {
 "n": "Tip Top nameštaj po meri",
@@ -3397,7 +3617,27 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 170
+"id": 181
+},
+{
+"n": "SIEGELN PVC stolarija",
+"grad": "Majur",
+"zona": "Ostatak Srbije",
+"cat": "Stolarija / nameštaj",
+"tel": "069 2262166",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.0,
+"rev": 27,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate skoro 30 recenzija.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 182
 },
 {
 "n": "Avenija Gradnja",
@@ -3417,7 +3657,27 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 171
+"id": 183
+},
+{
+"n": "Doll event",
+"grad": "Šabac",
+"zona": "Ostatak Srbije",
+"cat": "Sala za proslave",
+"tel": "064 9339328",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.8,
+"rev": 24,
+"p": "B",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi hvale ambijent i hranu na proslavama kod vas.\n\nDa li imate sajt? Mladenci danas skoro uvek prvo traže salu na netu, i sajt sa slikama, menijima i cenama po osobi bi vam doneo dosta upita.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 184
 },
 {
 "n": "Vila Fruškica",
@@ -3437,7 +3697,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 172
+"id": 185
 },
 {
 "n": "Kalman NS košuljice",
@@ -3457,7 +3717,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 173
+"id": 186
 },
 {
 "n": "Nemit nameštaj po meri",
@@ -3477,7 +3737,27 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 174
+"id": 187
+},
+{
+"n": "EXTOL stolarija",
+"grad": "Šabac",
+"zona": "Ostatak Srbije",
+"cat": "Stolarija / nameštaj",
+"tel": "062 8877302",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.1,
+"rev": 16,
+"p": "B",
+"msg": "Zdravo! Zovem se {IME} i bavim se pravljenjem sajtova. Video sam da ljudi hvale brzu i preciznu uslugu.\n\nDa li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nMogu prvo besplatno da napravim primer da vidite kako bi izgledalo, bez ikakve obaveze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 188
 },
 {
 "n": "Lux Al Mont stolarija",
@@ -3497,7 +3777,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 175
+"id": 189
 },
 {
 "n": "Pino Dorado nameštaj po meri",
@@ -3517,7 +3797,27 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 176
+"id": 190
+},
+{
+"n": "Portal Šabac PVC stolarija",
+"grad": "Šabac",
+"zona": "Ostatak Srbije",
+"cat": "Stolarija / nameštaj",
+"tel": "063 8030208",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 4.3,
+"rev": 7,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za radnje i lokale. Video sam da ljudi hvale profesionalnu ugradnju.\n\nHteo sam da pitam da li ste razmišljali o sajtu? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko vas zanima, napravim vam besplatno primer pa vi odlučite.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 191
 },
 {
 "n": "Alekstyle nameštaj po meri",
@@ -3537,7 +3837,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 177
+"id": 192
 },
 {
 "n": "Mikron nameštaj",
@@ -3557,7 +3857,27 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 178
+"id": 193
+},
+{
+"n": "Euro ND PVC ALU stolarija",
+"grad": "Jelenča",
+"zona": "Ostatak Srbije",
+"cat": "Stolarija / nameštaj",
+"tel": "064 8146045",
+"ig": "",
+"sent": "",
+"note": "",
+"site": "Nije provereno",
+"rt": 5.0,
+"rev": 3,
+"p": "B",
+"msg": "Pozdrav! Ja sam {IME}, pravim sajtove za lokalne firme. Video sam da imate sve petice.\n\nHteo sam da pitam da li imate sajt? Ljudi pre nego što pozovu žele da vide šta ste već radili, i sajt sa galerijom radova i upitom za ponudu bi prodavao umesto vas.\n\nAko hoćete, mogu besplatno da vam napravim kako bi to izgledalo, pa ako vam se svidi dogovorimo se, ako ne nema veze.",
+"email": "",
+"kanal": "",
+"tura": 0,
+"subj": "",
+"id": 194
 },
 {
 "n": "Plakar in doo",
@@ -3577,7 +3897,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 179
+"id": 195
 },
 {
 "n": "Stolarija Čačak",
@@ -3597,6 +3917,6 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 180
+"id": 196
 }
 ]

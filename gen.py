@@ -91,7 +91,9 @@ KANAL = {n:k for k,v in TURA1.items() for n in v}
 TURA = {n:1 for n in KANAL}
 for k,v in TURA2.items():
     for n in v: KANAL[n]=k; TURA[n]=2
-POSLATO = {  # 2.10.2026 i 6.10.2026
+POSLATO = {  # 2.10.2026, 6.10.2026, 9.10.2026
+ "Mali Balkan":"Mejl 9.10.",
+ **{n:"WhatsApp 9.10." for n in ["Event hall The Lake","Arma Fert Product"]},
  **{n:"Mejl 6.10." for n in ["Skillton škola jezika","Etno selo Gostoljublje","Milenković gradnja"]},
  **{n:"Instagram 6.10." for n in ["Fabrika Italia","Pikadili splav","Caffe i igraonica Džigibau","Gostionica Karađorđe"]},
  **{n:"Mejl 2.10." for n in ["Life & Fitness","Etno selo Zabran","Ranč Sava","Hotel Svetionik","Restoran Đukić","Restoran Aleksandar","Savski kutak","Rustikana","Ring Gym","Dukos"]},
@@ -99,16 +101,18 @@ POSLATO = {  # 2.10.2026 i 6.10.2026
  **{n:"Instagram 2.10." for n in ["Kod tri lepe","Deky Gym","Poslastičarnica Saša","Sremački zet","Cvećara Marina","Legura Bar","Antica Picerija","Bubble Gum igraonica"]},
 }
 NAPOMENA = {
+ **{n:"Nema WhatsApp" for n in ["La Flamingo","Svečana sala Fontana","Pizzeria Đuka","Zona Lounge Bar","Restoran Bajka","Svečana sala Imperia Gold","Restoran Bajka Ub","Royal mesara","Restoran Koncept"]},
+ "Blaža":"WhatsApp: proveri da li je poruka otišla (prekid 9.10.)",
  "Zabran61 Caffebar":"Instagram neaktivan od 2018, probaj WhatsApp","Tom & Jerry igraonica":"Instagram nalog prazan","Cvećara NIVA":"Instagram ne prima poruke",
  "Cvećara Dve Frajle":"Instagram nije pronađen (nađeni nalog je iz Banatskog Dvora)",
- "Restoran Bajka":"Ima sajt restoranbajka.com","Restoran Bajka Ub":"Ima sajt restoranbajka.com","Kafanica":"Ima sajt kafanica-sa-dobrom-klopom.rs",
- "Pizzeria Đuka":"Instagram nije pronađen (nađeni nalog nije iz Obrenovca)","Exclusive NS":"Ima sajt exclusivens.com, treba poruka za doradu",
+ 
+ "Pizzeria Đuka":"Instagram nije pronađen (nađeni nalog nije iz Obrenovca)",
  "Veterinarska ambulanta Animalia":"Mejl nije poslat (blokirano), pošalji ručno na info@animalia.rs",
  "Pro Klima":"Klijent: radi se sajt (100 €)","TN-Frigo klime":"Konkurencija Pro Klime, ne kontaktirati za sada","Delta Frigo":"Konkurencija Pro Klime, ne kontaktirati za sada",
  "Domaća brza hrana Nedelja M":"Nema WhatsApp","Vaš Kutak":"Nema WhatsApp","Deževa doo":"Nema WhatsApp","Auto servis Mijatović":"Nema WhatsApp",
  "Picerija Kraljica":"Nema WhatsApp","Mesara kod Bobana":"Nema WhatsApp",
  "Foto studio Lazarević":"Broj ti je u kontaktima kao Solja, nije poslato",
- "Restoran Koncept":"Ima sajt restorankoncept.rs","Candy Land igraonica":"Ima sajt candyland.rs","Blaža":"Privatan Instagram, bez poruka",
+ "Blaža":"Privatan Instagram, bez poruka",
  "Zona Lounge Bar":"Instagram nije pronađen (zona.lounge.bar je iz Hrvatske)","Ubska kapija":"Instagram nije pronađen","Level Fitness":"Instagram nije pronađen",
  "Zlatni roštilj":"Instagram nije pronađen","Zavet Cafe Bar":"Instagram nije pronađen",
  "Auto škola Start":"Ne kontaktirati",
@@ -120,9 +124,12 @@ IG_NADJEN = {"Restoran Bajka":"@restoran.bajka.lazarevac","Fabrika Italia":"@fab
  "Apartmani Nenadović":"@apartmani_nenadovic","Restoran Kale":"@restoran_kale","Restoran Školarac":"@skolarac.restoran.ub",
  "Leskovčanka":"@restoranleskovcanka","Aleksandar foto studio MiS":"@studio_mis_no1","Exclusive NS":"@ekskluzivns","Legura Bar":"@legura.bar","Antica Picerija":"@pizzeria_antica_","Bubble Gum igraonica":"@bubblegum_igraonica","Cvećara Marina":"@cvecara_marina","Candy Land igraonica":"@candy_land_obrenovac"}
 
+SITE_O = {"Restoran Bajka","Restoran Bajka Ub","Restoran Koncept","Kafanica","Candy Land igraonica","Exclusive NS",
+          "Lovački dom","Etno selo Boškova voda","Zlatna dvorana"}
 out = []
 for i,(n,grad,cat,tel,ig,site,rt,rev,hook) in enumerate(L):
     label, pitch = CAT[cat]
+    if n in SITE_O: site = "O"
     v = i % 3
     if n == "Auto škola Start":
         msg = ("Pozdrav! Ja sam {IME}, pravim sajtove. Napravio sam primer sajta za vašu auto školu, sa cenama kategorija, rasporedom i prijavom za upis, "
