@@ -120,12 +120,18 @@ NAPOMENA = {
 import json as _j, os as _o
 if _o.path.exists('wa_res.json'):
     for _n,_s in _j.load(open('wa_res.json')).items():
-        if _s=='POSLATO': POSLATO.setdefault(_n,"WhatsApp 9.10.")
+        if _s.startswith('POSLATO'): POSLATO.setdefault(_n,"WhatsApp "+(_s[8:] or "9.10."))
         elif _s=='nema WA':
             _old=NAPOMENA.get(_n,'')
             if 'Nema WhatsApp' not in _old: NAPOMENA[_n]=("Nema WhatsApp. "+_old).strip()
         elif _s.startswith('preskoceno'): NAPOMENA.setdefault(_n,"Ista firma kao Rasadnik Popović, nije slato posebno")
-NAPOMENA["Rent a car Spid N&N"]=NAPOMENA["Rasadnik Breković"]="WhatsApp: proveri da li je poruka otišla (Chrome se diskonektovao 9.10.)"; NAPOMENA.pop("Blaža",None); NAPOMENA["Blaža"]="Nema WhatsApp. Privatan Instagram, bez poruka"
+NAPOMENA.pop("Blaža",None); NAPOMENA["Blaža"]="Nema WhatsApp. Privatan Instagram, bez poruka"
+NAPOMENA["Apartmani Nenadović"]="ODGOVORILI 13.10: pitaju koliko košta, javi im cenu"
+NAPOMENA["Happy & Busy Team"]="Odgovorili 13.10: ne treba, uskoro u penziji"
+NAPOMENA["My School Obrenovac"]="Odgovorili 13.10: odbili (Svako dobro)"
+NAPOMENA["Rasadnik Teodora"]="Odgovorili 13.10: čujete se u ponedeljak"
+NAPOMENA["RentamMobility"]="Odgovorili 13.10, prepiska u toku"
+NAPOMENA["Rent a car Spid N&N"]="Verovatno poslato 9.10. (čet postoji), nije slato ponovo"
 IG_NADJEN = {"Restoran Bajka":"@restoran.bajka.lazarevac","Fabrika Italia":"@fabrika_italia_","Restoran Bajka Ub":"@restoran.bajka.ub",
  "Pikadili splav":"@pikadili_restoran_splav","Pizzeria Đuka":"@caffe_pizzeria_djuka","Gostionica Karađorđe":"@gostionica_karadjordje","Kafanica":"@kafanica.lazarevac",
  "Zabran61 Caffebar":"@caffebar_zabran61","Caffe i igraonica Džigibau":"@dzigibau_igraonica","Tom & Jerry igraonica":"@igraonica_tom_and_jerry_",
