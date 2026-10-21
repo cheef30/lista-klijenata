@@ -1,3 +1,4 @@
+import os, json
 # -*- coding: utf-8 -*-
 import json
 from collections import Counter
@@ -163,6 +164,14 @@ for i,(n,grad,cat,tel,ig,site,rt,rev,hook) in enumerate(L):
                 "cat":label,"tel":tel,"ig":IG_NADJEN.get(n,"" if n=="Zona Lounge Bar" else ig),"sent":POSLATO.get(n,""),"note":NAPOMENA.get(n,""),"site":SITE_LABEL[site],"rt":rt,"rev":rev,
                 "p":prio(cat,site,rev,n),"msg":msg,"email":EMAIL.get(n,""),"kanal":KANAL.get(n,""),"tura":TURA.get(n,0),
                 "subj":f"Sajt za {n}" if KANAL.get(n)=="Mejl" else ""})
+
+NOVI_LABEL = {'kozmetika':'Kozmetički salon','frizer':'Frizer','barber':'Barber','stomatolog':'Stomatolog','smestaj':'Smeštaj','restoran':'Restoran / kafana','teretana':'Teretana','auto':'Auto servis','fotograf':'Fotograf','cvecara':'Cvećara','veterinar':'Veterinar','pekara':'Pekara'}
+if os.path.exists('nova_lista.json'):
+    for x in json.load(open('nova_lista.json')):
+        if x['n'] in {o['n'] for o in out}: x['n'] = x['n'] + f" ({x['grad']})"
+        out.append({"n":x['n'],"grad":x['grad'],"zona":"Obrenovac i okolina" if x['grad'] in OKOLINA else "Ostatak Srbije",
+                    "cat":NOVI_LABEL[x['cat']],"tel":x['tel'],"ig":"","sent":POSLATO.get(x['n'],""),"note":NAPOMENA.get(x['n'],""),
+                    "site":"Nije provereno","rt":x['rt'],"rev":x['rev'],"p":"B","msg":x['msg'],"email":"","kanal":"WhatsApp","tura":3,"subj":""})
 
 order = {"A":0,"B":1,"C":2}
 out.sort(key=lambda x:(x["zona"]!="Obrenovac i okolina", order[x["p"]], x["site"]!="Nema sajt (provereno)", x["n"]!="Auto škola Start", -x["rev"]))
