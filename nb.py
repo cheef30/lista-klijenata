@@ -1,6 +1,6 @@
 import json,sys
 q=json.load(open('waq.json')); k=int(sys.argv[1]) if len(sys.argv)>1 else 2
-T=322845245
+T=322845267
 JS="const N='%s';const d=[...document.querySelectorAll('[role=\"dialog\"]')].map(x=>x.innerText.slice(0,60));const m=document.querySelector('#main');let r;if(!m){r={st:d.length?'nema WA':'nije ucitano',d}}else{const hdr=(m.querySelector('header')||{}).innerText||'';const box=(m.querySelector('footer [contenteditable=\"true\"]')||{}).innerText||'';if(!hdr.replace(/\\D/g,'').includes(N)){r={st:'drugi chat / kontakt',hdr:hdr.slice(0,40),d}}else if(!box.includes('Stefan')){r={st:'nema teksta',hdr}}else{m.querySelector('footer button[aria-label=\"Send\"]').click();await new Promise(z=>setTimeout(z,3000));const b2=(m.querySelector('footer [contenteditable=\"true\"]')||{}).innerText.trim();const ok=m.innerText.slice(-900).includes('Stefan')&&b2==='';r={st:ok?'POSLATO':'proveri',hdr:hdr.slice(0,30)}}}JSON.stringify(r)"
 a=[]
 for x in q[:k]:
