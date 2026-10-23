@@ -134,7 +134,9 @@ NAPOMENA["Rasadnik Teodora"]="Odgovorili 13.10: čujete se u ponedeljak"
 NAPOMENA["RentamMobility"]="Odgovorili 13.10, prepiska u toku"
 NAPOMENA["Rent a car Spid N&N"]="Verovatno poslato 9.10. (čet postoji), nije slato ponovo"
 NAPOMENA["DivčiBar"]="Odgovorili 22.10.: imaju sajt Divcibare ski resort, pitaće kolegu pa javljaju"
-NAPOMENA["Lumea Beauty"]="Odgovorili 22.10.: \"Dogovoreno, hvala puno\" (zainteresovani?)"
+NAPOMENA["Lumea Beauty"]="Odgovorili 22.10.: imaju sajt, javiće se ako budu menjali"
+NAPOMENA["Muški frizerski salon Jasmina"]="Odgovorili 22.10.: nisu zainteresovani"
+NAPOMENA["Guest House on Mountain Tara"]="Odgovorili 23.10.: nisu zainteresovani (Srđan), nisu ni na Bookingu"
 NAPOMENA["Ćućuz Barber"]="Odgovorili 22.10.: \"Ahaam okej, hvala\" (verovatno nisu zainteresovani)"
 IG_NADJEN = {"Restoran Bajka":"@restoran.bajka.lazarevac","Fabrika Italia":"@fabrika_italia_","Restoran Bajka Ub":"@restoran.bajka.ub",
  "Pikadili splav":"@pikadili_restoran_splav","Pizzeria Đuka":"@caffe_pizzeria_djuka","Gostionica Karađorđe":"@gostionica_karadjordje","Kafanica":"@kafanica.lazarevac",
