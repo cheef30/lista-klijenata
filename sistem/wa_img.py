@@ -1,0 +1,40 @@
+"""Pravi browser_batch JSON za slanje slike+teksta (caption) jednoj firmi.
+python3 wa_img.py prep <ime>   -> batch: screenshot slike + otvori chat + uhvati Photos input
+python3 wa_img.py send <ime>   -> batch: nalepi caption, proveri, posalji, proveri
+"""
+import json, sys, re, unicodedata
+WA, IMG = 169437696, 169437694
+REPO_RAW = "https://raw.githubusercontent.com/cheef30/lista-klijenata/main/mockups/"
+def slug(s):
+    s = unicodedata.normalize("NFKD", s.replace("đ","dj").replace("Đ","Dj")).encode("ascii","ignore").decode()
+    return re.sub(r"[^a-z0-9]+","-",s.lower()).strip("-")
+leads = {x["n"]: x for x in json.load(open("/home/claude/leads/sistem/danas.json"))}
+mode, name = sys.argv[1], sys.argv[2]
+L = leads[name]
+num = re.sub(r"\D","",L["tel"]).lstrip("0")
+if mode == "prep":
+    js = ("const m=document.querySelector('#main');const d=[...document.querySelectorAll('[role=dialog]')].map(x=>x.innerText.slice(0,50));"
+          "if(!m){'NEMA WA '+d}else{const hdr=(m.querySelector('header')||{}).innerText||'';const pane=m.querySelector('[role=application]')||m;const n=pane.querySelectorAll('[role=row]').length;"
+          f"if(!hdr.replace(/\\D/g,'').includes('{num}')){{'DRUGI CHAT '+hdr}}else if(n>1){{'VEC IMA PORUKA rows='+n}}else{{"
+          "m.querySelector('footer button[aria-label=\"Attach\"]').click();await new Promise(r=>setTimeout(r,1500));"
+          "window.__orig=window.__orig||HTMLInputElement.prototype.click;window.__pin=null;HTMLInputElement.prototype.click=function(){if(this.type==='file'){window.__pin=this;if(!this.isConnected){this.style.display='none';document.body.appendChild(this);}return;}return window.__orig.call(this)};"
+          "const it=[...document.querySelectorAll('[role=menuitem]')].find(x=>/Photos/.test(x.innerText));it&&it.click();await new Promise(r=>setTimeout(r,800));HTMLInputElement.prototype.click=window.__orig;"
+          "const ins=[...document.querySelectorAll('input[type=file]')];'SPREMNO rows='+n+' pin_index='+ins.indexOf(window.__pin)+' od '+ins.length}}}")
+    a = [{"name":"navigate","input":{"tabId":IMG,"url":REPO_RAW+slug(name)+".jpg"}},
+         {"name":"computer","input":{"tabId":IMG,"action":"wait","duration":2}},
+         {"name":"computer","input":{"tabId":IMG,"action":"screenshot"}},
+         {"name":"navigate","input":{"tabId":WA,"url":"https://web.whatsapp.com/send?phone=381"+num}},
+         {"name":"computer","input":{"tabId":WA,"action":"wait","duration":10}},
+         {"name":"computer","input":{"tabId":WA,"action":"wait","duration":6}},
+         {"name":"javascript_tool","input":{"tabId":WA,"action":"javascript_exec","text":js}}]
+else:
+    msg = json.dumps(L["msg"], ensure_ascii=False)
+    key = L["domain"]
+    js = (f"const msg={msg};const hdr=document.querySelector('#main header').innerText;"
+          f"if(!hdr.replace(/\\D/g,'').includes('{num}')){{'DRUGI CHAT'}}else{{"
+          "const cap=[...document.querySelectorAll('[contenteditable=true]')].find(e=>!e.closest('#main footer'));"
+          "if(!cap){'NEMA CAPTION POLJA'}else{cap.focus();const dt=new DataTransfer();dt.setData('text/plain',msg);cap.dispatchEvent(new ClipboardEvent('paste',{clipboardData:dt,bubbles:true,cancelable:true}));await new Promise(r=>setTimeout(r,900));"
+          f"if(!cap.innerText.includes('{key}')){{'CAPTION NIJE UPISAN'}}else{{const b=[...document.querySelectorAll('[aria-label^=\"Send \"]')].find(e=>/selected/.test(e.getAttribute('aria-label')));b.click();await new Promise(r=>setTimeout(r,6000));"
+          f"const t=document.querySelector('#main').innerText;t.includes('{key}')?'POSLATO':'PROVERI'}}}}}}")
+    a = [{"name":"javascript_tool","input":{"tabId":WA,"action":"javascript_exec","text":js}}]
+print(json.dumps(a, ensure_ascii=False))

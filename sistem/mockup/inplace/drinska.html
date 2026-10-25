@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="sr"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#18211F;--river:#2C6A64;--stone:#EEEBE4;--wood:#6E4A31;--paper:#FBFAF7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Manrope,sans-serif;color:var(--ink);background:var(--stone)}
+.hero{position:relative;height:640px;background:url(/wp-content/uploads/2025/03/20240521_120232.jpeg) center 60%/cover}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,22,20,.55) 0%,rgba(15,22,20,0) 28%,rgba(15,22,20,0) 45%,rgba(15,22,20,.72) 100%)}
+nav{position:relative;z-index:2;display:flex;align-items:center;justify-content:space-between;padding:26px 56px;color:#fff}
+.logo{font-family:"Cormorant Garamond";font-weight:600;font-size:30px;letter-spacing:.02em}
+.links{display:flex;gap:30px;font-size:15px;font-weight:600;opacity:.92}
+.book{background:#fff;color:var(--ink);padding:11px 20px;border-radius:999px;font-weight:700;font-size:15px}
+.copy{position:absolute;z-index:2;left:56px;bottom:120px;color:#fff;max-width:640px}
+h1{font-family:"Cormorant Garamond";font-weight:600;font-size:104px;line-height:.92;letter-spacing:-.01em}
+.copy p{margin-top:18px;font-size:20px;line-height:1.5;max-width:34ch;opacity:.95}
+.rate{position:absolute;z-index:2;right:56px;bottom:128px;color:#fff;text-align:right}
+.rate b{font-family:"Cormorant Garamond";font-size:56px;font-weight:600;line-height:1}
+.rate span{display:block;font-size:14px;font-weight:600;opacity:.9;margin-top:4px}
+.rate i{font-style:normal;color:#F3C969;letter-spacing:2px}
+.bar{position:relative;z-index:3;margin:-58px 56px 0;background:var(--paper);border-radius:16px;display:grid;grid-template-columns:1fr 1fr 1fr auto;box-shadow:0 24px 50px -24px rgba(15,22,20,.45)}
+.bar div{padding:20px 24px;border-right:1px solid #E2DED5}
+.bar small{display:block;font-size:12px;font-weight:700;color:#6B736F;margin-bottom:4px}
+.bar strong{font-size:17px;font-weight:600}
+.bar a{background:var(--river);color:#fff;margin:10px;border-radius:12px;display:flex;align-items:center;padding:0 28px;font-weight:700;font-size:16px}
+.note{margin:14px 56px 0;font-size:14px;color:#56605C}
+.apps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:36px 56px 40px}
+.apps figure{border-radius:12px;overflow:hidden;background:#fff}
+.apps .ph{height:150px;background-size:cover;background-position:center}
+.apps figcaption{padding:12px 14px;font-family:"Cormorant Garamond";font-size:24px;font-weight:600}
+.apps figcaption span{display:block;font-family:Manrope;font-size:13px;color:#6B736F;font-weight:600}
+@media (max-width:600px){
+ nav{padding:18px 20px}.links{display:none}.logo{font-size:24px}.book{padding:9px 14px;font-size:14px}
+ .hero{height:560px}.copy{left:20px;right:20px;bottom:96px}h1{font-size:62px}.copy p{font-size:16px}
+ .rate{left:20px;right:auto;text-align:left;bottom:auto;top:96px}.rate b{font-size:40px}
+ .bar{margin:-48px 16px 0;grid-template-columns:1fr 1fr}.bar div:nth-child(3){display:none}.bar a{grid-column:1/3;justify-content:center;padding:14px}
+ .note{margin:12px 20px 0}.apps{grid-template-columns:1fr 1fr;padding:22px 16px}.apps .ph{height:110px}
+}
+</style></head><body>
+<section class="hero">
+ <nav><div class="logo">Drinska Bajka</div><div class="links"><span>Apartmani</span><span>Galerija</span><span>Aktivnosti</span><span>Kontakt</span></div><span class="book">Rezervišite</span></nav>
+ <div class="copy"><h1>Drinska Bajka</h1><p>Osam apartmana sa bazenom u Mališevcu, pored Drine i Bajine Bašte.</p></div>
+ <div class="rate"><b>4,9</b><span><i>★★★★★</i></span><span>277 recenzija na Google-u</span></div>
+</section>
+<div class="bar"><div><small>Dolazak</small><strong>Pet, 14. nov</strong></div><div><small>Odlazak</small><strong>Ned, 16. nov</strong></div><div><small>Gosti</small><strong>2 odrasla</strong></div><a>Proverite dostupnost</a></div>
+<p class="note">Rezervišite direktno kod nas, bez posrednika i provizije.</p>
+<section class="apps">
+ <figure><div class="ph" style="background-image:url(/wp-content/uploads/2023/04/IMG_4595.jpg)"></div><figcaption>Bajka 1<span>Veći apartman</span></figcaption></figure>
+ <figure><div class="ph" style="background-image:url(/wp-content/uploads/2023/04/IMG_4582.jpg)"></div><figcaption>Bajka 2<span>Veći apartman</span></figcaption></figure>
+ <figure><div class="ph" style="background-image:url(/wp-content/uploads/2024/05/app2.jpg)"></div><figcaption>Bajka 5<span>Mali apartman</span></figcaption></figure>
+ <figure><div class="ph" style="background-image:url(/wp-content/uploads/2024/05/ap8.jpg)"></div><figcaption>Bajka 8<span>Mali apartman</span></figcaption></figure>
+</section>
+</body></html>
