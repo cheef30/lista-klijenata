@@ -17,7 +17,7 @@ html,body{{margin:0;height:100%;background:#C9C6BE;overflow:hidden;font-family:s
 .ph div{{width:280px;height:620px;border-radius:31px;overflow:hidden}}
 .ph iframe{{width:390px;height:864px;border:0;transform:scale(.718);transform-origin:0 0}}
 </style></head><body><div class="stage">
-<div class="win"><div class="bar"><i style="background:#E26A5A"></i><i style="background:#E8B84A"></i><i style="background:#6BBF6A"></i><span>{domain}</span></div><div class="vp"><iframe srcdoc="{sd}"></iframe></div></div>
-<div class="ph"><div><iframe srcdoc="{sd}"></iframe></div></div>
+<div class="win"><div class="bar"><i style="background:#E26A5A"></i><i style="background:#E8B84A"></i><i style="background:#6BBF6A"></i><span>{domain}</span></div><div class="vp"><iframe scrolling="no" srcdoc="{sd}"></iframe></div></div>
+<div class="ph"><div><iframe scrolling="no" srcdoc="{sd}"></iframe></div></div>
 </div></body></html>'''
 print("document.open();document.write(" + json.dumps(W, ensure_ascii=False) + ");document.close();'ok'")
