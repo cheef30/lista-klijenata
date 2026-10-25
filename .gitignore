@@ -1,3 +1,5 @@
 __pycache__/
 lista-klijenata.html
 lista-klijenata.zip
+node_modules/
+sistem/mockup/_*
