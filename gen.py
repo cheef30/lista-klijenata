@@ -137,6 +137,8 @@ NAPOMENA["DivčiBar"]="Odgovorili 22.10.: imaju sajt Divcibare ski resort, pita�
 NAPOMENA["Lumea Beauty"]="Odgovorili 22.10.: imaju sajt, javiće se ako budu menjali"
 NAPOMENA["Muški frizerski salon Jasmina"]="Odgovorili 22.10.: nisu zainteresovani"
 NAPOMENA["Guest House on Mountain Tara"]="Odgovorili 23.10.: nisu zainteresovani (Srđan), nisu ni na Bookingu"
+NAPOMENA["Drinska Bajka Apartmani"]="Odgovorili 23.10.: imaju sajt, rekli pošaljite primer bez obaveze. 25.10. poslat primer sa njihovim slikama (direktna rezervacija). TOPAO KONTAKT"
+NAPOMENA["Make Muscles 24/7"]="Odgovorili 23.10.: već su uradili sajt, samo ga nisu pustili. Nisu zainteresovani"
 NAPOMENA["Ćućuz Barber"]="Odgovorili 22.10.: \"Ahaam okej, hvala\" (verovatno nisu zainteresovani)"
 IG_NADJEN = {"Restoran Bajka":"@restoran.bajka.lazarevac","Fabrika Italia":"@fabrika_italia_","Restoran Bajka Ub":"@restoran.bajka.ub",
  "Pikadili splav":"@pikadili_restoran_splav","Pizzeria Đuka":"@caffe_pizzeria_djuka","Gostionica Karađorđe":"@gostionica_karadjordje","Kafanica":"@kafanica.lazarevac",
@@ -177,6 +179,13 @@ if os.path.exists('nova_lista.json'):
         out.append({"n":x['n'],"grad":x['grad'],"zona":"Obrenovac i okolina" if x['grad'] in OKOLINA else "Ostatak Srbije",
                     "cat":NOVI_LABEL[x['cat']],"tel":x['tel'],"ig":"","sent":POSLATO.get(x['n'],""),"note":NAPOMENA.get(x['n'],""),
                     "site":"Nije provereno","rt":x['rt'],"rev":x['rev'],"p":"B","msg":x['msg'],"email":"","kanal":"WhatsApp","tura":3,"subj":""})
+
+if os.path.exists('sistem/kontakti.json'):
+    for x in json.load(open('sistem/kontakti.json')):
+        nm = x['n'] if x['n'] not in {o['n'] for o in out} else x['n']+f" ({x['grad']})"
+        out.append({"n":nm,"grad":x['grad'],"zona":"Obrenovac i okolina" if any(z in x['grad'] for z in OKOLINA) else "Ostatak Srbije",
+                    "cat":x['cat'],"tel":x['tel'],"ig":"","sent":x['sent'],"note":(NAPOMENA.get(x['n']) or x['note']),
+                    "site":x['site']+": "+x['domain'],"rt":x['rt'],"rev":x['rev'],"p":"A","msg":x['msg'],"email":"","kanal":x['kanal'],"tura":4,"subj":""})
 
 order = {"A":0,"B":1,"C":2}
 out.sort(key=lambda x:(x["zona"]!="Obrenovac i okolina", order[x["p"]], x["site"]!="Nema sajt (provereno)", x["n"]!="Auto škola Start", -x["rev"]))

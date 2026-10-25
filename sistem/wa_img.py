@@ -2,13 +2,17 @@
 python3 wa_img.py prep <ime>   -> batch: screenshot slike + otvori chat + uhvati Photos input
 python3 wa_img.py send <ime>   -> batch: nalepi caption, proveri, posalji, proveri
 """
-import json, sys, re, unicodedata
-WA, IMG = 169437696, 169437694
-REPO_RAW = "https://raw.githubusercontent.com/cheef30/lista-klijenata/main/mockups/"
+import json, sys, re, unicodedata, os
+import os
+T = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "tabs.json")))
+WA, IMG = T["wa"], T["img"]
+import subprocess
+SHA = subprocess.run(["git","-C",os.path.dirname(os.path.abspath(__file__)),"rev-parse","HEAD"],capture_output=True,text=True).stdout.strip() or "main"
+REPO_RAW = f"https://raw.githubusercontent.com/cheef30/lista-klijenata/{SHA}/mockups/"
 def slug(s):
     s = unicodedata.normalize("NFKD", s.replace("đ","dj").replace("Đ","Dj")).encode("ascii","ignore").decode()
     return re.sub(r"[^a-z0-9]+","-",s.lower()).strip("-")
-leads = {x["n"]: x for x in json.load(open("/home/claude/leads/sistem/danas.json"))}
+leads = {x["n"]: x for x in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "danas.json")))}
 mode, name = sys.argv[1], sys.argv[2]
 L = leads[name]
 num = re.sub(r"\D","",L["tel"]).lstrip("0")
