@@ -1,0 +1,100 @@
+"""Pravi stranice nove naslovne sa PRAVIM fotografijama firme (sa njihovog sajta ili Google mapa).
+Slike se ne upisuju ovde: stranica ima tokene {{I0}} (glavna), {{I1}}..{{I4}} (galerija) koje
+compose.js u Chrome-u zameni pravim linkovima (localStorage 'sel' ili putanje sa njihovog domena).
+python3 gen_pages.py  -> pages/<slug>.html
+"""
+import json, os, html
+HERE = os.path.dirname(os.path.abspath(__file__))
+os.makedirs(os.path.join(HERE, "pages"), exist_ok=True)
+
+BASE = """<!doctype html><html lang="sr"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family={gf}&display=swap" rel="stylesheet">
+<style>
+:root{{--bg:{bg};--ink:{ink};--muted:{muted};--accent:{accent};--on:{on};--card:{card}}}
+*{{box-sizing:border-box;margin:0;padding:0}}
+html,body{{overflow:hidden}}
+body{{background:var(--bg);color:var(--ink);font-family:{body};-webkit-font-smoothing:antialiased}}
+nav{{display:flex;align-items:center;justify-content:space-between;padding:24px 56px;position:relative;z-index:3}}
+.logo{{font-family:{disp};font-weight:{dw};font-size:26px;letter-spacing:.01em}}
+.links{{display:flex;gap:30px;font-size:15px;font-weight:600;color:var(--muted)}}
+.call{{background:var(--accent);color:var(--on);padding:11px 20px;border-radius:8px;font-weight:700;font-size:15px}}
+h1{{font-family:{disp};font-weight:{dw};line-height:.98;letter-spacing:-.015em}}
+.lede{{font-size:19px;line-height:1.55;color:var(--muted);max-width:36ch}}
+.cta{{display:inline-block;background:var(--accent);color:var(--on);padding:16px 26px;border-radius:10px;font-weight:700;font-size:17px}}
+.ghost{{display:inline-block;padding:16px 6px;font-weight:700;font-size:16px;border-bottom:2px solid currentColor}}
+.rate{{display:flex;align-items:center;gap:10px;font-size:14px;font-weight:600;color:var(--muted)}}
+.rate b{{font-family:{disp};font-size:30px;color:var(--ink)}}
+.rate i{{font-style:normal;color:#E7A912;letter-spacing:1px}}
+.gal{{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:0 56px 36px}}
+.gal figure{{border-radius:10px;overflow:hidden;background:var(--card)}}
+.gal div{{height:150px;background:center/cover}}
+.gal figcaption{{padding:11px 14px;font-weight:700;font-size:15px}}
+.quote{{background:var(--card);border-radius:12px;padding:20px 22px;font-size:16px;line-height:1.55}}
+.quote cite{{display:block;margin-top:8px;font-style:normal;font-size:13px;color:var(--muted);font-weight:600}}
+/* split */
+.split{{display:grid;grid-template-columns:1fr 1.05fr;gap:48px;padding:26px 56px 40px;align-items:center}}
+.split h1{{font-size:{h1}px}}
+.split .lede{{margin-top:22px}}
+.split .acts{{margin-top:30px;display:flex;gap:16px;align-items:center}}
+.split .rate{{margin-top:30px}}
+.photo{{height:470px;border-radius:16px;background:center/cover;position:relative}}
+.photo .quote{{position:absolute;left:-36px;bottom:26px;max-width:330px;box-shadow:0 20px 40px -20px rgba(0,0,0,.4)}}
+/* full */
+.full{{position:relative;height:600px;margin-top:-82px;background:center/cover;display:flex;align-items:flex-end}}
+.full:before{{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,0) 30%,rgba(0,0,0,.1) 50%,rgba(0,0,0,.78))}}
+.full .in{{position:relative;padding:0 56px 56px;color:#fff;display:flex;justify-content:space-between;align-items:flex-end;width:100%;gap:40px}}
+.full h1{{font-size:{h1}px}}
+.full .lede{{color:rgba(255,255,255,.9);margin-top:16px}}
+.full .acts{{margin-top:26px;display:flex;gap:16px;align-items:center}}
+.full .rate,.full .rate b{{color:#fff}}
+body.dark nav,body.fullnav nav{{color:#fff}}
+body.fullnav .links{{color:rgba(255,255,255,.85)}}
+.band{{display:flex;gap:0;padding:26px 56px 30px}}
+.band div{{flex:1;padding-right:20px;font-family:{disp};font-weight:{dw};font-size:22px;border-left:3px solid var(--accent);padding-left:14px}}
+@media (max-width:600px){{
+ nav{{padding:16px 18px}}.links{{display:none}}.logo{{font-size:21px}}.call{{padding:9px 13px;font-size:13px}}
+ .split{{grid-template-columns:1fr;padding:6px 18px 22px;gap:22px}}.split h1{{font-size:{h1m}px}}.lede{{font-size:16px}}
+ .split .acts{{flex-direction:column;align-items:stretch;text-align:center}}.ghost{{display:none}}
+ .photo{{height:250px}}.photo .quote{{display:none}}
+ .full{{height:560px;margin-top:-66px}}.full .in{{flex-direction:column;align-items:flex-start;padding:0 18px 26px;gap:18px}}.full h1{{font-size:{h1m}px}}
+ .full .acts{{flex-direction:column;align-items:stretch;text-align:center;width:100%}}
+ .gal{{grid-template-columns:1fr 1fr;padding:0 18px 20px;gap:10px}}.gal div{{height:110px}}
+ .band{{flex-direction:column;gap:12px;padding:18px}}
+}}
+</style></head><body class="{bodycls}">
+<nav><div class="logo">{logo}</div><div class="links">{links}</div><span class="call">{phone}</span></nav>
+{hero}
+{after}
+</body></html>"""
+
+def rate(L):
+    if not L.get("rt"): return ""
+    return f'<div class="rate"><b>{L["rt"]}</b><span><i>★★★★★</i><br>{L["rev"]} recenzija na Google-u</span></div>'
+
+def page(L):
+    e = html.escape
+    links = "".join(f"<span>{e(x)}</span>" for x in L["links"])
+    acts = f'<div class="acts"><span class="cta">{e(L["cta"])}</span><span class="ghost">{e(L["cta2"])}</span></div>'
+    q = f'<div class="quote">„{e(L["quote"])}“<cite>{e(L["qby"])}</cite></div>'
+    if L["layout"] == "split":
+        hero = (f'<section class="split"><div><h1>{L["h1"]}</h1><p class="lede">{e(L["lede"])}</p>{acts}{rate(L)}</div>'
+                f'<div class="photo" style="background-image:url({{{{I0}}}})">{q}</div></section>')
+        cls = ""
+    else:
+        hero = (f'<section class="full" style="background-image:url({{{{I0}}}})"><div class="in"><div><h1>{L["h1"]}</h1>'
+                f'<p class="lede">{e(L["lede"])}</p>{acts}</div>{rate(L)}</div></section>')
+        cls = "fullnav"
+    if L.get("after") == "band":
+        after = '<div class="band">' + "".join(f"<div>{e(s)}</div>" for s in L["services"]) + "</div>"
+    else:
+        after = '<section class="gal" style="padding-top:28px">' + "".join(
+            f'<figure><div style="background-image:url({{{{I{i+1}}}}})"></div><figcaption>{e(s)}</figcaption></figure>'
+            for i, s in enumerate(L["services"][:4])) + "</section>"
+    return BASE.format(hero=hero, after=after, links=links, bodycls=cls, logo=L["logo"], phone=e(L["phone"]), **L["style"])
+
+if __name__ == "__main__":
+    for L in json.load(open(os.path.join(HERE, "leads.json"), encoding="utf-8")):
+        out = page(L)
+        assert "—" not in out and "–" not in out
+        open(os.path.join(HERE, "pages", L["slug"] + ".html"), "w", encoding="utf-8").write(out)
+        print("ok", L["slug"])

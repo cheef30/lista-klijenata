@@ -1,0 +1,16 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;height:100%;background:#C9C6BE;overflow:hidden;font-family:system-ui,sans-serif}
+.stage{position:absolute;left:50%;top:50%;width:1330px;height:690px;display:flex;align-items:center;gap:50px;transform-origin:center}
+.win{width:980px;height:684px;border-radius:12px;overflow:hidden;background:#F7F7F5;box-shadow:0 30px 60px -28px rgba(40,40,40,.55);flex:none}
+.bar{height:30px;display:flex;align-items:center;gap:7px;padding:0 12px}
+.bar i{width:10px;height:10px;border-radius:50%;display:block}
+.bar span{margin-left:40px;flex:1;max-width:640px;height:18px;border-radius:6px;background:#E7E6E2;font-size:11px;color:#4A5258;display:flex;align-items:center;padding-left:12px}
+.vp{width:980px;height:654px;overflow:hidden}
+.vp iframe{width:1440px;height:961px;border:0;transform:scale(.6806);transform-origin:0 0}
+.ph{width:300px;height:640px;border-radius:40px;background:#1E262B;padding:10px;box-shadow:0 30px 60px -26px rgba(30,30,30,.6);flex:none}
+.ph div{width:280px;height:620px;border-radius:31px;overflow:hidden}
+.ph iframe{width:390px;height:864px;border:0;transform:scale(.718);transform-origin:0 0}
+</style></head><body><div class="stage" id="st">
+<div class="win"><div class="bar"><i style="background:#E26A5A"></i><i style="background:#E8B84A"></i><i style="background:#6BBF6A"></i><span>{{DOMAIN}}</span></div><div class="vp"><iframe scrolling="no" srcdoc="{{SD}}"></iframe></div></div>
+<div class="ph"><div><iframe scrolling="no" srcdoc="{{SD}}"></iframe></div></div>
+</div><script>const s=Math.min(innerWidth/1420,innerHeight/740);document.getElementById('st').style.transform='translate(-50%,-50%) scale('+s+')';</script></body></html>

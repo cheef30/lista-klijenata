@@ -1,0 +1,123 @@
+[
+ {
+  "slug": "komarnici-roletne-ivan",
+  "layout": "split",
+  "logo": "Komarnici <span style=\"color:var(--accent)\">i roletne</span>",
+  "links": [
+   "Komarnici",
+   "Roletne",
+   "Popravke",
+   "Kontakt"
+  ],
+  "phone": "060 193 0660",
+  "h1": "Komarnici i roletne po meri vašeg prozora",
+  "lede": "Izrada, ugradnja i popravka u Beogradu. Dođemo na merenje, a boju uskladimo sa vašom stolarijom.",
+  "cta": "Zakažite merenje",
+  "cta2": "Pogledajte radove",
+  "rt": "5,0",
+  "rev": "120",
+  "quote": "Izuzetno stručan i profesionalan gospodin Ivan. Svaki problem zna da praktično reši.",
+  "qby": "Google recenzija",
+  "services": [
+   "Komarnici po meri",
+   "Komarnici za vrata",
+   "Plise komarnici",
+   "Roletne i popravke"
+  ],
+  "style": {
+   "gf": "Archivo:wght@400;600;700;800",
+   "body": "Archivo,sans-serif",
+   "disp": "Archivo,sans-serif",
+   "dw": "800",
+   "bg": "#F4F3EF",
+   "ink": "#1D2422",
+   "muted": "#56605B",
+   "accent": "#2D6A4F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "tauroll",
+  "layout": "full",
+  "logo": "Tauroll",
+  "links": [
+   "Roletne",
+   "Komarnici",
+   "Cenovnik",
+   "Kontakt"
+  ],
+  "phone": "065 668 7201",
+  "h1": "Roletne i komarnici iz naše proizvodnje",
+  "lede": "Sami pravimo i ugrađujemo roletne i komarnike, po meri i bez posrednika. Svetomira Đukića 39, Beograd.",
+  "cta": "Zatražite ponudu",
+  "cta2": "Cenovnik",
+  "rt": "5,0",
+  "rev": "5",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Spoljne roletne",
+   "Komarnici",
+   "Ugradnja po meri",
+   "Servis i popravke"
+  ],
+  "after": "gallery",
+  "style": {
+   "gf": "Barlow:wght@400;600;700;800",
+   "body": "Barlow,sans-serif",
+   "disp": "Barlow,sans-serif",
+   "dw": "800",
+   "bg": "#F2F1EE",
+   "ink": "#141414",
+   "muted": "#4E4E4E",
+   "accent": "#D7262E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "78",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "rolo011",
+  "layout": "split",
+  "logo": "Rolo 011",
+  "links": [
+   "Venecijaneri",
+   "Zebra zavese",
+   "Komarnici",
+   "PVC stolarija"
+  ],
+  "phone": "063 221 401",
+  "h1": "Zavese, roletne i komarnici za vaš stan",
+  "lede": "Venecijaneri, zebra zavese, komarnici i PVC stolarija po meri. Majstor dolazi na adresu u dogovoreno vreme.",
+  "cta": "Zakažite merenje",
+  "cta2": "Galerija radova",
+  "rt": "",
+  "rev": "23",
+  "quote": "Majstor Voja je stigao ubrzo po pozivu, u dogovoreno vreme.",
+  "qby": "Google recenzija",
+  "services": [
+   "Zebra zavese",
+   "PVC stolarija",
+   "Harmo vrata",
+   "Komarnici"
+  ],
+  "style": {
+   "gf": "DM+Serif+Display&family=DM+Sans:wght@400;500;700",
+   "body": "'DM Sans',sans-serif",
+   "disp": "'DM Serif Display',serif",
+   "dw": "400",
+   "bg": "#F6F2EC",
+   "ink": "#2A241F",
+   "muted": "#6B6158",
+   "accent": "#7A5C43",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "70",
+   "h1m": "42"
+  }
+ }
+]
