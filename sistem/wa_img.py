@@ -16,7 +16,7 @@ leads = {x["n"]: x for x in json.load(open(os.path.join(os.path.dirname(os.path.
 mode, name = sys.argv[1], sys.argv[2]
 L = leads[name]
 num = re.sub(r"\D","",L["tel"]).lstrip("0")
-if mode == "prep":
+if mode in ("prep","prepwa"):
     js = ("const m=document.querySelector('#main');const d=[...document.querySelectorAll('[role=dialog]')].map(x=>x.innerText.slice(0,50));"
           "if(!m){'NEMA WA '+d}else{const hdr=(m.querySelector('header')||{}).innerText||'';const pane=m.querySelector('[role=application]')||m;const n=pane.querySelectorAll('[role=row]').length;"
           f"if(!hdr.replace(/\\D/g,'').includes('{num}')){{'DRUGI CHAT '+hdr}}else if(n>1){{'VEC IMA PORUKA rows='+n}}else{{"
@@ -24,13 +24,12 @@ if mode == "prep":
           "window.__orig=window.__orig||HTMLInputElement.prototype.click;window.__pin=null;HTMLInputElement.prototype.click=function(){if(this.type==='file'){window.__pin=this;if(!this.isConnected){this.style.display='none';document.body.appendChild(this);}return;}return window.__orig.call(this)};"
           "const it=[...document.querySelectorAll('[role=menuitem]')].find(x=>/Photos/.test(x.innerText));it&&it.click();await new Promise(r=>setTimeout(r,800));HTMLInputElement.prototype.click=window.__orig;"
           "const ins=[...document.querySelectorAll('input[type=file]')];'SPREMNO rows='+n+' pin_index='+ins.indexOf(window.__pin)+' od '+ins.length}}}")
-    a = [{"name":"navigate","input":{"tabId":IMG,"url":REPO_RAW+slug(name)+".jpg"}},
+    a = ([] if mode=="prepwa" else [{"name":"navigate","input":{"tabId":IMG,"url":REPO_RAW+slug(name)+".jpg"}},
          {"name":"computer","input":{"tabId":IMG,"action":"wait","duration":2}},
-         {"name":"computer","input":{"tabId":IMG,"action":"screenshot"}},
-         {"name":"navigate","input":{"tabId":WA,"url":"https://web.whatsapp.com/send?phone=381"+num}},
+         {"name":"computer","input":{"tabId":IMG,"action":"screenshot"}}]) + [{"name":"navigate","input":{"tabId":WA,"url":"https://web.whatsapp.com/send?phone=381"+num}},
          {"name":"computer","input":{"tabId":WA,"action":"wait","duration":10}},
          {"name":"computer","input":{"tabId":WA,"action":"wait","duration":6}},
-         {"name":"javascript_tool","input":{"tabId":WA,"action":"javascript_exec","text":js}}]
+         {"name":"javascript_tool","input":{"tabId":WA,"action":"javascript_exec","text":js}},{"name":"find","input":{"tabId":WA,"query":"file input elements (type=file)"}}]
 else:
     msg = json.dumps(L["msg"], ensure_ascii=False)
     key = L["domain"]

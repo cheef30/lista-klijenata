@@ -160,5 +160,46 @@
    "h1": "80",
    "h1m": "44"
   }
+ },
+ {
+  "slug": "repic",
+  "layout": "full",
+  "logo": "Apartmani Repić",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Divčibare",
+   "Kontakt"
+  ],
+  "phone": "065 306 0190",
+  "h1": "Apartmani Repić na Divčibarama",
+  "lede": "Topli apartmani usred borove šume, na kratkoj šetnji do centra i ski staza. Rezervišite direktno kod nas.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,7",
+  "rev": "134",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Apartman 1",
+   "Apartman 2",
+   "Apartman 3",
+   "Kuća u šumi"
+  ],
+  "after": "gallery",
+  "style": {
+   "gf": "Bitter:wght@500;700&family=Nunito+Sans:wght@400;600;700",
+   "body": "'Nunito Sans',sans-serif",
+   "disp": "Bitter,serif",
+   "dw": "700",
+   "bg": "#F1F0EA",
+   "ink": "#1E2A22",
+   "muted": "#55625A",
+   "accent": "#2F5D3A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "72",
+   "h1m": "42"
+  }
  }
 ]
