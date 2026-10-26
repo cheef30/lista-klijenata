@@ -119,5 +119,46 @@
    "h1": "70",
    "h1m": "42"
   }
+ },
+ {
+  "slug": "roljic",
+  "layout": "full",
+  "logo": "Roljić <span style=\"font-weight:400;opacity:.8\">autoelektrika</span>",
+  "links": [
+   "Usluge",
+   "Za firme",
+   "Galerija",
+   "Kontakt"
+  ],
+  "phone": "063 334 208",
+  "h1": "Autoelektrika i klime, od 1994.",
+  "lede": "Dijagnostika najsavremenijom opremom i delovi na stanju, da vaš auto bude gotov odmah. Palih boraca 49, Jakovo.",
+  "cta": "Zakažite termin",
+  "cta2": "Kako do nas",
+  "rt": "4,9",
+  "rev": "503",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Autoelektrika",
+   "Auto klime",
+   "Dijagnostika",
+   "Delovi na stanju"
+  ],
+  "after": "gallery",
+  "style": {
+   "gf": "Saira:wght@400;600;700;800",
+   "body": "Saira,sans-serif",
+   "disp": "Saira,sans-serif",
+   "dw": "800",
+   "bg": "#111416",
+   "ink": "#F2F3F3",
+   "muted": "#A9B0B4",
+   "accent": "#E23B2E",
+   "on": "#FFFFFF",
+   "card": "#1C2124",
+   "h1": "80",
+   "h1m": "44"
+  }
  }
 ]
