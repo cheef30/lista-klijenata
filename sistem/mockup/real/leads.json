@@ -201,5 +201,46 @@
    "h1": "72",
    "h1m": "42"
   }
+ },
+ {
+  "slug": "belibor",
+  "layout": "full",
+  "logo": "Beli Bor",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Zlatibor",
+   "Kontakt"
+  ],
+  "phone": "066 600 0306",
+  "h1": "Beli Bor, apartmani na Zlatiboru",
+  "lede": "Svetli, novi apartmani na Zlatiboru. Pogledajte slobodne termine i rezervišite direktno kod nas, bez provizije.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,9",
+  "rev": "34",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Naša zgrada",
+   "Potkrovlje",
+   "Pogled na šumu",
+   "Spavaća soba"
+  ],
+  "after": "gallery",
+  "style": {
+   "gf": "Marcellus&family=Jost:wght@400;500;600",
+   "body": "Jost,sans-serif",
+   "disp": "Marcellus,serif",
+   "dw": "400",
+   "bg": "#F3EFE8",
+   "ink": "#1E2733",
+   "muted": "#5B6470",
+   "accent": "#1F3550",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
  }
 ]
