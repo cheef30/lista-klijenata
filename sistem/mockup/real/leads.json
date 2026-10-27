@@ -444,5 +444,45 @@
    "h1": "64",
    "h1m": "40"
   }
+ },
+ {
+  "slug": "grujic",
+  "layout": "full",
+  "logo": "Apartmani Grujić",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Lokacija",
+   "Kontakt"
+  ],
+  "phone": "063 465 737",
+  "h1": "Na samoj promenadi<br>Vrnjačke Banje",
+  "lede": "Novi, sređeni apartmani u centru Banje. Od vrata do šetališta je nekoliko koraka, a opet je mirno i tiho.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Pogledajte apartmane",
+  "rt": "4,9",
+  "rev": "50",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Spavaća soba",
+   "Kuhinja",
+   "Terasa",
+   "Kupatilo"
+  ],
+  "style": {
+   "gf": "DM+Serif+Display&family=Manrope:wght@400;600;700",
+   "body": "Manrope,sans-serif",
+   "disp": "\"DM Serif Display\",serif",
+   "dw": "400",
+   "bg": "#F3F1EE",
+   "ink": "#1F2430",
+   "muted": "#5A606B",
+   "accent": "#B8863B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
  }
 ]
