@@ -23,7 +23,7 @@ if mode in ("prep","prepwa"):
           "m.querySelector('footer button[aria-label=\"Attach\"]').click();await new Promise(r=>setTimeout(r,1500));"
           "window.__orig=window.__orig||HTMLInputElement.prototype.click;window.__pin=null;HTMLInputElement.prototype.click=function(){if(this.type==='file'){window.__pin=this;if(!this.isConnected){this.style.display='none';document.body.appendChild(this);}return;}return window.__orig.call(this)};"
           "const it=[...document.querySelectorAll('[role=menuitem]')].find(x=>/Photos/.test(x.innerText));it&&it.click();await new Promise(r=>setTimeout(r,800));HTMLInputElement.prototype.click=window.__orig;"
-          "const ins=[...document.querySelectorAll('input[type=file]')];out='SPREMNO rows='+n+' pin_index='+ins.indexOf(window.__pin)+' od '+ins.length}}}out")
+          "const ins=[...document.querySelectorAll('input[type=file]')];out='SPREMNO rows='+n+' pin_index='+ins.indexOf(window.__pin)+' od '+ins.length}}out")
     a = ([] if mode=="prepwa" else [{"name":"navigate","input":{"tabId":IMG,"url":REPO_RAW+slug(name)+".jpg"}},
          {"name":"computer","input":{"tabId":IMG,"action":"wait","duration":2}},
          {"name":"computer","input":{"tabId":IMG,"action":"screenshot"}}]) + [{"name":"navigate","input":{"tabId":WA,"url":"https://web.whatsapp.com/send?phone=381"+num}},

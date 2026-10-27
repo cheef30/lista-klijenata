@@ -1,3 +1,4 @@
+import re
 import os, json
 # -*- coding: utf-8 -*-
 import json
@@ -182,6 +183,8 @@ if os.path.exists('nova_lista.json'):
 
 if os.path.exists('sistem/kontakti.json'):
     for x in json.load(open('sistem/kontakti.json')):
+        _d8=lambda t: re.sub(r'\D','',t)[-8:]
+        out=[o for o in out if _d8(o['tel'].split('/')[0])!=_d8(x['tel'])]  # stari red (tura 3) zamenjuje novi kontakt
         nm = x['n'] if x['n'] not in {o['n'] for o in out} else x['n']+f" ({x['grad']})"
         out.append({"n":nm,"grad":x['grad'],"zona":"Obrenovac i okolina" if any(z in x['grad'] for z in OKOLINA) else "Ostatak Srbije",
                     "cat":x['cat'],"tel":x['tel'],"ig":"","sent":x['sent'],"note":(NAPOMENA.get(x['n']) or x['note']),

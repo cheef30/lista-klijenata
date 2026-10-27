@@ -56,7 +56,7 @@ body.fullnav .links{{color:rgba(255,255,255,.85)}}
  .split{{grid-template-columns:1fr;padding:6px 18px 22px;gap:22px}}.split h1{{font-size:{h1m}px}}.lede{{font-size:16px}}
  .split .acts{{flex-direction:column;align-items:stretch;text-align:center}}.ghost{{display:none}}
  .photo{{height:250px}}.photo .quote{{display:none}}
- .full{{height:560px;margin-top:-66px}}.full .in{{flex-direction:column;align-items:flex-start;padding:0 18px 26px;gap:18px}}.full h1{{font-size:{h1m}px}}
+ .full{{height:650px;margin-top:-66px}}.full:before{{background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,0) 22%,rgba(0,0,0,.35) 45%,rgba(0,0,0,.85))}}.full .in{{flex-direction:column;align-items:flex-start;padding:0 18px 26px;gap:18px}}.full h1{{font-size:{h1m}px}}
  .full .acts{{flex-direction:column;align-items:stretch;text-align:center;width:100%}}
  .gal{{grid-template-columns:1fr 1fr;padding:0 18px 20px;gap:10px}}.gal div{{height:110px}}
  .band{{flex-direction:column;gap:12px;padding:18px}}
