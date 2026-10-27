@@ -242,5 +242,207 @@
    "h1": "74",
    "h1m": "44"
   }
+ },
+ {
+  "slug": "banjaspa",
+  "layout": "full",
+  "logo": "Banja SPA",
+  "links": [
+   "Apartmani",
+   "Spa",
+   "Galerija",
+   "Kontakt"
+  ],
+  "phone": "063 222 041",
+  "h1": "Apartmani Banja SPA u Vrnjačkoj Banji",
+  "lede": "Apartmani sa đakuzijem i spa delom, za pravi odmor u Banji. Pogledajte slobodne termine i rezervišite direktno kod nas.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,5",
+  "rev": "212",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Naša zgrada",
+   "Sobe",
+   "Apartmani",
+   "Bašta"
+  ],
+  "after": "gallery",
+  "style": {
+   "gf": "Gilda+Display&family=Mulish:wght@400;600;700",
+   "body": "Mulish,sans-serif",
+   "disp": "'Gilda Display',serif",
+   "dw": "400",
+   "bg": "#F1F4F3",
+   "ink": "#17262A",
+   "muted": "#56676B",
+   "accent": "#1F5E63",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "72",
+   "h1m": "42"
+  }
+ },
+ {
+  "slug": "nikodijevic",
+  "layout": "split",
+  "logo": "Apartmani Nikodijević",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Sokobanja",
+   "Kontakt"
+  ],
+  "phone": "063 445 274",
+  "h1": "Apartmani Nikodijević u Sokobanji",
+  "lede": "Sređeni apartmani u Ulici Nikole Pašića 46. Javite datume i rezervišite direktno kod domaćina, bez posrednika.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,3",
+  "rev": "119",
+  "quote": "Godinama se vraćamo na isto mesto, to sve govori o apartmanima. Sve pohvale.",
+  "qby": "Slavoljub, Google recenzija",
+  "services": [
+   "Dnevni boravak",
+   "Apartmani",
+   "Kuhinja",
+   "Kupatilo"
+  ],
+  "style": {
+   "gf": "Lora:wght@500;600;700&family=Work+Sans:wght@400;500;600;700",
+   "body": "'Work Sans',sans-serif",
+   "disp": "Lora,serif",
+   "dw": "700",
+   "bg": "#F5F3EE",
+   "ink": "#1E2530",
+   "muted": "#5A6270",
+   "accent": "#24476B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "krstic",
+  "layout": "split",
+  "logo": "Apartmani Krstić",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Sokobanja",
+   "Kontakt"
+  ],
+  "phone": "063 369 913",
+  "h1": "Apartmani Krstić, Sokobanja",
+  "lede": "Prostrani apartmani sa terasom i dvorištem, a dobrodošli su i ljubimci. Rezervišite direktno kod domaćina Milana.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,5",
+  "rev": "43",
+  "quote": "Prelep, dobro opremljen apartman sa divnom terasom i dvorištem. Rezervišem za sledeću godinu.",
+  "qby": "Lidija, Google recenzija",
+  "services": [
+   "Spavaća soba",
+   "Dnevni boravak",
+   "Sobe",
+   "Kuhinja"
+  ],
+  "style": {
+   "gf": "Libre+Franklin:wght@400;600;800",
+   "body": "'Libre Franklin',sans-serif",
+   "disp": "'Libre Franklin',sans-serif",
+   "dw": "800",
+   "bg": "#F4F4EF",
+   "ink": "#1F271E",
+   "muted": "#5A6358",
+   "accent": "#3D6B2F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "dragan-na",
+  "layout": "full",
+  "logo": "Dragan-na",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Kopaonik",
+   "Kontakt"
+  ],
+  "phone": "064 861 3768",
+  "h1": "Apartmani Dragan-na na Kopaoniku",
+  "lede": "Topli apartmani u drvetu, u centru ski centra. Posle staza, pravo u toplo.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,5",
+  "rev": "43",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Spavaća soba",
+   "Dnevni boravak",
+   "Apartmani",
+   "Potkrovlje"
+  ],
+  "after": "gallery",
+  "style": {
+   "gf": "Alegreya+Sans:wght@400;500;800",
+   "body": "'Alegreya Sans',sans-serif",
+   "disp": "'Alegreya Sans',sans-serif",
+   "dw": "800",
+   "bg": "#F3F5F7",
+   "ink": "#16202B",
+   "muted": "#55606C",
+   "accent": "#1E3A5F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "80",
+   "h1m": "46"
+  }
+ },
+ {
+  "slug": "grgurevic",
+  "layout": "split",
+  "logo": "Apartmani Grgurević",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Vrnjačka Banja",
+   "Kontakt"
+  ],
+  "phone": "065 902 0333",
+  "h1": "Apartmani Grgurević, Vrnjačka Banja",
+  "lede": "Čisti i topli apartmani sa svim što vam treba za odmor u Banji. Javite datume i rezervišite direktno kod domaćina.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,7",
+  "rev": "63",
+  "quote": "Apartmani su izuzetno udobni, čisti i topli, sa svim što vam je potrebno za odmor.",
+  "qby": "Kristina, Google recenzija",
+  "services": [
+   "Naša kuća",
+   "Kuhinja",
+   "Apartmani",
+   "Vrnjačka Banja"
+  ],
+  "style": {
+   "gf": "Spectral:wght@500;600;700&family=Karla:wght@400;600;700",
+   "body": "Karla,sans-serif",
+   "disp": "Spectral,serif",
+   "dw": "700",
+   "bg": "#F5F2EC",
+   "ink": "#2A2420",
+   "muted": "#665D55",
+   "accent": "#2E5E4E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "40"
+  }
  }
 ]
