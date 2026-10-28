@@ -14,11 +14,14 @@ Ovo je uputstvo koje Claude prati svakog radnog dana. Sve se radi kroz Claude in
 - Auto škola Start, Kafeterija Mlin, Foto studio Lazarević (060 1499117), sačuvani kontakti.
 - Klima firme (konkurencija klijenta Pro Klima): TN-Frigo, Delta Frigo, Team Mont Plus, SZTR Termomontaža i ostale firme za kućne klime.
 - Stomatolozi (Stefan: imaju dovoljno posla).
+- Vrnjačka Banja (Stefan 28.10.: batali Vrnjačku Banju).
 - Svako ko je već u `data.json` (proveri po broju telefona, poslednjih 8 cifara).
 - Nikad dva puta isti broj. Posle greške ili prekida prvo otvori čet i proveri.
 
 ## Ciljna grupa
 Firme koje VEĆ imaju sajt, ali je loš: domen ne postoji (NXDOMAIN), "Account Suspended", sajt se ne otvara, zastareo dizajn, stock slike, slika koja nema veze sa firmom. Najbolje: link do mrtvog sajta stoji na Google mapama. Prvi pravi klijenti (Pro Klima, Boškova voda) bili su upravo ovakvi.
+Najbolji tipovi problema (proveravaju se brzo): domen sa mapa NXDOMAIN; sajt se ne otvara ni na http ni na https (www i bez www, proveri standalone navigate, `chromewebdata` posle http zna da bude lažna uzbuna); link vodi na portal (tara.rs, drina-reka.com, topsmestaj.com, mokragora.info, soko-banja.org); domen `.com.es` koji prebacuje na španski HotelMania; link vodi na tuđi sajt (agencija, prodaja stanova); free Wix; copyright 2013 i stari jQuery.
+Dobri regioni za smeštaj: Srebrno jezero, Fruška gora (Vrdnik, Irig), Mokra Gora, Bajina Bašta, Kladovo, Stara planina, Divčibare, Kopaonik.
 Dobre delatnosti: auto servisi, šlep, PVC/ALU stolarija, roletne, nekretnine, selidbe, smeštaj, sale, građevina. Prvo Obrenovac i okolina, pa Beograd i veći gradovi.
 
 ## Dnevni tok (5 do 8 poruka dnevno, radnim danima)
@@ -33,6 +36,7 @@ Dobre delatnosti: auto servisi, šlep, PVC/ALU stolarija, roletne, nekretnine, s
    - Fotografije sa Google mapa: na kartici firme klikni "Прикажи слике" i pokupi `lh3.googleusercontent.com/(p|gps-cs...)` linkove u `localStorage` na google.com (vidi `sistem/maps_photos.js`). Pregledaj ih u mreži (document.write sa `=w400`) i izaberi glavnu + 4 za galeriju. Linkovi NE idu kroz razgovor (dugački su), ostaju u localStorage taba.
    - Fotografije sa njihovog sajta: pokupi apsolutne URL-ove velikih slika (naturalWidth > 700).
    - Tekst i stil stranice: dodaj firmu u `sistem/mockup/real/leads.json` (layout `split` ili `full`, poseban font i boja za svaku firmu, pravi podaci: adresa, ocena, citat iz recenzije), pa `python3 sistem/mockup/real/gen_pages.py`, commit, push, uzmi commit sha.
+   - Brže, bez lepljenja dugih skripti: `window.KEY='kljuc';await eval(await (await fetch('https://raw.githubusercontent.com/cheef30/lista-klijenata/<sha>/sistem/mf2.js')).text())` (detalji+slike sa mapa), isto `me2.js` (pretraga) i `audit2.js` (brza provera sajta).
    - U Chrome tabu (google.com ili njihov domen) pokreni `sistem/compose.js` (popuni SHA, SLUG, KEY, PICK, DOM; DOM je predlog domena za novi sajt, npr. apartmaniime.rs): fetch `raw.githubusercontent.com/cheef30/lista-klijenata/<sha>/sistem/mockup/real/pages/<slug>.html`, zameni `{{I0}}..{{I4}}` linkovima slika (`=w1600`), fetch `wrap.html`, zameni `{{DOMAIN}}` i `{{SD}}` (escapovan HTML), `document.write`, pa postavi `#st` transform `translate(-50%,-50%) scale(min(innerWidth/1420, innerHeight/740))` (inline skripte se ne izvršavaju na google.com).
    - `hover` na donji desni ugao (da kursor ne bude na slici), pa PUN screenshot. Pogledaj ga pre slanja. Sitne greške (natpisi u galeriji) ispravi direktno u iframe-ovima pa ponovi screenshot.
 8. **Slanje (slika + tekst u jednoj poruci).** `sistem/tabs.json` sadrži id tabova (wa, img). Za svaku firmu:
@@ -40,6 +44,7 @@ Dobre delatnosti: auto servisi, šlep, PVC/ALU stolarija, roletne, nekretnine, s
    - `python3 sistem/wa_img.py prepwa "<ime>"` daje batch: otvara čet, proverava broj u zaglavlju i da u četu nema poruka (ako #main nije učitan, sačekaj još 8 s i ponovi), otvara "Photos & videos" input (presretanjem `HTMLInputElement.click`, da se ne otvori prozor za fajlove) i radi `find`. Screenshot primera mora biti PUN (bez `scale`, inače se šalje mutna slika).
    - `find` "file input elements" pa uzmi DRUGI ref (prvi je za nalepnice, sticker!).
    - `upload_image` sa id-jem screenshota i tim ref-om (mora pisati oko 70 KB ili više).
+   - Ako send vrati NEMA CAPTION POLJA, pregled slike još nije spreman: sačekaj 2 s i pokreni isti send JS ponovo (bez ponovnog uploada).
    - `python3 sistem/wa_img.py send "<ime>"` daje JS koji nalepi tekst u polje za opis, proveri da je upisan, klikne "Send 1 selected" i proveri da je poslato.
    - Raw linkovi uvek sa commit sha (raw.githubusercontent.com/.../main se kešira 5 min).
    - Pre screenshota slike ne klikći po img tabu (kursor ostaje na slici).
