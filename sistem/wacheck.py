@@ -4,5 +4,5 @@ js="const m=document.querySelector('#main');const d=[...document.querySelectorAl
 a=[]
 for n in sys.argv[1:]:
   n=n.lstrip('0')
-  a+=[{"name":"navigate","input":{"tabId":T,"url":"https://web.whatsapp.com/send?phone=381"+n}},{"name":"computer","input":{"tabId":T,"action":"wait","duration":10}},{"name":"computer","input":{"tabId":T,"action":"wait","duration":5}},{"name":"javascript_tool","input":{"tabId":T,"action":"javascript_exec","text":js}}]
+  a+=[{"name":"navigate","input":{"tabId":T,"url":"https://web.whatsapp.com/send?phone=381"+n}},{"name":"computer","input":{"tabId":T,"action":"wait","duration":10}},{"name":"computer","input":{"tabId":T,"action":"wait","duration":3}},{"name":"javascript_tool","input":{"tabId":T,"action":"javascript_exec","text":js}}]
 print(json.dumps(a))
