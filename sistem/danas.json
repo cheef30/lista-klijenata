@@ -138,7 +138,7 @@
   "slug": "smkop",
   "key": "sm apart",
   "pick": [
-   4,
+   9,
    1,
    8,
    2,
@@ -355,5 +355,68 @@
    3
   ],
   "msg": "Dobar dan, ja sam Stefan i pravim sajtove. Video sam Mladenović apartmane u Kladovu, 4,8 sa 175 recenzija, to je stvarno odličan rezultat.\n\nAli sajt sa Google mapa, mladenovic.com.es, vodi na španski sajt HotelMania, gde piše Alojamiento en Kladovo, pa domaći gosti teško da će tu nešto rezervisati.\n\nNapravio sam primer pravog sajta za vas, sa vašim fotografijama, šaljem sliku. Javite se ako vam se dopadne."
+ },
+ {
+  "n": "Moderna kuća VIP",
+  "grad": "Bajina Bašta",
+  "cat": "Smeštaj",
+  "tel": "0642724071",
+  "rt": "4,7",
+  "rev": "141",
+  "domain": "topsmestaj.com",
+  "ck": "topsmestaj.com",
+  "problem": "umesto sajta link ka portalu topsmestaj.com",
+  "slug": "modernakuca",
+  "key": "модерна",
+  "pick": [
+   8,
+   1,
+   5,
+   2,
+   6
+  ],
+  "msg": "Dobar dan, ja sam Stefan i pravim sajtove. Video sam Modernu kuću VIP kod Bajine Bašte, 4,7 sa 141 recenzijom, gosti pišu da je dvorište divno održavano i da su domaćini jako ljubazni.\n\nNa Google mapama umesto vašeg sajta stoji link ka portalu topsmestaj.com, gde je vaša kuća samo jedan oglas od mnogih.\n\nNapravio sam primer kako bi izgledao vaš sopstveni sajt, sa vašim fotografijama, šaljem sliku. Ako vam se svidi, javite se."
+ },
+ {
+  "n": "Apartman Ostojić",
+  "grad": "Mokra Gora",
+  "cat": "Smeštaj",
+  "tel": "0604445185",
+  "rt": "5,0",
+  "rev": "47",
+  "domain": "mokragora.info",
+  "ck": "mokragora.info",
+  "problem": "umesto sajta link ka portalu mokragora.info",
+  "slug": "ostojic",
+  "key": "ostoji",
+  "pick": [
+   7,
+   0,
+   8,
+   3,
+   9
+  ],
+  "msg": "Dobar dan, ja sam Stefan, pravim sajtove. Video sam Apartman Ostojić u Mokroj Gori, čista petica sa 47 recenzija, gosti pišu o kućici pored potoka, okruženoj velikim dvorištem i mirom.\n\nNa Google mapama umesto vašeg sajta vodi link na portal mokragora.info, gde ste jedan od mnogo objekata.\n\nNapravio sam primer kako bi izgledao vaš sajt, sa vašim fotografijama, šaljem sliku. Javite se ako vam se svidi."
+ },
+ {
+  "n": "Arielove kolibe",
+  "grad": "Mokra Gora",
+  "cat": "Smeštaj",
+  "tel": "0604800324",
+  "rt": "5,0",
+  "rev": "52",
+  "domain": "tara.rs",
+  "ck": "tara.rs",
+  "problem": "umesto sajta link ka portalu tara.rs",
+  "slug": "ariel",
+  "key": "ariel",
+  "pick": [
+   3,
+   6,
+   5,
+   2,
+   0
+  ],
+  "msg": "Dobar dan, ja sam Stefan i pravim sajtove. Video sam Arielove kolibe u Mokroj Gori, čista petica sa 52 recenzije, gosti pišu da ih domaćin dočeka sa kafom i domaćom rakijom i da je kod vas mir i tišina.\n\nNa Google mapama umesto vašeg sajta stoji link ka portalu tara.rs, gde ste samo jedan oglas među mnogo drugih.\n\nNapravio sam primer kako bi izgledao vaš sajt, sa vašim fotografijama, šaljem sliku. Ako vam se svidi, javite se."
  }
 ]

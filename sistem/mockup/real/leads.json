@@ -1164,5 +1164,125 @@
    "h1": "70",
    "h1m": "40"
   }
+ },
+ {
+  "slug": "modernakuca",
+  "layout": "full",
+  "logo": "Moderna kuća VIP",
+  "links": [
+   "Kuća",
+   "Bazen",
+   "Okolina",
+   "Kontakt"
+  ],
+  "phone": "064 272 4071",
+  "h1": "Kuća sa bazenom<br>kod Bajine Bašte",
+  "lede": "Prostrana kuća za veće društvo, sa bazenom i dvorištem punim hlada. Bajina Bašta je na par minuta.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Pogledajte kuću",
+  "rt": "4,7",
+  "rev": "141",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Soba",
+   "Enterijer",
+   "Kuća",
+   "Pogled"
+  ],
+  "style": {
+   "gf": "Outfit:wght@500;700&family=Outfit:wght@400;600",
+   "body": "Outfit,sans-serif",
+   "disp": "Outfit,sans-serif",
+   "dw": "700",
+   "bg": "#F2F5F4",
+   "ink": "#15211E",
+   "muted": "#52605C",
+   "accent": "#1F7A6B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "42"
+  }
+ },
+ {
+  "slug": "ostojic",
+  "layout": "full",
+  "logo": "Apartman Ostojić",
+  "links": [
+   "Kućica",
+   "Galerija",
+   "Mokra Gora",
+   "Kontakt"
+  ],
+  "phone": "060 444 5185",
+  "h1": "Kućica pored potoka<br>u Mokroj Gori",
+  "lede": "Mir, veliko dvorište i potok na par koraka. Idealno za porodice i odmor od grada.",
+  "cta": "Proverite termine",
+  "cta2": "Galerija",
+  "rt": "5,0",
+  "rev": "47",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Enterijer",
+   "Spavaća soba",
+   "Dnevni deo",
+   "Priroda"
+  ],
+  "style": {
+   "gf": "Lora:wght@600;700&family=Nunito+Sans:wght@400;600;700",
+   "body": "\"Nunito Sans\",sans-serif",
+   "disp": "Lora,serif",
+   "dw": "700",
+   "bg": "#F4F3EE",
+   "ink": "#1F2419",
+   "muted": "#5C6352",
+   "accent": "#6B7F3A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "72",
+   "h1m": "42"
+  }
+ },
+ {
+  "slug": "ariel",
+  "layout": "full",
+  "logo": "Arielove kolibe",
+  "links": [
+   "Kolibe",
+   "Galerija",
+   "Mokra Gora",
+   "Kontakt"
+  ],
+  "phone": "060 480 0324",
+  "h1": "Arielove kolibe,<br>Mokra Gora",
+  "lede": "Drvene kolibe u centru Mokre Gore, okružene zelenilom. Dočekaćemo vas uz kafu i domaću rakiju.",
+  "cta": "Rezervišite kolibu",
+  "cta2": "Kolibe",
+  "rt": "5,0",
+  "rev": "52",
+  "quote": "",
+  "qby": "",
+  "services": [
+   "Spavaća soba",
+   "Koliba",
+   "Priroda",
+   "Pogled"
+  ],
+  "style": {
+   "gf": "Marcellus&family=Work+Sans:wght@400;600;700",
+   "body": "\"Work Sans\",sans-serif",
+   "disp": "Marcellus,serif",
+   "dw": "400",
+   "bg": "#F5F1EA",
+   "ink": "#24190F",
+   "muted": "#64584A",
+   "accent": "#9A5B2E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
  }
 ]

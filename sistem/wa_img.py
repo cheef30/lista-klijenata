@@ -19,7 +19,7 @@ num = re.sub(r"\D","",L["tel"]).lstrip("0")
 if mode in ("prep","prepwa"):
     js = ("const m=document.querySelector('#main');const d=[...document.querySelectorAll('[role=dialog]')].map(x=>x.innerText.slice(0,50));"
           "let out;if(!m){out='NEMA WA '+d}else{const hdr=(m.querySelector('header')||{}).innerText||'';const pane=m.querySelector('[role=application]')||m;const n=pane.querySelectorAll('[role=row]').length;"
-          f"if(!hdr.replace(/\\D/g,'').includes('{num}')){{out='DRUGI CHAT '+hdr}}else if(n>1){{out='VEC IMA PORUKA rows='+n}}else{{"
+          f"const dg=hdr.replace(/\\D/g,'');if(dg.length>5&&!dg.includes('{num}')){{out='DRUGI CHAT '+hdr}}else if(n>1){{out='VEC IMA PORUKA rows='+n}}else{{"
           "m.querySelector('footer button[aria-label=\"Attach\"]').click();await new Promise(r=>setTimeout(r,1500));"
           "window.__orig=window.__orig||HTMLInputElement.prototype.click;window.__pin=null;HTMLInputElement.prototype.click=function(){if(this.type==='file'){window.__pin=this;if(!this.isConnected){this.style.display='none';document.body.appendChild(this);}return;}return window.__orig.call(this)};"
           "const it=[...document.querySelectorAll('[role=menuitem]')].find(x=>/Photos/.test(x.innerText));it&&it.click();await new Promise(r=>setTimeout(r,800));HTMLInputElement.prototype.click=window.__orig;"
@@ -28,13 +28,13 @@ if mode in ("prep","prepwa"):
          {"name":"computer","input":{"tabId":IMG,"action":"wait","duration":2}},
          {"name":"computer","input":{"tabId":IMG,"action":"screenshot"}}]) + [{"name":"navigate","input":{"tabId":WA,"url":"https://web.whatsapp.com/send?phone=381"+num}},
          {"name":"computer","input":{"tabId":WA,"action":"wait","duration":10}},
-         {"name":"computer","input":{"tabId":WA,"action":"wait","duration":6}},
+         {"name":"computer","input":{"tabId":WA,"action":"wait","duration":4}},
          {"name":"javascript_tool","input":{"tabId":WA,"action":"javascript_exec","text":js}},{"name":"find","input":{"tabId":WA,"query":"file input elements (type=file)"}}]
 else:
     msg = json.dumps(L["msg"], ensure_ascii=False)
     key = L.get("ck") or L["domain"]  # ck: tekst koji sigurno postoji u poruci
     js = (f"const msg={msg};let out;const hdr=document.querySelector('#main header').innerText;"
-          f"if(!hdr.replace(/\\D/g,'').includes('{num}')){{out='DRUGI CHAT'}}else{{"
+          f"const dg=hdr.replace(/\\D/g,'');if(dg.length>5&&!dg.includes('{num}')){{out='DRUGI CHAT'}}else{{"
           "const cap=[...document.querySelectorAll('[contenteditable=true]')].find(e=>!e.closest('#main footer'));"
           "if(!cap){out='NEMA CAPTION POLJA'}else{cap.focus();const dt=new DataTransfer();dt.setData('text/plain',msg);cap.dispatchEvent(new ClipboardEvent('paste',{clipboardData:dt,bubbles:true,cancelable:true}));await new Promise(r=>setTimeout(r,900));"
           f"if(!cap.innerText.includes('{key}')){{out='CAPTION NIJE UPISAN'}}else{{const b=[...document.querySelectorAll('[aria-label^=\"Send \"]')].find(e=>/selected/.test(e.getAttribute('aria-label')));b.click();await new Promise(r=>setTimeout(r,6000));"
