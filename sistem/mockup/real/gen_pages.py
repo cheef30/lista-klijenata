@@ -31,6 +31,16 @@ h1{{font-family:{disp};font-weight:{dw};line-height:.98;letter-spacing:-.015em}}
 .gal figcaption{{padding:11px 14px;font-weight:700;font-size:15px}}
 .quote{{background:var(--card);border-radius:12px;padding:20px 22px;font-size:16px;line-height:1.55}}
 .quote cite{{display:block;margin-top:8px;font-style:normal;font-size:13px;color:var(--muted);font-weight:600}}
+.bar{{position:relative;z-index:3;margin:-46px 56px 0;background:var(--card);border-radius:14px;display:grid;grid-template-columns:1fr 1fr 1fr auto;box-shadow:0 22px 44px -24px rgba(0,0,0,.45)}}
+.bar div{{padding:16px 22px;border-right:1px solid rgba(0,0,0,.08)}}
+.bar small{{display:block;font-size:12px;font-weight:700;color:var(--muted);margin-bottom:3px;text-transform:uppercase;letter-spacing:.04em}}
+.bar strong{{font-size:16px;font-weight:600}}
+.bar a{{background:var(--accent);color:var(--on);margin:9px;border-radius:10px;display:flex;align-items:center;padding:0 26px;font-weight:700;font-size:15px}}
+.revs{{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;padding:0 56px 40px}}
+.revs h3{{grid-column:1/-1;font-family:{disp};font-weight:{dw};font-size:28px;margin-bottom:2px}}
+.revs div{{background:var(--card);border-radius:12px;padding:18px 20px;font-size:15px;line-height:1.5}}
+.revs div:before{{content:"★★★★★";display:block;color:#E7A912;letter-spacing:2px;font-size:13px;margin-bottom:6px}}
+.revs cite{{display:block;margin-top:8px;font-style:normal;font-size:13px;color:var(--muted);font-weight:700}}
 /* split */
 .split{{display:grid;grid-template-columns:1fr 1.05fr;gap:48px;padding:26px 56px 40px;align-items:center}}
 .split h1{{font-size:{h1}px}}
@@ -40,7 +50,7 @@ h1{{font-family:{disp};font-weight:{dw};line-height:.98;letter-spacing:-.015em}}
 .photo{{height:470px;border-radius:16px;background:center/cover;position:relative}}
 .photo .quote{{position:absolute;left:-36px;bottom:26px;max-width:330px;box-shadow:0 20px 40px -20px rgba(0,0,0,.4)}}
 /* full */
-.full{{position:relative;height:600px;margin-top:-82px;background:center/cover;display:flex;align-items:flex-end}}
+.full{{position:relative;height:var(--fh,600px);margin-top:-82px;background:center/cover;display:flex;align-items:flex-end}}
 .full:before{{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,0) 30%,rgba(0,0,0,.1) 50%,rgba(0,0,0,.78))}}
 .full .in{{position:relative;padding:0 56px 56px;color:#fff;display:flex;justify-content:space-between;align-items:flex-end;width:100%;gap:40px}}
 .full h1{{font-size:{h1}px}}
@@ -60,11 +70,16 @@ body.fullnav .links{{color:rgba(255,255,255,.85)}}
  .full .acts{{flex-direction:column;align-items:stretch;text-align:center;width:100%}}
  .gal{{grid-template-columns:1fr 1fr;padding:0 18px 20px;gap:10px}}.gal div{{height:110px}}
  .band{{flex-direction:column;gap:12px;padding:18px}}
+ .bar{{margin:-40px 16px 0;grid-template-columns:1fr 1fr}}.bar div:nth-child(3){{display:none}}.bar a{{grid-column:1/3;justify-content:center;padding:13px}}
+ .revs{{grid-template-columns:1fr;padding:0 18px 24px}}.revs div:nth-child(n+3){{display:none}}.revs h3{{font-size:22px}}
+
 }}
-</style></head><body class="{bodycls}">
+</style></head><body class="{bodycls}" style="--fh:{fh}">
 <nav><div class="logo">{logo}</div><div class="links">{links}</div><span class="call">{phone}</span></nav>
 {hero}
+{bar}
 {after}
+{revs}
 </body></html>"""
 
 def rate(L):
@@ -90,7 +105,19 @@ def page(L):
         after = '<section class="gal" style="padding-top:28px">' + "".join(
             f'<figure><div style="background-image:url({{{{I{i+1}}}}})"></div><figcaption>{e(s)}</figcaption></figure>'
             for i, s in enumerate(L["services"][:4])) + "</section>"
-    return BASE.format(hero=hero, after=after, links=links, bodycls=cls, logo=L["logo"], phone=e(L["phone"]), **L["style"])
+    bar = ''
+    if L.get('book'):
+        b = L['book']
+        bar = (f'<div class="bar"><div><small>Dolazak</small><strong>{e(b[0])}</strong></div><div><small>Odlazak</small><strong>{e(b[1])}</strong></div>'
+               f'<div><small>Gosti</small><strong>{e(b[2])}</strong></div><a>{e(b[3])}</a></div>')
+        after = after.replace('padding-top:28px','padding-top:30px')
+    revs = ''
+    if L.get('reviews'):
+        revs = '<section class="revs"><h3>' + e(L.get('revh','Šta kažu gosti')) + '</h3>' + ''.join(
+            f'<div>„{e(t)}“<cite>{e(by)}</cite></div>' for t, by in L['reviews'][:3]) + '</section>'
+    if L.get('fh'):
+        hero = hero.replace('<section class="full"', f'<section class="full" data-x="1"', 1)
+    return BASE.format(hero=hero, after=after, bar=bar, revs=revs, links=links, bodycls=cls, logo=L["logo"], phone=e(L["phone"]), fh=L.get('fh','600px'), **L["style"])
 
 if __name__ == "__main__":
     for L in json.load(open(os.path.join(HERE, "leads.json"), encoding="utf-8")):

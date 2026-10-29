@@ -1284,5 +1284,925 @@
    "h1": "76",
    "h1m": "44"
   }
+ },
+ {
+  "slug": "randj",
+  "layout": "split",
+  "logo": "Apartmani Ranđelović",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Sokobanja",
+   "Kontakt"
+  ],
+  "phone": "063 760 0011",
+  "h1": "Apartmani Ranđelović,<br>Sokobanja",
+  "lede": "Udobni apartmani nekoliko minuta od centra Sokobanje. Domaćin je uvek dostupan i tu za sve što vam treba.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartmani",
+  "rt": "4,6",
+  "rev": "208",
+  "quote": "Svaka preporuka! Odličan smeštaj, ljubazni vlasnik.",
+  "qby": "Nenad, Google recenzija",
+  "services": [
+   "Spavaća soba",
+   "Dnevna soba",
+   "Objekat",
+   "Sokobanja noću"
+  ],
+  "reviews": [
+   [
+    "Sve preporuke! Ljubaznost, udoban i prijatan smeštaj.",
+    "Dušan"
+   ],
+   [
+    "Very nice apartments, center is near.",
+    "Aleksandra"
+   ],
+   [
+    "Apartman je prostran, stanodavci su ljubazni, blizu centra.",
+    "Željka"
+   ]
+  ],
+  "style": {
+   "gf": "Lora:wght@600;700&family=Nunito+Sans:wght@400;600;700",
+   "body": "\"Nunito Sans\",sans-serif",
+   "disp": "Lora,serif",
+   "dw": "700",
+   "bg": "#F5F3EF",
+   "ink": "#22201C",
+   "muted": "#625C54",
+   "accent": "#8C3B2E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "kovilje",
+  "layout": "split",
+  "logo": "Vila Kovilje",
+  "links": [
+   "Apartmani",
+   "Restoran",
+   "Banja Koviljača",
+   "Kontakt"
+  ],
+  "phone": "063 771 7247",
+  "h1": "Vila Kovilje,<br>Banja Koviljača",
+  "lede": "Čisti i opremljeni apartmani sa sopstvenim parkingom i garažom, uz domaću kuhinju. Rezervišite direktno.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,7",
+  "rev": "168",
+  "quote": "Smeštaj odličan, apartman čist, opremljen sa svim što je potrebno. Hrana je super.",
+  "qby": "Zorica, Google recenzija",
+  "services": [
+   "Objekat",
+   "Dnevni boravak",
+   "Kupatilo",
+   "Banja Koviljača"
+  ],
+  "reviews": [
+   [
+    "Dragan is a wonderful and helpful host and made our stay extremely comfortable.",
+    "Marina"
+   ],
+   [
+    "Wonderful apartments. Very clean and tidy.",
+    "Anđela"
+   ],
+   [
+    "Svaka preporuka. Zgrada ima svoj parking i garažu.",
+    "Zorica"
+   ]
+  ],
+  "style": {
+   "gf": "Playfair+Display:wght@600;700&family=Lato:wght@400;700",
+   "body": "Lato,sans-serif",
+   "disp": "\"Playfair Display\",serif",
+   "dw": "700",
+   "bg": "#F4F2EE",
+   "ink": "#1E2228",
+   "muted": "#5C626B",
+   "accent": "#2F5D62",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "62",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "atrijum",
+  "layout": "split",
+  "logo": "Atrijum Apartmani",
+  "links": [
+   "Sobe",
+   "Apartmani",
+   "Kladovo",
+   "Kontakt"
+  ],
+  "phone": "061 200 5757",
+  "h1": "Atrijum apartmani,<br>Kladovo",
+  "lede": "Čiste klimatizovane sobe i apartmani, par minuta šetnje od centra i Dunava. Rezervišite direktno kod nas.",
+  "cta": "Rezervišite sobu",
+  "cta2": "Cenovnik",
+  "rt": "4,7",
+  "rev": "469",
+  "quote": "Nice clean rooms, good place and Sanya very helpful!",
+  "qby": "Dorin, Google recenzija",
+  "services": [
+   "Soba",
+   "Apartman",
+   "Kupatilo",
+   "Objekat"
+  ],
+  "reviews": [
+   [
+    "The apartments are clean and tidy. Air-conditioned with a neat bathroom, fridge and TV.",
+    "Zlatko"
+   ],
+   [
+    "Cleaner and more friendly staff than the hotels I have stayed in so far.",
+    "Ali"
+   ],
+   [
+    "Nice clean rooms, good place and Sanya very helpful!",
+    "Dorin"
+   ]
+  ],
+  "style": {
+   "gf": "Sora:wght@600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "Sora,sans-serif",
+   "dw": "700",
+   "bg": "#F2F4F6",
+   "ink": "#161C22",
+   "muted": "#56606B",
+   "accent": "#1D6F8F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "62",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "ninas",
+  "layout": "split",
+  "logo": "Apartmani Nina S",
+  "links": [
+   "Apartmani",
+   "Terasa",
+   "Bajina Bašta",
+   "Kontakt"
+  ],
+  "phone": "060 200 0234",
+  "h1": "Apartmani Nina S,<br>Bajina Bašta",
+  "lede": "Čisti i mirisni apartmani blizu grada, sa terasom na krovu i pogledom koji se pamti.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartmani",
+  "rt": "4,9",
+  "rev": "39",
+  "quote": "Smeštaj je odličan, čist, uredan, sa terasom na krovu. Sa nje se pruža prelep pogled.",
+  "qby": "Nada, Google recenzija",
+  "services": [
+   "Soba",
+   "Apartman",
+   "Kuhinja",
+   "Kuća"
+  ],
+  "reviews": [
+   [
+    "Divni ljudi, baka koja se uvek smeši i dočekuje nas. Čisto, udobno, lepo uređeno.",
+    "Aleksandra"
+   ],
+   [
+    "Fino, čisto. Ljubazna domaćica. Sve preporuke.",
+    "Limun"
+   ],
+   [
+    "Divno iskustvo, sve je bilo savršeno!",
+    "Tijana"
+   ]
+  ],
+  "style": {
+   "gf": "Cormorant+Garamond:wght@600;700&family=Manrope:wght@400;600;700",
+   "body": "Manrope,sans-serif",
+   "disp": "\"Cormorant Garamond\",serif",
+   "dw": "700",
+   "bg": "#F7F3EE",
+   "ink": "#2A2119",
+   "muted": "#6A5E52",
+   "accent": "#B0603A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "70",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "bb",
+  "layout": "full",
+  "logo": "Apartment BB",
+  "links": [
+   "Apartman",
+   "Galerija",
+   "Drina",
+   "Kontakt"
+  ],
+  "phone": "065 867 8888",
+  "h1": "Apartment BB<br>na Drini",
+  "lede": "Luksuzno opremljen apartman u Bajinoj Bašti, idealan za porodice. Kućica na steni je na par minuta.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "5,0",
+  "rev": "72",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Spavaća soba",
+   "Dnevni boravak",
+   "Kuhinja",
+   "Pogled"
+  ],
+  "reviews": [
+   [
+    "The host was truly one of the best we have ever had.",
+    "Eric"
+   ],
+   [
+    "Biljana is a superb host.",
+    "C."
+   ],
+   [
+    "We stayed with 2 small kids and the apartment is top class.",
+    "Katarina"
+   ]
+  ],
+  "style": {
+   "gf": "DM+Serif+Display&family=Manrope:wght@400;600;700",
+   "body": "Manrope,sans-serif",
+   "disp": "\"DM Serif Display\",serif",
+   "dw": "400",
+   "bg": "#F3F5F6",
+   "ink": "#16212A",
+   "muted": "#56636D",
+   "accent": "#1E6C8E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "golo",
+  "layout": "full",
+  "logo": "Brvnare Golo Brdo",
+  "links": [
+   "Brvnare",
+   "Galerija",
+   "Mokra Gora",
+   "Kontakt"
+  ],
+  "phone": "066 902 0197",
+  "h1": "Cela brvnara<br>samo za vas",
+  "lede": "Mir, planinski pogled i veliko dvorište u kom se deca igraju satima. Mokra Gora, daleko od gradske gužve.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Brvnare",
+  "rt": "5,0",
+  "rev": "24",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Dnevni boravak",
+   "Spavaća soba",
+   "Zima",
+   "Kuhinja"
+  ],
+  "reviews": [
+   [
+    "Divno mesto za opuštanje. Dete se igralo satima u prelepom dvorištu.",
+    "Kristina"
+   ],
+   [
+    "Predivno! Prelepa priroda, divni domaćini!",
+    "Tamara"
+   ],
+   [
+    "You get a whole house for yourself, with an amazing view.",
+    "Tomo"
+   ]
+  ],
+  "style": {
+   "gf": "Bitter:wght@600;700&family=Source+Sans+3:wght@400;600;700",
+   "body": "\"Source Sans 3\",sans-serif",
+   "disp": "Bitter,serif",
+   "dw": "700",
+   "bg": "#F6F2EB",
+   "ink": "#2A1D12",
+   "muted": "#6B5A49",
+   "accent": "#8A4B22",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "vilaiva",
+  "layout": "split",
+  "logo": "Vila Iva",
+  "links": [
+   "Sobe",
+   "Galerija",
+   "Banja Vrujci",
+   "Kontakt"
+  ],
+  "phone": "064 646 6852",
+  "h1": "Vila Iva,<br>Banja Vrujci",
+  "lede": "Čiste sobe i apartmani u centru Banje, tri minuta hoda od bazena. Primamo i vaučere.",
+  "cta": "Rezervišite sobu",
+  "cta2": "Sobe",
+  "rt": "4,7",
+  "rev": "116",
+  "quote": "Smeštaj je na 3 minuta hoda od bazena, domaćini su više nego ljubazni.",
+  "qby": "Ljubica, Google recenzija",
+  "services": [
+   "Soba",
+   "Apartman",
+   "Bazeni",
+   "Kupatilo"
+  ],
+  "reviews": [
+   [
+    "Veoma smo zadovoljni smeštajem, čistoćom na najvišem nivou i ljubaznošću domaćina.",
+    "Daca"
+   ],
+   [
+    "Obezbjedite sebi smještaj u Ivi i nećete pogriješiti.",
+    "Sarajlije"
+   ],
+   [
+    "Great host and nice rooms.",
+    "Kontra"
+   ]
+  ],
+  "style": {
+   "gf": "Josefin+Sans:wght@600;700&family=Mulish:wght@400;600;700",
+   "body": "Mulish,sans-serif",
+   "disp": "\"Josefin Sans\",sans-serif",
+   "dw": "700",
+   "bg": "#F2F5F7",
+   "ink": "#18222B",
+   "muted": "#56636E",
+   "accent": "#C2552D",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "62",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "kutak",
+  "layout": "full",
+  "logo": "Planinski kutak",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Tara",
+   "Kontakt"
+  ],
+  "phone": "064 234 4687",
+  "h1": "Planinski kutak<br>na Tari",
+  "lede": "Topli i ušuškani apartmani na Mitrovcu, okruženi livadama i šumom. Puno prostora za decu, leti i zimi.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "65",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Dnevni boravak",
+   "Enterijer",
+   "Zima",
+   "Jutarnja kafa"
+  ],
+  "reviews": [
+   [
+    "Incredibly beautiful place! It was very warm, clean, and cozy.",
+    "Jovana"
+   ],
+   [
+    "Rooftop apartment is cozy, warm in winter. Everything is as on photos.",
+    "Mirjana"
+   ],
+   [
+    "Family place with loads of space for kids.",
+    "Nikola"
+   ]
+  ],
+  "style": {
+   "gf": "Marcellus&family=Work+Sans:wght@400;600;700",
+   "body": "\"Work Sans\",sans-serif",
+   "disp": "Marcellus,serif",
+   "dw": "400",
+   "bg": "#F3F4EF",
+   "ink": "#1C2219",
+   "muted": "#5A6253",
+   "accent": "#4F6F3A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "dila",
+  "layout": "full",
+  "logo": "Vila kod Dila",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Mitrovac",
+   "Kontakt"
+  ],
+  "phone": "065 226 7321",
+  "h1": "Vila kod Dila,<br>Mitrovac na Tari",
+  "lede": "Lepi, uredni apartmani različitih veličina, svež vazduh i staze za šetnju. Domaćin vas čeka sa rakijom.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,9",
+  "rev": "123",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Spavaća soba",
+   "Tara",
+   "Zima",
+   "Terasa"
+  ],
+  "reviews": [
+   [
+    "Najbolje mesto na planeti Zemlji. Lepi uredni apartmani, domaćini odlični.",
+    "Saša"
+   ],
+   [
+    "Odlični domaćini, ljubazni i uvek na usluzi!",
+    "Kristina"
+   ],
+   [
+    "Beautiful location and great hospitality!",
+    "Vedrana"
+   ]
+  ],
+  "style": {
+   "gf": "Fraunces:wght@500;700&family=Inter:wght@400;600;700",
+   "body": "Inter,sans-serif",
+   "disp": "Fraunces,serif",
+   "dw": "600",
+   "bg": "#F4F4F0",
+   "ink": "#1B231E",
+   "muted": "#58625B",
+   "accent": "#2F6B4F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "zorica",
+  "layout": "split",
+  "logo": "Vila Zorica",
+  "links": [
+   "Sobe",
+   "Galerija",
+   "Ribarska Banja",
+   "Kontakt"
+  ],
+  "phone": "062 802 5964",
+  "h1": "Vila Zorica,<br>Ribarska Banja",
+  "lede": "Povoljne i uredne sobe na Jastrepcu, sa baštom na žuborećem potoku. Kod nas se osećate kao kod rođaka.",
+  "cta": "Rezervišite sobu",
+  "cta2": "Sobe",
+  "rt": "4,6",
+  "rev": "77",
+  "quote": "Osoblje je tako ljubazno, kao da ste kod rođaka. Hladna bašta na žuborećem potoku.",
+  "qby": "Zora, Google recenzija",
+  "services": [
+   "Soba",
+   "Domaća trpeza",
+   "Apartman",
+   "Bašta"
+  ],
+  "reviews": [
+   [
+    "Super povoljni smeštaj i ljubazni vlasnici! Sve preporuke!",
+    "Bojan"
+   ],
+   [
+    "Uslovi u Vili Zorica su odlični. Domaćini su bili veoma ljubazni.",
+    "Branislav"
+   ],
+   [
+    "Very nice people, decent room, low cost, great location.",
+    "Elias"
+   ]
+  ],
+  "style": {
+   "gf": "Spectral:wght@600;700&family=Karla:wght@400;600;700",
+   "body": "Karla,sans-serif",
+   "disp": "Spectral,serif",
+   "dw": "700",
+   "bg": "#F6F3EC",
+   "ink": "#25201A",
+   "muted": "#655C50",
+   "accent": "#7A5A2E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "62",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "breg",
+  "layout": "full",
+  "logo": "Sunčani Breg",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Mitrovac",
+   "Kontakt"
+  ],
+  "phone": "064 847 5249",
+  "h1": "Sunčani Breg,<br>Mitrovac na Tari",
+  "lede": "Moderni i čisti apartmani u samom centru Mitrovca, sa najboljim odnosom cene i kvaliteta na planini.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Apartmani",
+  "rt": "4,9",
+  "rev": "50",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Apartman",
+   "Potkrovlje",
+   "Terasa",
+   "Kuća"
+  ],
+  "reviews": [
+   [
+    "Sve je uredno, čisto, moderno i izuzetno očuvano, baš kao na slikama.",
+    "Ognjen"
+   ],
+   [
+    "Garantovano najbolji odnos cene i vrednosti za smeštaj na Mitrovcu.",
+    "Srđan"
+   ],
+   [
+    "U samom centru svega, izuzetno čisto, a vlasnik je veoma ljubazan.",
+    "Sedita"
+   ]
+  ],
+  "style": {
+   "gf": "Outfit:wght@500;700&family=Outfit:wght@400;600",
+   "body": "Outfit,sans-serif",
+   "disp": "Outfit,sans-serif",
+   "dw": "700",
+   "bg": "#F3F6F4",
+   "ink": "#142019",
+   "muted": "#526158",
+   "accent": "#D08A2E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "42"
+  }
+ },
+ {
+  "slug": "vnina",
+  "layout": "full",
+  "logo": "Vikendica Nina",
+  "links": [
+   "Vikendica",
+   "Galerija",
+   "Tara",
+   "Kontakt"
+  ],
+  "phone": "064 666 1552",
+  "h1": "Vikendica Nina<br>na Mitrovcu",
+  "lede": "Cela kućica za vas, opremljena za odmor iz snova, sa pogledom na šumu i pešačkim stazama u blizini.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "46",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Dnevni boravak",
+   "Spavaća soba",
+   "Kamin",
+   "Jutarnja kafa"
+  ],
+  "reviews": [
+   [
+    "Prelepa kućica na odličnom mestu za opuštanje i uživanje u planinama.",
+    "Ivona"
+   ],
+   [
+    "Prelep smeštaj, prelep pogled, domaćini su prvoklasni.",
+    "Jasmina"
+   ],
+   [
+    "Odličan smještaj na odličnom mjestu, u blizini dosta pješačkih staza.",
+    "Zorica"
+   ]
+  ],
+  "style": {
+   "gf": "Lora:wght@600;700&family=Nunito+Sans:wght@400;600;700",
+   "body": "\"Nunito Sans\",sans-serif",
+   "disp": "Lora,serif",
+   "dw": "700",
+   "bg": "#F6F1EA",
+   "ink": "#2A1E14",
+   "muted": "#6A5949",
+   "accent": "#A2552B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "tarnik",
+  "layout": "full",
+  "logo": "Vila Tarnik",
+  "links": [
+   "Kuća",
+   "Galerija",
+   "Tara",
+   "Kontakt"
+  ],
+  "phone": "064 846 3370",
+  "h1": "Vila Tarnik,<br>Mitrovac na Tari",
+  "lede": "Prostrana i topla kuća za porodični odmor, sa krušnom peći i roštiljem u dvorištu.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "5,0",
+  "rev": "49",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Krušna peć",
+   "Kuća noću",
+   "Zima",
+   "Pogled"
+  ],
+  "reviews": [
+   [
+    "Posećujem Taru preko 15 godina i ovo mi je ubedljivo najlepši smeštaj.",
+    "Knežević"
+   ],
+   [
+    "Smeštaj visokog kvaliteta u svakom smislu.",
+    "Darko"
+   ],
+   [
+    "A super great place for a family vacation.",
+    "Artyom"
+   ]
+  ],
+  "style": {
+   "gf": "Libre+Baskerville:wght@700&family=Raleway:wght@400;600;700",
+   "body": "Raleway,sans-serif",
+   "disp": "\"Libre Baskerville\",serif",
+   "dw": "700",
+   "bg": "#F4F1EC",
+   "ink": "#221B14",
+   "muted": "#625849",
+   "accent": "#6F4A2A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "62",
+   "h1m": "38"
+  }
+ },
+ {
+  "slug": "forest",
+  "layout": "split",
+  "logo": "4REST Tara",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Mitrovac",
+   "Kontakt"
+  ],
+  "phone": "060 644 3969",
+  "h1": "Apartmani 4REST,<br>Tara",
+  "lede": "Potpuno novi apartmani sa podnim grejanjem na Mitrovcu, savršena polazna tačka za izlete po Tari.",
+  "cta": "Proverite termine",
+  "cta2": "Apartmani",
+  "rt": "4,9",
+  "rev": "37",
+  "quote": "Uredno, čisto, toplo, sve novo i na dobroj lokaciji. Sve pohvale za vlasnicu.",
+  "qby": "Jovana, Google recenzija",
+  "services": [
+   "Trpezarija",
+   "Spavaća soba",
+   "Dnevni boravak",
+   "Zima"
+  ],
+  "reviews": [
+   [
+    "Nov smještaj sa svim potrebnim sadržajem i podnim grijanjem.",
+    "Nemanja"
+   ],
+   [
+    "Prelepo, smeštaj fantastičan, sve dostupno.",
+    "Igor"
+   ],
+   [
+    "Brand new, modern, and equipped with everything you might need.",
+    "Monika"
+   ]
+  ],
+  "style": {
+   "gf": "Sora:wght@600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "Sora,sans-serif",
+   "dw": "700",
+   "bg": "#F3F5F2",
+   "ink": "#162019",
+   "muted": "#535F56",
+   "accent": "#2E7D5B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "62",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "dvanaest",
+  "layout": "split",
+  "logo": "Apartment 12/9",
+  "links": [
+   "Apartman",
+   "Galerija",
+   "Bajina Bašta",
+   "Kontakt"
+  ],
+  "phone": "064 245 6969",
+  "h1": "Apartment 12/9,<br>Bajina Bašta",
+  "lede": "Prelepo renoviran stan u mirnom delu, nadomak centra Bajine Bašte. Parking ispred zgrade.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartman",
+  "rt": "5,0",
+  "rev": "28",
+  "quote": "Prelep stan, udoban i potpuno opremljen. Domaćin izuzetno ljubazan.",
+  "qby": "Branislava, Google recenzija",
+  "services": [
+   "Spavaća soba",
+   "Dnevni deo",
+   "Soba",
+   "Ulaz"
+  ],
+  "reviews": [
+   [
+    "Smeštaj je čist, na odličnoj lokaciji i nudi udobnost i praktičnost.",
+    "Jelena"
+   ],
+   [
+    "Very nicely remodeled apartment. Quiet area, walk into the village.",
+    "Sharon"
+   ],
+   [
+    "Čisto, uredno. Stan u samom centru. Divni domaćini.",
+    "Mirjana"
+   ]
+  ],
+  "style": {
+   "gf": "Josefin+Sans:wght@600;700&family=Mulish:wght@400;600;700",
+   "body": "Mulish,sans-serif",
+   "disp": "\"Josefin Sans\",sans-serif",
+   "dw": "700",
+   "bg": "#F2F4F6",
+   "ink": "#1A2027",
+   "muted": "#58616B",
+   "accent": "#2D5B8C",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "62",
+   "h1m": "40"
+  }
+ },
+ {
+  "slug": "miljkovic",
+  "layout": "full",
+  "logo": "Smeštaj Miljković",
+  "links": [
+   "Apartmani",
+   "Dvorište",
+   "Sokobanja",
+   "Kontakt"
+  ],
+  "phone": "064 307 4347",
+  "h1": "Mirni kutak<br>u Sokobanji",
+  "lede": "Čisti apartmani i dvorište puno zelenila, idealno za decu. Osećaćete se kao kod kuće.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "20",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Trpezarija",
+   "Apartman",
+   "Dvorište"
+  ],
+  "reviews": [
+   [
+    "Divno mesto za opuštanje! Apartman je izuzetno čist i uredan.",
+    "Zorica"
+   ],
+   [
+    "Mirna lokacija, prelepo dvorište idealno za decu, ljubazni domaćini.",
+    "Olja"
+   ],
+   [
+    "Oseća se kao kod kuće sa divnim domaćinima.",
+    "Vesna"
+   ]
+  ],
+  "style": {
+   "gf": "Playfair+Display:wght@600;700&family=Lato:wght@400;700",
+   "body": "Lato,sans-serif",
+   "disp": "\"Playfair Display\",serif",
+   "dw": "700",
+   "bg": "#F3F5F1",
+   "ink": "#1A2219",
+   "muted": "#566152",
+   "accent": "#4E7A3C",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
  }
 ]
