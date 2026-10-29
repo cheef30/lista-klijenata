@@ -70,7 +70,7 @@ body.fullnav .links{{color:rgba(255,255,255,.85)}}
  .full .acts{{flex-direction:column;align-items:stretch;text-align:center;width:100%}}
  .gal{{grid-template-columns:1fr 1fr;padding:0 18px 20px;gap:10px}}.gal div{{height:110px}}
  .band{{flex-direction:column;gap:12px;padding:18px}}
- .bar{{margin:-40px 16px 0;grid-template-columns:1fr 1fr}}.bar div:nth-child(3){{display:none}}.bar a{{grid-column:1/3;justify-content:center;padding:13px}}
+ .bar{{margin:12px 16px 0;grid-template-columns:1fr 1fr}}.bar div:nth-child(3){{display:none}}.bar a{{grid-column:1/3;justify-content:center;padding:13px}}
  .revs{{grid-template-columns:1fr;padding:0 18px 24px}}.revs div:nth-child(n+3){{display:none}}.revs h3{{font-size:22px}}
 
 }}

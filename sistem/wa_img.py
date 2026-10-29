@@ -35,7 +35,7 @@ else:
     key = L.get("ck") or L["domain"]  # ck: tekst koji sigurno postoji u poruci
     js = (f"const msg={msg};let out;const hdr=document.querySelector('#main header').innerText;"
           f"const dg=hdr.replace(/\\D/g,'');if(dg.length>5&&!dg.includes('{num}')){{out='DRUGI CHAT'}}else{{"
-          "const cap=[...document.querySelectorAll('[contenteditable=true]')].find(e=>!e.closest('#main footer'));"
+          "let cap=null;for(let i=0;i<6&&!cap;i++){cap=[...document.querySelectorAll('[contenteditable=true]')].find(e=>!e.closest('#main footer'));if(!cap)await new Promise(r=>setTimeout(r,700));}"
           "if(!cap){out='NEMA CAPTION POLJA'}else{cap.focus();const dt=new DataTransfer();dt.setData('text/plain',msg);cap.dispatchEvent(new ClipboardEvent('paste',{clipboardData:dt,bubbles:true,cancelable:true}));await new Promise(r=>setTimeout(r,900));"
           f"if(!cap.innerText.includes('{key}')){{out='CAPTION NIJE UPISAN'}}else{{const b=[...document.querySelectorAll('[aria-label^=\"Send \"]')].find(e=>/selected/.test(e.getAttribute('aria-label')));b.click();await new Promise(r=>setTimeout(r,6000));"
           f"const t=document.querySelector('#main').innerText;out=t.includes('{key}')?'POSLATO':'PROVERI'}}}}}}out")
