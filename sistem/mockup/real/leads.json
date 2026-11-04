@@ -2204,5 +2204,878 @@
    "h1": "76",
    "h1m": "44"
   }
+ },
+ {
+  "slug": "ivk",
+  "layout": "full",
+  "logo": "Ivanjički konaci",
+  "links": [
+   "Smeštaj",
+   "Restoran",
+   "Galerija",
+   "Kontakt"
+  ],
+  "phone": "060 613 0776",
+  "h1": "Ivanjički konaci,<br>mir iznad Ivanjice",
+  "lede": "Tradicionalna arhitektura, bazen i pogled na zelene padine, uz domaću kuhinju našeg restorana.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "779",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Sobe",
+   "Restoran",
+   "Terasa",
+   "Bazen"
+  ],
+  "reviews": [
+   [
+    "Veoma lepo iskustvo. Domaćini prijatni, hrana odlična. Lokacija odlična, svež vazduh.",
+    "Momčilo"
+   ],
+   [
+    "What a wonderful surprise! The ambiance is amazing, the views are breathtaking.",
+    "Nikola"
+   ],
+   [
+    "Very pleasant boutique hotel. Our very kind hostess greeted us as we entered.",
+    "Danica"
+   ]
+  ],
+  "style": {
+   "gf": "Cormorant+Garamond:wght@600;700&family=Manrope:wght@400;600;700",
+   "body": "Manrope,sans-serif",
+   "disp": "\"Cormorant Garamond\",serif",
+   "dw": "700",
+   "bg": "#F5F2EC",
+   "ink": "#1F2A20",
+   "muted": "#5D6658",
+   "accent": "#3F6B3A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "78",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "jtp",
+  "layout": "split",
+  "logo": "JTP Apartmani",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Ivanjica",
+   "Kontakt"
+  ],
+  "phone": "062 606 913",
+  "h1": "JTP Apartmani,<br>Ivanjica",
+  "lede": "Moderni, potpuno opremljeni apartmani sa parkingom ispred zgrade, nekoliko minuta od centra.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartmani",
+  "rt": "4,8",
+  "rev": "75",
+  "quote": "Stan je bio apsolutno fantastičan! Sve je bilo izuzetno čisto i moderno uređeno, tačno kao na slikama.",
+  "qby": "Ines, Google recenzija",
+  "services": [
+   "Dnevna soba",
+   "Kuhinja",
+   "Kupatilo",
+   "Zgrada"
+  ],
+  "reviews": [
+   [
+    "Prelep mali, uredan, čist i moderan smeštaj. Potpuno opremljen. Postoji parking ispred smeštaja.",
+    "Samanta"
+   ],
+   [
+    "Veoma ljubazni domaćini, lep i udoban stan, čist i sa novim stvarima.",
+    "Mirjana"
+   ],
+   [
+    "Perfect stay! The apartment was clean, modern, and very comfortable.",
+    "Vesna"
+   ]
+  ],
+  "style": {
+   "gf": "Outfit:wght@500;600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "Outfit,sans-serif",
+   "dw": "700",
+   "bg": "#F4F6F8",
+   "ink": "#16202A",
+   "muted": "#5A6673",
+   "accent": "#2F6FA8",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "68",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "filig",
+  "layout": "full",
+  "logo": "Filigran",
+  "links": [
+   "Apartmani",
+   "Bašta",
+   "Palić",
+   "Kontakt"
+  ],
+  "phone": "063 844 5556",
+  "h1": "Filigran,<br>vaš mir na Paliću",
+  "lede": "Novi, čisti apartmani sa privatnom terasom i baštom sa jezercetom, nadomak Palićkog jezera.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "68",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Apartman",
+   "Bašta",
+   "Druženje",
+   "Kamin"
+  ],
+  "reviews": [
+   [
+    "Wonderful place to stay. Close to the lake of Palić. Terrific host. Nice little private terrace.",
+    "Sonja"
+   ],
+   [
+    "Nice, new and clean apartments with good price.",
+    "Olivera"
+   ],
+   [
+    "Very clean and nice rooms. The owner was very kind and helpful with our every need.",
+    "Yunus"
+   ]
+  ],
+  "style": {
+   "gf": "DM+Serif+Display&family=DM+Sans:wght@400;600;700",
+   "body": "\"DM Sans\",sans-serif",
+   "disp": "\"DM Serif Display\",serif",
+   "dw": "400",
+   "bg": "#F2F4F1",
+   "ink": "#16231C",
+   "muted": "#56645B",
+   "accent": "#2E6B57",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "boska",
+  "layout": "full",
+  "logo": "Vila Boska",
+  "links": [
+   "Sobe",
+   "Bazen",
+   "Palić",
+   "Kontakt"
+  ],
+  "phone": "065 375 3834",
+  "h1": "Vila Boska,<br>Palić",
+  "lede": "Šarmantna vila sa bazenom i prelepim dvorištem, nekoliko minuta od jezera.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,6",
+  "rev": "313",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Vila",
+   "Soba",
+   "Apartman",
+   "Dvorište"
+  ],
+  "reviews": [
+   [
+    "Villa Boska is a hidden gem! Beautifully designed, clean and thoughtfully equipped.",
+    "Dalibor"
+   ],
+   [
+    "The grounds are gorgeous and the staff is really friendly and accommodating!",
+    "Marija"
+   ],
+   [
+    "Beautiful accommodation. The owner welcomed us very kindly.",
+    "Georgije"
+   ]
+  ],
+  "style": {
+   "gf": "Fraunces:wght@600;700&family=Work+Sans:wght@400;600;700",
+   "body": "\"Work Sans\",sans-serif",
+   "disp": "Fraunces,serif",
+   "dw": "700",
+   "bg": "#F7F3EE",
+   "ink": "#2A1A14",
+   "muted": "#6B5A50",
+   "accent": "#B3482F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "kriv",
+  "layout": "split",
+  "logo": "Apartmani Krivokuća",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Ivanjica",
+   "Kontakt"
+  ],
+  "phone": "064 268 0644",
+  "h1": "Apartmani Krivokuća,<br>Ivanjica",
+  "lede": "Novi, čisti i uredni apartmani na dobroj lokaciji, sa domaćinima koji misle na svaki detalj.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartmani",
+  "rt": "5,0",
+  "rev": "18",
+  "quote": "Odlični ljudi, odličan smeštaj. Možda najbolje mesto gde smo ikada prenoćili.",
+  "qby": "Petar, Google recenzija",
+  "services": [
+   "Soba",
+   "Kuhinja",
+   "Trpezarija",
+   "Kupatilo"
+  ],
+  "reviews": [
+   [
+    "Odlični apartmani! Sve je novo i čisto! Domaćini su za svaku pohvalu!",
+    "Google recenzija"
+   ],
+   [
+    "Prelep smeštaj, čist, uredan, pristupačan, na dobroj lokaciji.",
+    "Tamara"
+   ],
+   [
+    "Čisto, uredno, vodili su računa o sitnicama.",
+    "Bojan"
+   ]
+  ],
+  "style": {
+   "gf": "Lora:wght@600;700&family=Nunito+Sans:wght@400;600;700",
+   "body": "\"Nunito Sans\",sans-serif",
+   "disp": "Lora,serif",
+   "dw": "700",
+   "bg": "#F6F3EF",
+   "ink": "#25201B",
+   "muted": "#66594E",
+   "accent": "#8C5A3C",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "satur",
+  "layout": "full",
+  "logo": "Vila Saturea",
+  "links": [
+   "Sobe",
+   "Bazen",
+   "Rtanj",
+   "Kontakt"
+  ],
+  "phone": "060 330 0109",
+  "h1": "Vila Saturea,<br>podno Rtnja",
+  "lede": "Mirna vila sa bazenom i pogledom na Rtanj, uz domaćine koji vas dočekuju kao porodicu.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "192",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Bazen",
+   "Doručak",
+   "Vila"
+  ],
+  "reviews": [
+   [
+    "The view of Rtanj was lovely. The pool was refreshing and the day beds are great.",
+    "Ana"
+   ],
+   [
+    "The stay was perfect. Owners were so kind to my family and me.",
+    "Dunja"
+   ],
+   [
+    "The location is perfect, in a quiet area with a stunning view of the mountain Rtanj.",
+    "Miloš"
+   ]
+  ],
+  "style": {
+   "gf": "Marcellus&family=Jost:wght@400;500;600",
+   "body": "Jost,sans-serif",
+   "disp": "Marcellus,serif",
+   "dw": "400",
+   "bg": "#F4F3EE",
+   "ink": "#1D2620",
+   "muted": "#5B645C",
+   "accent": "#5F7F3A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "78",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "angel",
+  "layout": "split",
+  "logo": "Apartmani Angelina",
+  "links": [
+   "Apartmani",
+   "Lukovska Banja",
+   "Galerija",
+   "Kontakt"
+  ],
+  "phone": "063 574 200",
+  "h1": "Apartmani Angelina,<br>Lukovska Banja",
+  "lede": "U samom centru banje, na deset metara od otvorenih bazena. Čisto, novo i udobno.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartmani",
+  "rt": "4,5",
+  "rev": "13",
+  "quote": "Veoma zadovoljan smeštajem, jedan od najboljih smeštaja u banji, sve je kao što je prikazano.",
+  "qby": "Google recenzija",
+  "services": [
+   "Apartman",
+   "Vila",
+   "Priroda",
+   "Banja"
+  ],
+  "reviews": [
+   [
+    "Sve je čisto, uredno i novo. Domaćini su gostoljubivi i ljubazni. Toplo preporučujem.",
+    "Sanja"
+   ],
+   [
+    "Dokazano dobro, gazdarica je ljubazna, odmor za dušu, sve preporuke.",
+    "Slađana"
+   ],
+   [
+    "Stan je odličan. Ima sve što vam je potrebno za boravak.",
+    "Zoran"
+   ]
+  ],
+  "style": {
+   "gf": "Playfair+Display:wght@600;700&family=Lato:wght@400;700",
+   "body": "Lato,sans-serif",
+   "disp": "\"Playfair Display\",serif",
+   "dw": "700",
+   "bg": "#F7F2F4",
+   "ink": "#2A1E26",
+   "muted": "#6A5A64",
+   "accent": "#8E3F6E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "radov",
+  "layout": "full",
+  "logo": "Kuća Radovanović",
+  "links": [
+   "Kuća",
+   "Galerija",
+   "Resava",
+   "Kontakt"
+  ],
+  "phone": "062 674 443",
+  "h1": "Kuća za odmor<br>Radovanović",
+  "lede": "Mirna, zelena kuća u Trućevcu kod Despotovca. Kamin u svakoj sobi i dvorište sa roštiljem.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "74",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Kuhinja",
+   "Roštilj",
+   "Dvorište"
+  ],
+  "reviews": [
+   [
+    "Peaceful, clean, green. Owners really kind and caring.",
+    "Nataša"
+   ],
+   [
+    "Very cozy and authentic place to stay. Every room has its own fireplace.",
+    "Aleksandar"
+   ],
+   [
+    "Very friendly and cosy house. Clean, quiet, perfect for families with children.",
+    "Dušan"
+   ]
+  ],
+  "style": {
+   "gf": "Bitter:wght@600;700&family=Source+Sans+3:wght@400;600;700",
+   "body": "\"Source Sans 3\",sans-serif",
+   "disp": "Bitter,serif",
+   "dw": "700",
+   "bg": "#F5F3EC",
+   "ink": "#232619",
+   "muted": "#5E6150",
+   "accent": "#6E7D2E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "72",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "milen",
+  "layout": "full",
+  "logo": "Etno Milenković",
+  "links": [
+   "Smeštaj",
+   "Domaća kuhinja",
+   "Okolina",
+   "Kontakt"
+  ],
+  "phone": "069 639 140",
+  "h1": "Etno domaćinstvo<br>Milenković",
+  "lede": "Brvnara u prirodi u Panjevcu, blizu Velikog buka i Manasije, uz domaću hranu koju gosti pamte.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "121",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Senica",
+   "Domaća hrana",
+   "Soba",
+   "Trpezarija"
+  ],
+  "reviews": [
+   [
+    "Predivan ambijent. Mjesto koje je napravljeno iz čiste ljubavi prema prirodi i miru koji ona daruje.",
+    "Slaviša"
+   ],
+   [
+    "Such a warm host and an amazing cook.",
+    "Garima"
+   ],
+   [
+    "This is a shining example of how rural eco tourism should look like.",
+    "Vanja"
+   ]
+  ],
+  "style": {
+   "gf": "Cormorant+Garamond:wght@600;700&family=Mulish:wght@400;600;700",
+   "body": "Mulish,sans-serif",
+   "disp": "\"Cormorant Garamond\",serif",
+   "dw": "700",
+   "bg": "#F4F1EA",
+   "ink": "#2B2216",
+   "muted": "#665A49",
+   "accent": "#8A5A22",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "jovan",
+  "layout": "full",
+  "logo": "Vila Jovanović",
+  "links": [
+   "Sobe",
+   "Galerija",
+   "Ivanjica",
+   "Kontakt"
+  ],
+  "phone": "062 413 125",
+  "h1": "Vila Jovanović,<br>Ivanjica",
+  "lede": "Sobe i apartmani okruženi prirodom, čistim vazduhom i pogledom na okolne proplanke.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,4",
+  "rev": "61",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Apartman",
+   "Vila",
+   "Pogled"
+  ],
+  "reviews": [
+   [
+    "Toplo preporučujem ovaj smeštaj! Apartmani su odlični, uredni i veoma prijatni za boravak.",
+    "Nikola"
+   ],
+   [
+    "Mesto okruženo prirodom, čistim vazduhom i pogledom na okolne proplanke.",
+    "Teodora"
+   ],
+   [
+    "Divno mesto, divni ljudi. Čisto, uredno, tiho, sve preporuke.",
+    "Darko"
+   ]
+  ],
+  "style": {
+   "gf": "Libre+Baskerville:wght@700&family=Raleway:wght@400;600;700",
+   "body": "Raleway,sans-serif",
+   "disp": "\"Libre Baskerville\",serif",
+   "dw": "700",
+   "bg": "#F5F3F2",
+   "ink": "#24191C",
+   "muted": "#665A5C",
+   "accent": "#B3323C",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "surpr",
+  "layout": "split",
+  "logo": "House of Surprise",
+  "links": [
+   "Apartman",
+   "Galerija",
+   "Užice",
+   "Kontakt"
+  ],
+  "phone": "060 477 7194",
+  "h1": "House of Surprise,<br>Užice",
+  "lede": "Prostran i moderno uređen apartman na pet minuta od centra Užica, savršen za odmor na putu.",
+  "cta": "Pošaljite upit",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "53",
+  "quote": "Beautiful apartment with a great owner! City center is 5 minutes.",
+  "qby": "Márta, Google recenzija",
+  "services": [
+   "Spavaća soba",
+   "Kuhinja",
+   "Dnevna soba",
+   "Kupatilo"
+  ],
+  "reviews": [
+   [
+    "And it's a pleasant surprise. Looks impeccable, clean.",
+    "Adi"
+   ],
+   [
+    "Beautiful place, comfort and relaxation with affordable price.",
+    "Milan"
+   ],
+   [
+    "Excellent apartments, highly recommend.",
+    "Anastasiia"
+   ]
+  ],
+  "style": {
+   "gf": "Syne:wght@600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "Syne,sans-serif",
+   "dw": "700",
+   "bg": "#F3F3F6",
+   "ink": "#18172A",
+   "muted": "#5E5D70",
+   "accent": "#5B3FB5",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "cityn",
+  "layout": "split",
+  "logo": "City Negotin",
+  "links": [
+   "Apartmani",
+   "Galerija",
+   "Negotin",
+   "Kontakt"
+  ],
+  "phone": "065 999 0611",
+  "h1": "Apartmani City,<br>Negotin",
+  "lede": "Prostran, izuzetno čist i dobro opremljen stan na tri minuta hoda od centra Negotina.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartmani",
+  "rt": "5,0",
+  "rev": "41",
+  "quote": "Stan je u centru, prostran, izuzetno čist i dobro opremljen. Domaćin je veoma ljubazan.",
+  "qby": "Butros, Google recenzija",
+  "services": [
+   "Pogled",
+   "Trpezarija",
+   "Spavaća soba",
+   "Dnevna soba"
+  ],
+  "reviews": [
+   [
+    "Friendly host, clean and tidy apartment. Everything one might need.",
+    "Lazar"
+   ],
+   [
+    "Clean, 3 minutes walk to the city center, enough space for 5 adults to rest.",
+    "Aleksandar"
+   ],
+   [
+    "Uživao sam u boravku u ovom stanu i rado bih ga preporučio svima.",
+    "Agripina"
+   ]
+  ],
+  "style": {
+   "gf": "Manrope:wght@600;700;800&family=Manrope:wght@400;600",
+   "body": "Manrope,sans-serif",
+   "disp": "Manrope,sans-serif",
+   "dw": "800",
+   "bg": "#F2F5F5",
+   "ink": "#152224",
+   "muted": "#576668",
+   "accent": "#1F7A78",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "dusan",
+  "layout": "full",
+  "logo": "Dušanov konak",
+  "links": [
+   "Sobe",
+   "Restoran",
+   "Raška",
+   "Kontakt"
+  ],
+  "phone": "064 154 3499",
+  "h1": "Dušanov konak,<br>Raška",
+  "lede": "Konak sa restoranom i terasom na putu Raška i Novi Pazar. Domaća hrana, garaža i mir uz reku.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,5",
+  "rev": "47",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Konak",
+   "Soba",
+   "Doručak",
+   "Apartman"
+  ],
+  "reviews": [
+   [
+    "Usluga je za svaku pohvalu. Hrana i smještaj su bili odlični, svaki gost je otišao potpuno zadovoljan.",
+    "Andreić"
+   ],
+   [
+    "Prijatan i tih restoran sa terasom gde se možete osvežiti i napraviti pauzu.",
+    "Dragan"
+   ],
+   [
+    "Smeštaj nudi sve što vam je potrebno. Hrana i osoblje su odlični.",
+    "Predrag"
+   ]
+  ],
+  "style": {
+   "gf": "Alegreya:wght@700&family=Alegreya+Sans:wght@400;500;700",
+   "body": "\"Alegreya Sans\",sans-serif",
+   "disp": "Alegreya,serif",
+   "dw": "700",
+   "bg": "#F6F2EA",
+   "ink": "#2A1E12",
+   "muted": "#6A5B48",
+   "accent": "#9A4A1F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "drag",
+  "layout": "split",
+  "logo": "Apartman Dragana",
+  "links": [
+   "Apartman",
+   "Galerija",
+   "Kopaonik",
+   "Kontakt"
+  ],
+  "phone": "065 301 9988",
+  "h1": "Apartman Dragana,<br>Kopaonik",
+  "lede": "Topao i lepo uređen apartman sa obezbeđenim parkingom, desetak minuta od ski centra.",
+  "cta": "Pošaljite upit",
+  "cta2": "Apartman",
+  "rt": "4,9",
+  "rev": "10",
+  "quote": "Puna desetka. Ljubazni domaćini, prelep stan, čist, uredan, topao. Obezbeđen parking.",
+  "qby": "Lidija, Google recenzija",
+  "services": [
+   "Spavaća soba",
+   "Dnevna soba",
+   "Kopaonik",
+   "Zima"
+  ],
+  "reviews": [
+   [
+    "Great and cozy place with cute interior. Very warm and just 10 minutes away from the ski center.",
+    "Kristijan"
+   ],
+   [
+    "Odlično uređen stan, preporuka i sve pohvale za divnog vlasnika.",
+    "Živana"
+   ],
+   [
+    "Odličan smeštaj, veoma ljubazni vlasnici, pune preporuke.",
+    "Nikola"
+   ]
+  ],
+  "style": {
+   "gf": "Fraunces:wght@600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "Fraunces,serif",
+   "dw": "700",
+   "bg": "#F1F4F7",
+   "ink": "#141E2A",
+   "muted": "#56626F",
+   "accent": "#2D5D8C",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "vikt",
+  "layout": "full",
+  "logo": "Apartmani Viktorija",
+  "links": [
+   "Apartmani",
+   "Bašta",
+   "Užice",
+   "Kontakt"
+  ],
+  "phone": "060 561 6373",
+  "h1": "Apartmani Viktorija,<br>Užice",
+  "lede": "Veliki, čisti apartmani sa baštom i parkingom u dvorištu, na mirnoj lokaciji u Užicu.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,7",
+  "rev": "82",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Spavaća soba",
+   "Bašta",
+   "Trpezarija"
+  ],
+  "reviews": [
+   [
+    "Divno mesto u kome ćete se lepo odmoriti. Gazdarica je veoma ljubazna.",
+    "Jelena"
+   ],
+   [
+    "Very big and spacious. Huge bathroom. Nice kitchen. Comfortable bed. Friendly owner.",
+    "Andrew"
+   ],
+   [
+    "The host maintains his gardens beautifully. Off street parking.",
+    "Russ"
+   ]
+  ],
+  "style": {
+   "gf": "Cormorant+Garamond:wght@600;700&family=Karla:wght@400;600;700",
+   "body": "Karla,sans-serif",
+   "disp": "\"Cormorant Garamond\",serif",
+   "dw": "700",
+   "bg": "#F7F2EA",
+   "ink": "#2B2014",
+   "muted": "#6B5C48",
+   "accent": "#A0702E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
  }
 ]
