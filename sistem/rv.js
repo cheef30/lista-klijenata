@@ -1,0 +1,4 @@
+(async()=>{const KEY=window.KEY;const a=[...document.querySelectorAll('a.hfpxzc')].find(x=>x.getAttribute('aria-label').toLowerCase().includes(KEY));if(a){a.click();await new Promise(r=>setTimeout(r,4000));}
+const t=[...document.querySelectorAll('[role=tab]')].find(x=>/Рецензије|Reviews/.test(x.innerText));if(t){t.click();await new Promise(r=>setTimeout(r,3000));}
+for(let i=0;i<2;i++){[...document.querySelectorAll('[role=main] div')].filter(d=>d.scrollHeight>d.clientHeight+50&&getComputedStyle(d).overflowY!='visible').forEach(d=>d.scrollBy(0,1500));await new Promise(r=>setTimeout(r,2500));}
+const R=[...document.querySelectorAll('.jftiEf,[data-review-id]')];return [...new Set(R.map(r=>((r.querySelector('.d4r55')||{}).innerText||'?').split(' ')[0]+': '+((r.querySelector('.wiI7pd')||{}).innerText||'').slice(0,150)))].filter(x=>x.length>15).join(' || ').slice(0,950)})()
