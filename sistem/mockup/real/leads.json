@@ -3077,5 +3077,655 @@
    "h1": "76",
    "h1m": "44"
   }
+ },
+ {
+  "slug": "graf",
+  "layout": "full",
+  "logo": "Vila Graf",
+  "links": [
+   "Sobe",
+   "Bazen",
+   "Restoran",
+   "Kontakt"
+  ],
+  "phone": "065 967 0555",
+  "h1": "Vila Graf,<br>na obali Dunava",
+  "lede": "Prostrane sobe, bazen i pogled na Dunav iz soba i restorana. Porodična vila u kojoj se odmara uz zalazak sunca.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,7",
+  "rev": "208",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Bazen",
+   "Zalazak",
+   "Doručak"
+  ],
+  "reviews": [
+   [
+    "Mesto sa odličnim pogledom kako iz soba, tako i iz restorana.",
+    "Dušan"
+   ],
+   [
+    "It is located right next to the Danube. The rooms are large and equipped with everything you need.",
+    "Morar"
+   ],
+   [
+    "Villa Graf is truly an amazing place! The atmosphere is peaceful.",
+    "Simona"
+   ]
+  ],
+  "style": {
+   "gf": "Cormorant+Garamond:wght@600;700&family=Manrope:wght@400;600;700",
+   "body": "Manrope,sans-serif",
+   "disp": "\"Cormorant Garamond\",serif",
+   "dw": "700",
+   "bg": "#F2F5F7",
+   "ink": "#14212B",
+   "muted": "#55636E",
+   "accent": "#2F6E8F",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "78",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "intl",
+  "layout": "split",
+  "logo": "International Inn",
+  "links": [
+   "Sobe",
+   "Doručak",
+   "Paraćin",
+   "Kontakt"
+  ],
+  "phone": "062 568 230",
+  "h1": "International Inn,<br>Paraćin",
+  "lede": "Mali porodični hotel sa doručkom, besprekorno čistim sobama i domaćicom Anom koja misli na svaki detalj.",
+  "cta": "Pošaljite upit",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "99",
+  "quote": "This a fantastic little hotel, absolutely spotless and greeted with red carpet on arrival.",
+  "qby": "Dessie, Google recenzija",
+  "services": [
+   "Soba",
+   "Hotel",
+   "Doručak",
+   "Kupatilo"
+  ],
+  "reviews": [
+   [
+    "Accommodation faultless. Facilities, outdoor area, breakfast, staff, all 5 star.",
+    "Jad"
+   ],
+   [
+    "The room felt extremely comforting, cozy like a house. Dinner was delicious!",
+    "Emilija"
+   ],
+   [
+    "The hotel and rooms are really luxurious. People working there are polite.",
+    "Milan"
+   ]
+  ],
+  "style": {
+   "gf": "Playfair+Display:wght@600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "\"Playfair Display\",serif",
+   "dw": "700",
+   "bg": "#F7F3F1",
+   "ink": "#2A1715",
+   "muted": "#6B5754",
+   "accent": "#9E2A2B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "gajic",
+  "layout": "full",
+  "logo": "Sobe Gajić",
+  "links": [
+   "Sobe",
+   "Dvorište",
+   "Karlovci",
+   "Kontakt"
+  ],
+  "phone": "063 870 3302",
+  "h1": "Sobe Gajić,<br>Sremski Karlovci",
+  "lede": "Autentična stara kuća u centru Karlovaca, sa dvorištem pod lozom i domaćicom koja vas dočeka kao svoje.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "100",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Dvorište",
+   "Kuhinja",
+   "Loza"
+  ],
+  "reviews": [
+   [
+    "Vrlo lepo, čisto, uredno, autentično. Gospođa vlasnica divna predusretljiva žena.",
+    "Dejan"
+   ],
+   [
+    "Excellent location, close to the center. Rooms are clean and large.",
+    "Juan"
+   ],
+   [
+    "The best people, good care, very sanitary, 10/10.",
+    "Rob"
+   ]
+  ],
+  "style": {
+   "gf": "Lora:wght@600;700&family=Nunito+Sans:wght@400;600;700",
+   "body": "\"Nunito Sans\",sans-serif",
+   "disp": "Lora,serif",
+   "dw": "700",
+   "bg": "#F6F4EC",
+   "ink": "#26261A",
+   "muted": "#62624F",
+   "accent": "#6B7A2A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "72",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "vip",
+  "layout": "full",
+  "logo": "ViP Rooms 026",
+  "links": [
+   "Sobe",
+   "Spa",
+   "Smederevo",
+   "Kontakt"
+  ],
+  "phone": "069 427 4160",
+  "h1": "ViP Rooms 026,<br>Smederevo",
+  "lede": "Uredne, čiste sobe u Smederevu, sa đakuzijem i ljubaznim domaćinom.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,2",
+  "rev": "124",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Đakuzi",
+   "Apartman",
+   "Noću"
+  ],
+  "reviews": [
+   [
+    "Odlično mesto za boravak, sve je bilo čisto, uredno i prijatno. Domaćin je bio ljubazan.",
+    "Nemanja"
+   ],
+   [
+    "Uredno, čisto, skromno. Topla voda, klima, TV, kablovska.",
+    "Mirko"
+   ],
+   [
+    "Its nice place, owner is very nice.",
+    "Ivan"
+   ]
+  ],
+  "style": {
+   "gf": "Syne:wght@600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "Syne,sans-serif",
+   "dw": "700",
+   "bg": "#F4F2F6",
+   "ink": "#1C1526",
+   "muted": "#615870",
+   "accent": "#8A2BB0",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "70",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "spa",
+  "layout": "full",
+  "logo": "Pleasure SPA",
+  "links": [
+   "Apartman",
+   "Spa",
+   "Novi Sad",
+   "Kontakt"
+  ],
+  "phone": "065 898 9815",
+  "h1": "Pleasure SPA<br>Apartment",
+  "lede": "Đakuzi, sauna i potpuni mir u Novom Sadu. Apartman za opuštanje udvoje, lepši nego na slikama.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "5,0",
+  "rev": "55",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Sauna",
+   "Dnevni boravak",
+   "Spa"
+  ],
+  "reviews": [
+   [
+    "Stan je veoma preporučljiv, lepši je nego na slikama, sve je uredno i čisto.",
+    "Zoran"
+   ],
+   [
+    "Spa zona je savršena za opuštanje i uživanje. Sve preporuke!",
+    "Mirela"
+   ],
+   [
+    "Možda najbolji stan u Novom Sadu, za svaku preporuku.",
+    "Google recenzija"
+   ]
+  ],
+  "style": {
+   "gf": "Cormorant+Garamond:wght@600;700&family=Jost:wght@400;500;600",
+   "body": "Jost,sans-serif",
+   "disp": "\"Cormorant Garamond\",serif",
+   "dw": "700",
+   "bg": "#F5F1EC",
+   "ink": "#231A14",
+   "muted": "#6A5C50",
+   "accent": "#A0743B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "78",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "h2o",
+  "layout": "split",
+  "logo": "Garni Hotel H2O",
+  "links": [
+   "Sobe",
+   "Galerija",
+   "Paraćin",
+   "Kontakt"
+  ],
+  "phone": "060 570 1290",
+  "h1": "Garni Hotel H2O,<br>Paraćin",
+  "lede": "Povoljan i prijatan smeštaj u Paraćinu, sa ljubaznim osobljem i sobama spremnim za kraći ili duži boravak.",
+  "cta": "Pošaljite upit",
+  "cta2": "Galerija",
+  "rt": "4,1",
+  "rev": "77",
+  "quote": "Very happy with our stay. The place was really cheap in comparison with all the other places around.",
+  "qby": "Claudiu, Google recenzija",
+  "services": [
+   "Soba",
+   "Dnevni boravak",
+   "Kupatilo",
+   "Zgrada"
+  ],
+  "reviews": [
+   [
+    "Best place for relax and lodging, all recommendations.",
+    "Aleksa"
+   ],
+   [
+    "Very pleasant host, the room was also satisfying.",
+    "Nico"
+   ],
+   [
+    "Sve savršeno, svaka čast.",
+    "Aleksandar"
+   ]
+  ],
+  "style": {
+   "gf": "Outfit:wght@500;600;700&family=Inter:wght@400;600",
+   "body": "Inter,sans-serif",
+   "disp": "Outfit,sans-serif",
+   "dw": "700",
+   "bg": "#F2F5F8",
+   "ink": "#121C27",
+   "muted": "#55616E",
+   "accent": "#1E6FB8",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "jan",
+  "layout": "full",
+  "logo": "Apartmani Jančić",
+  "links": [
+   "Apartmani",
+   "Doručak",
+   "Smederevo",
+   "Kontakt"
+  ],
+  "phone": "063 248 691",
+  "h1": "Apartmani Jančić,<br>Smederevo",
+  "lede": "Prostrani apartmani i domaćini Goran i Goca, koji vas dočekaju sa osmehom, pićem dobrodošlice i domaćim doručkom.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,7",
+  "rev": "69",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Salon",
+   "Doručak",
+   "Dvorište"
+  ],
+  "reviews": [
+   [
+    "Goran and Goca are great hosts. They love what they do and do their best for their guests.",
+    "Dénes"
+   ],
+   [
+    "The hosts greeted us with a big smile and immediately offered us drinks.",
+    "Oren"
+   ],
+   [
+    "Nice apartments, delicious breakfast, and the best is the nicest people.",
+    "Google recenzija"
+   ]
+  ],
+  "style": {
+   "gf": "Fraunces:wght@600;700&family=Work+Sans:wght@400;600;700",
+   "body": "\"Work Sans\",sans-serif",
+   "disp": "Fraunces,serif",
+   "dw": "700",
+   "bg": "#F5F4EE",
+   "ink": "#20261A",
+   "muted": "#5F6553",
+   "accent": "#4E7A2E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "zlatib",
+  "layout": "full",
+  "logo": "Brvnara Zlatiborka",
+  "links": [
+   "Brvnare",
+   "Galerija",
+   "Zlatibor",
+   "Kontakt"
+  ],
+  "phone": "063 415 354",
+  "h1": "Brvnara Zlatiborka,<br>Zlatibor",
+  "lede": "Topla drvena brvnara sa kaminom, u prirodi i dovoljno daleko od gužve, a opet blizu centra Zlatibora.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "46",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Brvnara",
+   "Zima",
+   "Unutra"
+  ],
+  "reviews": [
+   [
+    "Wood cabin is clean, warm and it has everything you need for your peaceful vacation.",
+    "Isidora"
+   ],
+   [
+    "Old style, wood and warm cosy fire create a perfect atmosphere for relaxation.",
+    "Denis"
+   ],
+   [
+    "Recommendation for everyone who like a vacation in nature but also close to the city center.",
+    "Ivan"
+   ]
+  ],
+  "style": {
+   "gf": "Bitter:wght@600;700&family=Source+Sans+3:wght@400;600;700",
+   "body": "\"Source Sans 3\",sans-serif",
+   "disp": "Bitter,serif",
+   "dw": "700",
+   "bg": "#F6F2EB",
+   "ink": "#2A1D12",
+   "muted": "#6B5A49",
+   "accent": "#A0522D",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "72",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "niki",
+  "layout": "full",
+  "logo": "NIKI HILL",
+  "links": [
+   "Smeštaj",
+   "Bazen",
+   "Čortanovci",
+   "Kontakt"
+  ],
+  "phone": "061 550 1662",
+  "h1": "NIKI HILL,<br>Čortanovci",
+  "lede": "Mirno mesto za bekstvo od gradske gužve, sa bazenom, ležaljkama i pogledom na Frušku goru.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "14",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Soba",
+   "Kuhinja",
+   "Bazen",
+   "Noću"
+  ],
+  "reviews": [
+   [
+    "Kakvo prelepo mesto, daleko od svega, potpuno opuštajuće.",
+    "Clarisleidis"
+   ],
+   [
+    "Oni koji traže odmor i opuštanje ovde će se naći u dobrim rukama.",
+    "Gerhard"
+   ],
+   [
+    "Sve je odlično, sve pohvale, vraćam se ponovo.",
+    "Vanja"
+   ]
+  ],
+  "style": {
+   "gf": "Manrope:wght@600;700;800&family=Manrope:wght@400;600",
+   "body": "Manrope,sans-serif",
+   "disp": "Manrope,sans-serif",
+   "dw": "800",
+   "bg": "#F1F5F4",
+   "ink": "#12221F",
+   "muted": "#55665F",
+   "accent": "#1F7A63",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "art",
+  "layout": "split",
+  "logo": "Art Studio Subotica",
+  "links": [
+   "Apartman",
+   "Galerija",
+   "Subotica",
+   "Kontakt"
+  ],
+  "phone": "065 357 6070",
+  "h1": "Art Studio Apartment,<br>Subotica",
+  "lede": "Udoban, čist i potpuno opremljen studio u mirnom delu Subotice, na kratku šetnju od centra.",
+  "cta": "Pošaljite upit",
+  "cta2": "Galerija",
+  "rt": "5,0",
+  "rev": "27",
+  "quote": "I had a great stay with Marijana. She was welcoming, communicative and always available.",
+  "qby": "Jovana, Google recenzija",
+  "services": [
+   "Soba",
+   "Trpezarija",
+   "Kuhinja",
+   "Radni kutak"
+  ],
+  "reviews": [
+   [
+    "We enjoyed this cozy, clean, and well-equipped apartment so much that we extended our stay for another month.",
+    "Gulmokh"
+   ],
+   [
+    "The apartment is very clean, cozy, and thoughtfully equipped with everything you need.",
+    "Ivan"
+   ],
+   [
+    "Great stay, nice apartment, well equipped. Walking distance to the center.",
+    "Goran"
+   ]
+  ],
+  "style": {
+   "gf": "DM+Serif+Display&family=DM+Sans:wght@400;600;700",
+   "body": "\"DM Sans\",sans-serif",
+   "disp": "\"DM Serif Display\",serif",
+   "dw": "400",
+   "bg": "#F2F4F1",
+   "ink": "#16231C",
+   "muted": "#56645B",
+   "accent": "#3B7A60",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "sunce",
+  "layout": "full",
+  "logo": "Vila Sunce",
+  "links": [
+   "Sobe",
+   "Terase",
+   "Atomska banja",
+   "Kontakt"
+  ],
+  "phone": "064 840 3419",
+  "h1": "Vila Sunce,<br>Atomska banja",
+  "lede": "Vila novijeg tipa sa sobama sa sopstvenim kupatilom i velikim terasama na svakom spratu, u Gornjoj Trepči.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "17",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 13. nov",
+   "Ned, 15. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Terasa",
+   "Vila",
+   "Pogled",
+   "Spratovi"
+  ],
+  "reviews": [
+   [
+    "Najbolji smeštaj u banji, odlični domaćini!!!",
+    "Vladislav"
+   ],
+   [
+    "Fantastična vila. Odlični uslovi. Preporuke. Divni domaćini.",
+    "Miloš"
+   ],
+   [
+    "Prelepa vila za odmor i opuštanje, čista i pedantna, ljubazno osoblje.",
+    "Slavica"
+   ]
+  ],
+  "style": {
+   "gf": "Marcellus&family=Jost:wght@400;500;600",
+   "body": "Jost,sans-serif",
+   "disp": "Marcellus,serif",
+   "dw": "400",
+   "bg": "#F7F4EC",
+   "ink": "#2A2212",
+   "muted": "#6A604A",
+   "accent": "#C28A1C",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "76",
+   "h1m": "44"
+  }
  }
 ]
