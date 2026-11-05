@@ -1469,11 +1469,11 @@
   "site": "Samo portal, nema svoj sajt",
   "kanal": "WhatsApp",
   "sent": "WhatsApp 5.11. (slika sa njihovim fotografijama i recenzijama)",
-  "status": "poslato",
-  "followup": "11.11.",
+  "status": "odbio",
+  "followup": "",
   "img": "",
   "msg": "Dobar dan, ja sam Stefan, pravim sajtove. Video sam Art Studio Apartment u Subotici, čista petica sa 27 recenzija. Gosti hvale Marijanu, čistoću i opremljenost, jedan par je čak produžio boravak za još mesec dana.\n\nNa Google mapama umesto vašeg sajta stoji link ka portalu subotica-apartmani.rs, među drugim oglasima.\n\nNapravio sam primer kako bi izgledao vaš sajt, sa vašim slikama i recenzijama gostiju, šaljem sliku. Javite se ako vas zanima.",
-  "note": ""
+  "note": "Vlasnica Marijana je i sama web developer (hellomymenu.com). Ne nuditi dalje."
  },
  {
   "n": "Vila Sunce",
@@ -1492,5 +1492,23 @@
   "img": "",
   "msg": "Dobar dan, ja sam Stefan i pravim sajtove. Video sam Vilu Sunce u Atomskoj banji, 4,8 na Google-u. Gosti pišu da je to najbolji smeštaj u banji, sa divnim domaćinima.\n\nVaš sajt je na tuđem poddomenu vilasunce.mvs.rs, a ne na sopstvenoj adresi, pa ga je teže pronaći i pamtiti.\n\nNapravio sam primer novog sajta sa vašim fotografijama i utiscima gostiju, šaljem sliku. Ako vam se dopadne, javite se.",
   "note": ""
+ },
+ {
+  "n": "Gaga Invest",
+  "grad": "Obrenovac",
+  "cat": "Investitor / gradnja",
+  "tel": "0638807320",
+  "rt": 0,
+  "rev": 0,
+  "domain": "nema (gagainvest.rs i .com ne postoje)",
+  "problem": "nema sajt, stanovi samo na Instagramu i Facebooku",
+  "site": "Nema sajt (provereno)",
+  "kanal": "WhatsApp",
+  "sent": "WhatsApp 5.11. (sa linkovima modusgradnja.rs i stefanstevic.rs)",
+  "status": "poslato",
+  "followup": "11.11.",
+  "img": "",
+  "msg": "Poruka sa linkovima ka Modus Gradnji i portfoliju, ponuda sajta za Queen's residence 1, 2 i 3.",
+  "note": "Mejl: gagainvest97@gmail.com. Instagram @gaga__invest."
  }
 ]
