@@ -3727,5 +3727,350 @@
    "h1": "76",
    "h1m": "44"
   }
+ },
+ {
+  "slug": "ap67",
+  "layout": "split",
+  "logo": "Apartment 67",
+  "links": [
+   "Apartman",
+   "Galerija",
+   "Bajina Bašta",
+   "Kontakt"
+  ],
+  "phone": "066 115 050",
+  "h1": "Apartment 67,<br>Bajina Bašta",
+  "lede": "Prostran i uredan apartman u Svetosavskoj 67, u centru Bajine Bašte, na korak od Drine i Tare.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "5,0",
+  "rev": "13",
+  "quote": "Prijatan i uredan prostor. Ako prolazimo, evo nas opet!",
+  "qby": "Isidora, Google recenzija",
+  "services": [
+   "Dnevna soba",
+   "Kuhinja",
+   "Spavaća soba",
+   "Pogled"
+  ],
+  "reviews": [
+   [
+    "Lepi ljudi, dobar smeštaj, svaka preporuka.",
+    "Stefan"
+   ],
+   [
+    "Odličan smeštaj u svakom pogledu.",
+    "Boban"
+   ],
+   [
+    "Čisto, udobno, prijatno.",
+    "Vladimir"
+   ]
+  ],
+  "style": {
+   "gf": "Fraunces:opsz,wght@9..144,500&family=Inter:wght@400;600;700",
+   "body": "Inter,sans-serif",
+   "disp": "Fraunces,serif",
+   "dw": "500",
+   "bg": "#F3F1EC",
+   "ink": "#1D2430",
+   "muted": "#5B6270",
+   "accent": "#2F5D8A",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "simica",
+  "layout": "full",
+  "logo": "Simića ćoše",
+  "links": [
+   "Apartmani",
+   "Terase",
+   "Vrdnik",
+   "Kontakt"
+  ],
+  "phone": "069 321 8000",
+  "h1": "Simića ćoše,<br>apartmani u Vrdniku",
+  "lede": "Moderni apartmani sa terasom i pogledom, podnim grejanjem i parkingom, u Mikice Lesjaka 31.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "167",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 27. nov",
+   "Ned, 29. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Spavaća soba",
+   "Dnevni boravak",
+   "Terasa",
+   "Dvorište"
+  ],
+  "reviews": [
+   [
+    "Great, modern apartments, excellent location, warm hospitality!",
+    "Ana"
+   ],
+   [
+    "Superb cleanliness. Apartments have underfloor heating, AC and everything that you may need.",
+    "G."
+   ],
+   [
+    "Everything is excellent from parking to bathroom.",
+    "Milan"
+   ]
+  ],
+  "style": {
+   "gf": "Playfair+Display:wght@500&family=Manrope:wght@400;600;700",
+   "body": "Manrope,sans-serif",
+   "disp": "\"Playfair Display\",serif",
+   "dw": "500",
+   "bg": "#F5F2EE",
+   "ink": "#22201C",
+   "muted": "#6B655B",
+   "accent": "#8A5A2B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "74",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "drinski",
+  "layout": "full",
+  "logo": "Drinski konak",
+  "links": [
+   "Sobe",
+   "Drina",
+   "Galerija",
+   "Kontakt"
+  ],
+  "phone": "062 896 1262",
+  "h1": "Drinski konak,<br>sobe pored Drine",
+  "lede": "Nove sobe sa podnim grejanjem, pogledom na Drinu, privatnim parkingom i dvorištem, u Bajinoj Bašti.",
+  "cta": "Proverite slobodne sobe",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "30",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 27. nov",
+   "Ned, 29. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Kuća",
+   "Sobe",
+   "Pogled na Drinu",
+   "Dvorište"
+  ],
+  "reviews": [
+   [
+    "Odličan smeštaj, prelep pogled na reku Drinu. Podno grejanje, svaka soba ima TV i bežični internet.",
+    "Darko"
+   ],
+   [
+    "Idealna lokacija blizu kuće na Drini. Vlasnik je veoma uslužan.",
+    "Aleksandra"
+   ],
+   [
+    "Odlična lokacija, besplatan parking, čisto, uredno. Toplo preporučujem!",
+    "Darko"
+   ]
+  ],
+  "style": {
+   "gf": "Lora:wght@500&family=Source+Sans+3:wght@400;600;700",
+   "body": "\"Source Sans 3\",sans-serif",
+   "disp": "Lora,serif",
+   "dw": "500",
+   "bg": "#EEF3F1",
+   "ink": "#16302B",
+   "muted": "#4E6560",
+   "accent": "#1F6E5C",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "72",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "bakic",
+  "layout": "split",
+  "logo": "Domaćinstvo Bakić",
+  "links": [
+   "Sobe",
+   "Domaća kuhinja",
+   "Fruška gora",
+   "Kontakt"
+  ],
+  "phone": "064 240 3793",
+  "h1": "Domaćinstvo Bakić,<br>Fruška gora",
+  "lede": "Seosko domaćinstvo na pet minuta od Iriškog venca, sa udobnim sobama, kaminom i domaćom hranom.",
+  "cta": "Pošaljite upit",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "124",
+  "quote": "Veoma prijatni domaćini, udoban smeštaj i preukusna hrana.",
+  "qby": "Boris, Google recenzija",
+  "services": [
+   "Sobe",
+   "Kamin",
+   "Domaća hrana",
+   "Trem"
+  ],
+  "reviews": [
+   [
+    "Predivno! Ljudi jako gostoprimljivi, odlična hrana, čiste i uredne sobe i kupatila.",
+    "Milica"
+   ],
+   [
+    "Food was amazing. Marija and Siniša are incredible hosts, we can't wait to be back again!",
+    "Ira"
+   ],
+   [
+    "Na svega pet minuta od Iriškog venca nalazi se domaćinstvo Bakić.",
+    "Uroš"
+   ]
+  ],
+  "style": {
+   "gf": "Cormorant+Garamond:wght@600&family=Nunito+Sans:wght@400;600;700",
+   "body": "\"Nunito Sans\",sans-serif",
+   "disp": "\"Cormorant Garamond\",serif",
+   "dw": "600",
+   "bg": "#F6F0E6",
+   "ink": "#2B2118",
+   "muted": "#6E5F50",
+   "accent": "#9A4A24",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "70",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "maslacak",
+  "layout": "full",
+  "logo": "Apartmani Maslačak",
+  "links": [
+   "Apartmani",
+   "Bazen",
+   "Vrdnik",
+   "Kontakt"
+  ],
+  "phone": "066 924 1234",
+  "h1": "Apartmani Maslačak,<br>Vrdnik",
+  "lede": "Novi, lepo opremljeni apartmani sa bazenom i sređenim dvorištem, daleko od gradske buke.",
+  "cta": "Proverite slobodne termine",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "124",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 27. nov",
+   "Ned, 29. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Spavaća soba",
+   "Dnevni boravak",
+   "Trpezarija",
+   "Letnja kuhinja"
+  ],
+  "reviews": [
+   [
+    "Proveli smo predivan odmor u lepom apartmanu u kom je sve čisto, mirisno, lepo opremljeno i udobno.",
+    "Biserka"
+   ],
+   [
+    "Izuzetan apartman sa svom udobnošću doma, daleko od gradske buke i brzog života.",
+    "Božidar"
+   ],
+   [
+    "Milena the Hostess is so kind and you can bring your small dog with you.",
+    "Biliana"
+   ]
+  ],
+  "style": {
+   "gf": "Libre+Baskerville&family=Work+Sans:wght@400;600;700",
+   "body": "\"Work Sans\",sans-serif",
+   "disp": "\"Libre Baskerville\",serif",
+   "dw": "400",
+   "bg": "#FBF7EC",
+   "ink": "#232014",
+   "muted": "#6A644C",
+   "accent": "#C08A00",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "42"
+  }
+ },
+ {
+  "slug": "biser",
+  "layout": "split",
+  "logo": "Apartmani Biser",
+  "links": [
+   "Apartmani",
+   "Dvorište",
+   "Vrdnik",
+   "Kontakt"
+  ],
+  "phone": "063 597 696",
+  "h1": "Apartmani Biser,<br>Vrdnik",
+  "lede": "Mir, tišina i puno zelenila, blizu banje i restorana. Opremljeni apartmani i dvorište za odmor.",
+  "cta": "Pošaljite upit",
+  "cta2": "Galerija",
+  "rt": "4,9",
+  "rev": "104",
+  "quote": "Lepo mesto, mir, tišina, dobri i prijatni domaćini. Smeštaj odličan i komforan.",
+  "qby": "Đorđe, Google recenzija",
+  "services": [
+   "Apartman",
+   "Kuća",
+   "Letnja bašta",
+   "Dvorište"
+  ],
+  "reviews": [
+   [
+    "Predivno! Čisto, puno zelenila, na dobrom mestu. Domaćini za poželeti.",
+    "Dragana"
+   ],
+   [
+    "Nice place near the bath. The owners are nice and the apartments are well equipped and clean.",
+    "Michaela"
+   ],
+   [
+    "Excellent service, clean, relaxing, great value!",
+    "Vanja"
+   ]
+  ],
+  "style": {
+   "gf": "Spectral:wght@500&family=Figtree:wght@400;600;700",
+   "body": "Figtree,sans-serif",
+   "disp": "Spectral,serif",
+   "dw": "500",
+   "bg": "#F1F4EC",
+   "ink": "#1E2A17",
+   "muted": "#58654F",
+   "accent": "#4C7A2E",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "66",
+   "h1m": "44"
+  }
  }
 ]
