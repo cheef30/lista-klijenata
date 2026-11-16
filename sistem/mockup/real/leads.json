@@ -4072,5 +4072,120 @@
    "h1": "66",
    "h1m": "44"
   }
+ },
+ {
+  "slug": "bogdanovic",
+  "layout": "split",
+  "logo": "Vila Bogdanović",
+  "links": [
+   "Sobe",
+   "Domaća kuhinja",
+   "Stara planina",
+   "Kontakt"
+  ],
+  "phone": "066 508 0735",
+  "h1": "Vila Bogdanović,<br>Stara planina",
+  "lede": "Seoska kuća sa prostranim sobama, domaćom hranom i dvorištem punim cveća, idealna za istraživanje Stare planine.",
+  "cta": "Pošaljite upit",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "25",
+  "quote": "Prelep smeštaj, domaća atmosfera, odlična lokacija za istraživanje Stare planine.",
+  "qby": "Dušica, Google recenzija",
+  "services": [
+   "Kuća",
+   "Dvorište",
+   "Domaća hrana",
+   "Terasa"
+  ],
+  "reviews": [
+   [
+    "Odlična hrana, sobe, domaćini... Stvarno sve pohvale!",
+    "Savo"
+   ],
+   [
+    "Odlična seoska kuća, ljubazni domaćini i udobni kreveti.",
+    "Dragana"
+   ],
+   [
+    "Beautiful place, everything is fine.",
+    "Zoran"
+   ]
+  ],
+  "style": {
+   "gf": "EB+Garamond:wght@600&family=Mulish:wght@400;600;700",
+   "body": "Mulish,sans-serif",
+   "disp": "\"EB Garamond\",serif",
+   "dw": "600",
+   "bg": "#F4F0E8",
+   "ink": "#2A241B",
+   "muted": "#6B6253",
+   "accent": "#7A3E2B",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "70",
+   "h1m": "44"
+  }
+ },
+ {
+  "slug": "babinzub",
+  "layout": "full",
+  "logo": "Vila Babin Zub",
+  "links": [
+   "Sobe",
+   "Domaća hrana",
+   "Stara planina",
+   "Kontakt"
+  ],
+  "phone": "064 124 9909",
+  "h1": "Vila Babin Zub,<br>Stara planina",
+  "lede": "Sobe sa pogledom na Babin Zub, domaća hrana i dvorište, uz domaćine koji znaju svaku stazu.",
+  "cta": "Proverite slobodne sobe",
+  "cta2": "Galerija",
+  "rt": "4,8",
+  "rev": "212",
+  "quote": "",
+  "qby": "",
+  "book": [
+   "Pet, 27. nov",
+   "Ned, 29. nov",
+   "2 odrasla",
+   "Proverite dostupnost"
+  ],
+  "fh": "540px",
+  "services": [
+   "Sobe",
+   "Dvorište",
+   "Domaća hrana",
+   "Priroda"
+  ],
+  "reviews": [
+   [
+    "Preljubazni domaćini, preukusna hrana... Sve naj... Svaka čast.",
+    "Darko"
+   ],
+   [
+    "Prelep ambijent, pogled na Babin Zub sa prozora smeštaja, predivni domaćini, ukusna domaća hrana.",
+    "Marko"
+   ],
+   [
+    "Great hosts, gave us plenty of good hiking advice.",
+    "Uroš"
+   ]
+  ],
+  "style": {
+   "gf": "Merriweather:wght@700&family=Inter:wght@400;600;700",
+   "body": "Inter,sans-serif",
+   "disp": "Merriweather,serif",
+   "dw": "700",
+   "bg": "#EEF2EE",
+   "ink": "#1B2A22",
+   "muted": "#55665B",
+   "accent": "#2E6B47",
+   "on": "#FFFFFF",
+   "card": "#FFFFFF",
+   "h1": "64",
+   "h1m": "40"
+  }
  }
 ]
