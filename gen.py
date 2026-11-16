@@ -141,6 +141,7 @@ NAPOMENA["Guest House on Mountain Tara"]="Odgovorili 23.10.: nisu zainteresovani
 NAPOMENA["Drinska Bajka Apartmani"]="Odgovorili 23.10.: imaju sajt, rekli pošaljite primer bez obaveze. 25.10. poslat primer sa njihovim slikama (direktna rezervacija). Odgovorili 25.10.: \"Hvala Vama\""
 NAPOMENA["Make Muscles 24/7"]="Odgovorili 23.10.: već su uradili sajt, samo ga nisu pustili. Nisu zainteresovani"
 NAPOMENA["Ćućuz Barber"]="Odgovorili 22.10.: \"Ahaam okej, hvala\" (verovatno nisu zainteresovani)"
+NAPOMENA["Apartmani Ivanović"]="Odgovorili 7.11.: \"Sama sam napravila svoj sajt\" (ne treba)"
 IG_NADJEN = {"Restoran Bajka":"@restoran.bajka.lazarevac","Fabrika Italia":"@fabrika_italia_","Restoran Bajka Ub":"@restoran.bajka.ub",
  "Pikadili splav":"@pikadili_restoran_splav","Pizzeria Đuka":"@caffe_pizzeria_djuka","Gostionica Karađorđe":"@gostionica_karadjordje","Kafanica":"@kafanica.lazarevac",
  "Zabran61 Caffebar":"@caffebar_zabran61","Caffe i igraonica Džigibau":"@dzigibau_igraonica","Tom & Jerry igraonica":"@igraonica_tom_and_jerry_",
@@ -189,6 +190,15 @@ if os.path.exists('sistem/kontakti.json'):
         out.append({"n":nm,"grad":x['grad'],"zona":"Obrenovac i okolina" if any(z in x['grad'] for z in OKOLINA) else "Ostatak Srbije",
                     "cat":x['cat'],"tel":x['tel'],"ig":"","sent":x['sent'],"note":(NAPOMENA.get(x['n']) or x['note']),
                     "site":x['site']+": "+x['domain'],"rt":x['rt'],"rev":x['rev'],"p":"A","msg":x['msg'],"email":"","kanal":x['kanal'],"tura":4,"subj":""})
+
+# Unosi koji postoje samo u artifactu (ture 9.-13.11. vodjene van repoa), da ne nestanu iz liste
+if os.path.exists('sistem/artifact_extra.json'):
+    _d8=lambda t: re.sub(r'\D','',t.split('/')[0])[-8:]
+    have={_d8(o['tel']) for o in out}
+    for x in json.load(open('sistem/artifact_extra.json')):
+        if _d8(x['tel']) in have: continue
+        if x['n'] in {o['n'] for o in out}: x['n']=x['n']+f" ({x['grad']})"
+        out.append(x)
 
 order = {"A":0,"B":1,"C":2}
 out.sort(key=lambda x:(x["zona"]!="Obrenovac i okolina", order[x["p"]], x["site"]!="Nema sajt (provereno)", x["n"]!="Auto škola Start", -x["rev"]))

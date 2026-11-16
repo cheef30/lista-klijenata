@@ -25,3 +25,11 @@ vila Zlatibor
 apartmani Kuršumlijska Banja
 apartmani Fruška gora
 apartmani Gornji Milanovac Rudnik
+apartmani Stara planina
+apartmani Bajina Bašta
+auto servis Lazarevac
+apartmani Vrdnik
+apartmani Perućac
+apartmani Brzeće
+auto servis Ub
+apartmani Irig

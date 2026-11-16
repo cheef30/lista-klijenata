@@ -58,3 +58,9 @@ Dobre delatnosti: auto servisi, šlep, PVC/ALU stolarija, roletne, nekretnine, s
 - `sistem/danas.json`: radni fajl za današnju turu (mock podaci i poruke).
 - `mockups/`: gotove slike (javno, samo javni podaci firmi).
 - `waq.json`, `rec.py`, `nb.py`: stari red generičkih poruka (pauziran 25.10.).
+
+## Napomene 16.11.
+- `sistem/artifact_extra.json`: 80 kontakata (ture 9.-13.11., auto placevi i sale) koji su bili samo u artifactu, ne u repou. `gen.py` ih sada dodaje u listu, pa ih proveravaj i pri izbacivanju duplikata.
+- WhatsApp Web se 16.11. izlogovao posle 6 novih poruka i 46 podsetnika poslatih u roku od oko pola sata. Podsetnike ubuduće slati u manjim grupama (najviše 10 do 15 dnevno), ne sve odjednom.
+- Podsetnik nije poslat (ostalo za sledeću turu): 0653060190 (zaglavlje četa ne odgovara broju, proveri ručno), 0604777194, 0641543499, 0653019988, 0605616373, 0659670555, 062568230, 0694274160, 0658989815, 0605701290, 063248691, 063415354, 0615501662, 0648403419, 0638807320, 0603557168.
+- WhatsApp Web ima CSP koji blokira fetch ka raw.githubusercontent.com; skripte za WA tab ubaci u localStorage (`__fu2`, vidi `sistem/fu2.js`) pa `await eval(localStorage.getItem('__fu2'))`.
