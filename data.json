@@ -3780,6 +3780,26 @@
 "id": 189
 },
 {
+"n": "Resavsko Etno Selo",
+"grad": "Despotovac",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0600600350",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "selo.rs: da",
+"rt": 4.2,
+"rev": 449,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Resavsko Etno Selo kod Despotovca, sa čak 449 recenzija na Google mapama. Gosti koji obilaze manastire pišu da je kompleks lepo osmišljen.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji stranica na selo.rs, portalu na kome ste odmah pored etno sela sa Tare, Zlatibora i Divčibara.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 190
+},
+{
 "n": "Svečana sala Amfora",
 "grad": "Šabac",
 "zona": "Ostatak Srbije",
@@ -3797,7 +3817,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 190
+"id": 191
 },
 {
 "n": "Prenoćište Panorama",
@@ -3817,7 +3837,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 191
+"id": 192
 },
 {
 "n": "Miško automobili",
@@ -3837,7 +3857,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 192
+"id": 193
 },
 {
 "n": "Apartmani Milev",
@@ -3857,7 +3877,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 193
+"id": 194
 },
 {
 "n": "Events Center Anđela",
@@ -3877,7 +3897,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 194
+"id": 195
 },
 {
 "n": "Konaci Staro selo Sirogojno",
@@ -3897,7 +3917,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 195
+"id": 196
 },
 {
 "n": "Vila Boska",
@@ -3917,7 +3937,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 196
+"id": 197
 },
 {
 "n": "Etno domaćinstvo Kutlačić",
@@ -3937,7 +3957,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 197
+"id": 198
 },
 {
 "n": "Sala Conty",
@@ -3957,7 +3977,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 198
+"id": 199
 },
 {
 "n": "Svečana sala Harmonija",
@@ -3977,7 +3997,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 199
+"id": 200
 },
 {
 "n": "Sobe Srebrno Jezero",
@@ -3997,7 +4017,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 200
+"id": 201
 },
 {
 "n": "Stara Krčma",
@@ -4017,7 +4037,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 201
+"id": 202
 },
 {
 "n": "Apartmani Banja SPA",
@@ -4037,7 +4057,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 202
+"id": 203
 },
 {
 "n": "Vila Babin Zub",
@@ -4057,7 +4077,7 @@
 "kanal": "Viber (ručno)",
 "tura": 4,
 "subj": "",
-"id": 203
+"id": 204
 },
 {
 "n": "Sala Soalesa",
@@ -4077,7 +4097,7 @@
 "kanal": "Viber",
 "tura": 4,
 "subj": "",
-"id": 204
+"id": 205
 },
 {
 "n": "Apartmani Ranđelović",
@@ -4097,7 +4117,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 205
+"id": 206
 },
 {
 "n": "Vila Graf",
@@ -4117,7 +4137,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 206
+"id": 207
 },
 {
 "n": "Svečana sala Euforija",
@@ -4137,7 +4157,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 207
+"id": 208
 },
 {
 "n": "SM Apartments Kopaonik",
@@ -4157,7 +4177,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 208
+"id": 209
 },
 {
 "n": "Vila Saturea",
@@ -4177,7 +4197,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 209
+"id": 210
 },
 {
 "n": "Apartman DivchyDream",
@@ -4197,7 +4217,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 210
+"id": 211
 },
 {
 "n": "Mladenović apartmani",
@@ -4217,7 +4237,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 211
+"id": 212
 },
 {
 "n": "Auto Niš",
@@ -4237,7 +4257,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 212
+"id": 213
 },
 {
 "n": "Vila Kovilje",
@@ -4257,7 +4277,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 213
+"id": 214
 },
 {
 "n": "Simića ćoše",
@@ -4277,7 +4297,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 214
+"id": 215
 },
 {
 "n": "Exkluziv",
@@ -4297,7 +4317,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 215
+"id": 216
+},
+{
+"n": "Apartmani Tika",
+"grad": "Golubac",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0631834177",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "adampetrol.rs: da",
+"rt": 5.0,
+"rev": 152,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Apartmane Tika u Golupcu, čista petica sa čak 152 recenzije. Gosti hvale pogled na Dunav, besprekornu čistoću i domaćine za koje jedan kaže da su najbolji ljudi koje je upoznao.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji adampetrol.rs, pa gost koji traži smeštaj prvo vidi gorivo, tehnički pregled i registraciju, a apartmani su tek jedna stavka u meniju.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 217
 },
 {
 "n": "Enigma",
@@ -4317,7 +4357,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 216
+"id": 218
 },
 {
 "n": "Sala Glamur",
@@ -4337,7 +4377,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 217
+"id": 219
 },
 {
 "n": "Moderna kuća VIP",
@@ -4357,7 +4397,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 218
+"id": 220
 },
 {
 "n": "Apartmani Divčibare Repić",
@@ -4377,7 +4417,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 219
+"id": 221
 },
 {
 "n": "Gajić Automobili",
@@ -4397,7 +4437,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 220
+"id": 222
 },
 {
 "n": "ViP Rooms 026",
@@ -4417,7 +4457,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 221
+"id": 223
 },
 {
 "n": "Domaćinstvo Bakić",
@@ -4437,7 +4477,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 222
+"id": 224
 },
 {
 "n": "Apartmani Maslačak",
@@ -4457,7 +4497,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 223
+"id": 225
 },
 {
 "n": "Vila kod Dila",
@@ -4477,7 +4517,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 224
+"id": 226
 },
 {
 "n": "Etno domaćinstvo Milenković",
@@ -4497,7 +4537,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 225
+"id": 227
 },
 {
 "n": "Komarnici i Roletne Ivan",
@@ -4517,7 +4557,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 226
+"id": 228
 },
 {
 "n": "Apartmani Nikodijević",
@@ -4537,7 +4577,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 227
+"id": 229
 },
 {
 "n": "Crystal Event",
@@ -4557,7 +4597,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 228
+"id": 230
 },
 {
 "n": "Vila Iva",
@@ -4577,7 +4617,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 229
+"id": 231
 },
 {
 "n": "Belvedere svečana sala",
@@ -4597,7 +4637,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 230
+"id": 232
+},
+{
+"n": "Vila Anna",
+"grad": "Palić",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0640707224",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "vila-anna.netlify.app: da",
+"rt": 4.6,
+"rev": 114,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Vilu Anna na Paliću, 4,6 sa 114 recenzija. Gosti hvale toplu domaćicu i pišu da je sve uredno i čisto.\n\nJedino što mi je zapalo za oko je sajt vila-anna.netlify.app. Dosta je star po izgledu, sa jarko zelenom pozadinom i malim slikama, pa ne pokazuje koliko je kod vas zapravo lepo.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 233
 },
 {
 "n": "Vila Vrh",
@@ -4617,7 +4677,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 231
+"id": 234
 },
 {
 "n": "Auto Maki",
@@ -4637,7 +4697,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 232
+"id": 235
+},
+{
+"n": "Guest House Keserović",
+"grad": "Vinci, Golubac",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0646704565",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "guest-house-keserovic.worhot.com: da",
+"rt": 4.5,
+"rev": 105,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Guest House Keserović u Vincima, 4,5 sa 105 recenzija. Gosti hvale domaćine, mir šume pored Dunava i, kako jedan kaže, predivan doručak.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji stranica na worhot.com, a to je tuđi portal, ne vaš sajt.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 236
 },
 {
 "n": "Apartmani Biser",
@@ -4657,7 +4737,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 233
+"id": 237
 },
 {
 "n": "Taj Auto",
@@ -4677,7 +4757,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 234
+"id": 238
 },
 {
 "n": "Apartmani Srebrna Nit",
@@ -4697,7 +4777,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 235
+"id": 239
 },
 {
 "n": "Sobe Gajić",
@@ -4717,7 +4797,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 236
+"id": 240
 },
 {
 "n": "International Inn",
@@ -4737,7 +4817,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 237
+"id": 241
 },
 {
 "n": "Glamur Event Hall",
@@ -4757,7 +4837,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 238
+"id": 242
 },
 {
 "n": "Svečana sala Kitog",
@@ -4777,7 +4857,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 239
+"id": 243
 },
 {
 "n": "Auto Centar Filipović",
@@ -4797,7 +4877,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 240
+"id": 244
 },
 {
 "n": "Karta Grada",
@@ -4817,7 +4897,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 241
+"id": 245
 },
 {
 "n": "Srećni ljudi",
@@ -4837,7 +4917,7 @@
 "kanal": "Viber",
 "tura": 4,
 "subj": "",
-"id": 242
+"id": 246
 },
 {
 "n": "Auto plac Manager",
@@ -4857,7 +4937,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 243
+"id": 247
 },
 {
 "n": "Apartmani Viktorija",
@@ -4877,7 +4957,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 244
+"id": 248
 },
 {
 "n": "Vila Zorica",
@@ -4897,7 +4977,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 245
+"id": 249
 },
 {
 "n": "Garni Hotel H2O",
@@ -4917,7 +4997,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 246
+"id": 250
 },
 {
 "n": "Svečana sala Velvet",
@@ -4937,7 +5017,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 247
+"id": 251
 },
 {
 "n": "JTP Apartmani",
@@ -4957,7 +5037,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 248
+"id": 252
 },
 {
 "n": "Kuća za odmor Radovanović",
@@ -4977,7 +5057,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 249
+"id": 253
 },
 {
 "n": "Sala Lux Rano Jutro",
@@ -4997,7 +5077,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 250
+"id": 254
+},
+{
+"n": "Brvnare Spasić",
+"grad": "Vinci, Golubac",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "069708091",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "brvnarespasic.com.es: da",
+"rt": 4.6,
+"rev": 74,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Brvnare Spasić u Vincima, 4,6 sa 74 recenzije. Gosti hvale domaćina i pišu da je mesto kao iz bajke, sa Dunavom odmah pored.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji brvnarespasic.com.es, a taj link zapravo vodi na španski sajt HotelMania, gde je sve napisano na španskom.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 255
 },
 {
 "n": "Apartment BB",
@@ -5017,7 +5117,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 251
+"id": 256
+},
+{
+"n": "Apartmani ALFA Ljiljana",
+"grad": "Banja Vrujci",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0659755900",
+"ig": "",
+"sent": "",
+"note": "nema WhatsApp",
+"site": "banjavrujci.info: da",
+"rt": 4.5,
+"rev": 71,
+"p": "A",
+"msg": "",
+"email": "",
+"kanal": "Viber",
+"tura": 4,
+"subj": "",
+"id": 257
 },
 {
 "n": "Apartmani Jančić",
@@ -5037,7 +5157,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 252
+"id": 258
 },
 {
 "n": "Mali automobili",
@@ -5057,7 +5177,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 253
+"id": 259
 },
 {
 "n": "Filigran",
@@ -5077,7 +5197,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 254
+"id": 260
 },
 {
 "n": "In Auto Team",
@@ -5097,7 +5217,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 255
+"id": 261
 },
 {
 "n": "Sala Ružić",
@@ -5117,7 +5237,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 256
+"id": 262
 },
 {
 "n": "Central Auto Group",
@@ -5137,7 +5257,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 257
+"id": 263
 },
 {
 "n": "Planinski kutak Tara",
@@ -5157,7 +5277,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 258
+"id": 264
 },
 {
 "n": "Rubik Automobili",
@@ -5177,7 +5297,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 259
+"id": 265
 },
 {
 "n": "Apartmani Grgurević",
@@ -5197,7 +5317,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 260
+"id": 266
 },
 {
 "n": "Apartmani M&M Divčibare",
@@ -5217,7 +5337,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 261
+"id": 267
 },
 {
 "n": "Lombardia Automobili",
@@ -5237,7 +5357,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 262
+"id": 268
 },
 {
 "n": "Vila Jovanović",
@@ -5257,7 +5377,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 263
+"id": 269
 },
 {
 "n": "Sala Hilston",
@@ -5277,7 +5397,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 264
+"id": 270
 },
 {
 "n": "Apartmani Neven",
@@ -5297,7 +5417,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 265
+"id": 271
 },
 {
 "n": "APEX auto",
@@ -5317,7 +5437,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 266
+"id": 272
 },
 {
 "n": "Vila Popović",
@@ -5337,7 +5457,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 267
+"id": 273
 },
 {
 "n": "MR Auto",
@@ -5357,7 +5477,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 268
+"id": 274
 },
 {
 "n": "Carlo Cars",
@@ -5377,7 +5497,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 269
+"id": 275
 },
 {
 "n": "Pleasure SPA Apartment",
@@ -5397,7 +5517,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 270
+"id": 276
+},
+{
+"n": "Apartman Barka",
+"grad": "Golubac",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0643008590",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "barka-apartman.com.es: da",
+"rt": 5.0,
+"rev": 55,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Apartman Barka u Golupcu, čista petica sa 55 recenzija. Gosti pišu da je sve besprekorno čisto, da su domaćini divni i hvale mesto na samom ulazu u Đerdapsku klisuru.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji barka-apartman.com.es, a taj link zapravo vodi na španski sajt HotelMania, gde je sve napisano na španskom.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 277
 },
 {
 "n": "Inauto 32",
@@ -5417,7 +5557,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 271
+"id": 278
 },
 {
 "n": "SV Motors",
@@ -5437,7 +5577,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 272
+"id": 279
 },
 {
 "n": "House of Surprise",
@@ -5457,7 +5597,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 273
+"id": 280
 },
 {
 "n": "ACM motors",
@@ -5477,7 +5617,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 274
+"id": 281
 },
 {
 "n": "Arielove kolibe",
@@ -5497,7 +5637,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 275
+"id": 282
 },
 {
 "n": "Everest Automobili",
@@ -5517,7 +5657,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 276
+"id": 283
 },
 {
 "n": "Fine Cars",
@@ -5537,7 +5677,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 277
+"id": 284
 },
 {
 "n": "Žeki Auto",
@@ -5557,7 +5697,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 278
+"id": 285
 },
 {
 "n": "Apartmani Grujić",
@@ -5577,7 +5717,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 279
+"id": 286
 },
 {
 "n": "Apartmani Sunčani Breg",
@@ -5597,7 +5737,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 280
+"id": 287
 },
 {
 "n": "Auto plac Trošarina",
@@ -5617,7 +5757,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 281
+"id": 288
 },
 {
 "n": "Vila Tarnik",
@@ -5637,7 +5777,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 282
+"id": 289
 },
 {
 "n": "Holland Cars",
@@ -5657,7 +5797,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 283
+"id": 290
 },
 {
 "n": "Premija PVC Stolarija",
@@ -5677,7 +5817,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 284
+"id": 291
 },
 {
 "n": "Apartments DM",
@@ -5697,7 +5837,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 285
+"id": 292
 },
 {
 "n": "Apartman Ostojić",
@@ -5717,7 +5857,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 286
+"id": 293
 },
 {
 "n": "Dušanov konak",
@@ -5737,7 +5877,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 287
+"id": 294
 },
 {
 "n": "Vikendica Nina",
@@ -5757,7 +5897,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 288
+"id": 295
 },
 {
 "n": "Brvnara Zlatiborka",
@@ -5777,7 +5917,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 289
+"id": 296
+},
+{
+"n": "Apartman Bogojević",
+"grad": "Golubac",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "063284615",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "apartman-bogojevic.worhot.com: da",
+"rt": 4.5,
+"rev": 46,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Apartman Bogojević u Golupcu, 4,5 sa 46 recenzija. Gosti hvale pogled na Dunav i tvrđavu i to što ih u stanu čekaju slatkiši i piće dobrodošlice.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji stranica na worhot.com, a to je tuđi portal, ne vaš sajt.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 297
 },
 {
 "n": "Imperia S",
@@ -5797,7 +5957,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 290
+"id": 298
 },
 {
 "n": "Apartmani Bojana",
@@ -5817,7 +5977,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 291
+"id": 299
 },
 {
 "n": "Apartmani Krstić",
@@ -5837,7 +5997,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 292
+"id": 300
 },
 {
 "n": "Apartmani Dragan-na Kopaonik",
@@ -5857,7 +6017,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 293
+"id": 301
 },
 {
 "n": "Auto Pepe",
@@ -5877,7 +6037,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 294
+"id": 302
 },
 {
 "n": "Apartmani City Negotin",
@@ -5897,7 +6057,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 295
+"id": 303
 },
 {
 "n": "Auto Bata",
@@ -5917,7 +6077,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 296
+"id": 304
 },
 {
 "n": "Apartmani Nina S",
@@ -5937,7 +6097,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 297
+"id": 305
 },
 {
 "n": "Aleksa automobili",
@@ -5957,7 +6117,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 298
+"id": 306
 },
 {
 "n": "Svečana sala Lasta",
@@ -5977,7 +6137,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 299
+"id": 307
 },
 {
 "n": "Sala Residence M",
@@ -5997,7 +6157,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 300
+"id": 308
 },
 {
 "n": "Siki",
@@ -6017,7 +6177,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 301
+"id": 309
 },
 {
 "n": "Apartmani 4REST Tara",
@@ -6037,7 +6197,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 302
+"id": 310
 },
 {
 "n": "PSC Motortrade",
@@ -6057,7 +6217,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 303
+"id": 311
 },
 {
 "n": "Auto Prle",
@@ -6077,7 +6237,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 304
+"id": 312
 },
 {
 "n": "Nora Event Centar",
@@ -6097,7 +6257,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 305
+"id": 313
 },
 {
 "n": "Kod Nas",
@@ -6117,7 +6277,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 306
+"id": 314
 },
 {
 "n": "Beli Bor Zlatibor",
@@ -6137,7 +6297,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 307
+"id": 315
 },
 {
 "n": "Vukmanov automobili",
@@ -6157,7 +6317,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 308
+"id": 316
 },
 {
 "n": "Drinski konak",
@@ -6177,7 +6337,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 309
+"id": 317
 },
 {
 "n": "Sala Adut",
@@ -6197,7 +6357,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 310
+"id": 318
 },
 {
 "n": "Ivin Gaj",
@@ -6217,7 +6377,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 311
+"id": 319
 },
 {
 "n": "Apartment 12-9",
@@ -6237,7 +6397,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 312
+"id": 320
 },
 {
 "n": "Art Studio Apartment",
@@ -6257,7 +6417,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 313
+"id": 321
 },
 {
 "n": "MassAuto021",
@@ -6277,7 +6437,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 314
+"id": 322
 },
 {
 "n": "SD Auto",
@@ -6297,7 +6457,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 315
+"id": 323
 },
 {
 "n": "Event Poleto",
@@ -6317,7 +6477,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 316
+"id": 324
 },
 {
 "n": "Vila Bogdanović",
@@ -6337,7 +6497,7 @@
 "kanal": "Viber (ručno)",
 "tura": 4,
 "subj": "",
-"id": 317
+"id": 325
 },
 {
 "n": "Brvnare Golo Brdo",
@@ -6357,7 +6517,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 318
+"id": 326
 },
 {
 "n": "Rolo 011",
@@ -6377,7 +6537,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 319
+"id": 327
 },
 {
 "n": "Lux Apartmani Novi Park",
@@ -6397,7 +6557,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 320
+"id": 328
 },
 {
 "n": "Grage Lux",
@@ -6417,7 +6577,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 321
+"id": 329
 },
 {
 "n": "Sala za proslave Brestovo",
@@ -6437,7 +6597,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 322
+"id": 330
 },
 {
 "n": "MB Apartmani",
@@ -6457,7 +6617,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 323
+"id": 331
+},
+{
+"n": "Bakina kuća",
+"grad": "Golubac",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0648141062",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "bakinakucagolubac.rs: da",
+"rt": 5.0,
+"rev": 22,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Bakinu kuću u Golupcu, čista petica sa 22 recenzije. Gosti pišu da je kuća udobna, čista i odlično opremljena, sa dosta mesta za parking.\n\nJedino što mi je zapalo za oko je da na Google mapama stoji bakinakucagolubac.rs, ali taj domen više ne postoji, pa se umesto sajta otvara greška.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 332
 },
 {
 "n": "MB Apartmani Kopaonik",
@@ -6477,7 +6657,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 324
+"id": 333
 },
 {
 "n": "Smeštaj Miljković",
@@ -6497,7 +6677,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 325
+"id": 334
 },
 {
 "n": "Apartmani Krivokuća",
@@ -6517,7 +6697,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 326
+"id": 335
+},
+{
+"n": "Apartmani My Way",
+"grad": "Ribarska Banja",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0656107800",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "ribarskabanjasmestaj.rs: da",
+"rt": 4.9,
+"rev": 18,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Apartmane My Way u Ribarskoj Banji, 4,9 sa 18 recenzija. Gosti hvale potpuno nove apartmane u šumi i domaćina Gorana, a jedan gost vam sa majkom dolazi već treću godinu zaredom.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji ribarskabanjasmestaj.rs, portal sa više smeštaja u banji, pa gost nema stranicu samo za My Way.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 336
 },
 {
 "n": "Vila Sunce",
@@ -6537,7 +6737,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 327
+"id": 337
 },
 {
 "n": "Top Speed Auto",
@@ -6557,7 +6757,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 328
+"id": 338
 },
 {
 "n": "Luca Cars",
@@ -6577,7 +6777,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 329
+"id": 339
 },
 {
 "n": "Inbus Popravka PVC stolarije",
@@ -6597,7 +6797,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 330
+"id": 340
 },
 {
 "n": "GM Motors Team",
@@ -6617,7 +6817,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 331
+"id": 341
 },
 {
 "n": "In Trento Auto",
@@ -6637,7 +6837,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 332
+"id": 342
 },
 {
 "n": "NIKI HILL",
@@ -6657,7 +6857,27 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 333
+"id": 343
+},
+{
+"n": "Apartmani Vila Ana",
+"grad": "Banja Vrujci",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0643501331",
+"ig": "",
+"sent": "",
+"note": "nema WhatsApp",
+"site": "banjavrujci.info: da",
+"rt": 5.0,
+"rev": 14,
+"p": "A",
+"msg": "",
+"email": "",
+"kanal": "Viber",
+"tura": 4,
+"subj": "",
+"id": 344
 },
 {
 "n": "Apartmani Angelina",
@@ -6677,7 +6897,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 334
+"id": 345
 },
 {
 "n": "Apartment 67",
@@ -6697,7 +6917,47 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 335
+"id": 346
+},
+{
+"n": "Smeštaj Filipović",
+"grad": "Banja Vrujci",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0638082140",
+"ig": "",
+"sent": "",
+"note": "nema WhatsApp",
+"site": "banjavrujci.info: da",
+"rt": 4.6,
+"rev": 13,
+"p": "A",
+"msg": "",
+"email": "",
+"kanal": "Viber",
+"tura": 4,
+"subj": "",
+"id": 347
+},
+{
+"n": "Apartmani Pakić",
+"grad": "Banja Vrujci",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "062428859",
+"ig": "",
+"sent": "",
+"note": "nema WhatsApp",
+"site": "banjavrujci.info: da",
+"rt": 5.0,
+"rev": 12,
+"p": "A",
+"msg": "",
+"email": "",
+"kanal": "Viber",
+"tura": 4,
+"subj": "",
+"id": 348
 },
 {
 "n": "Apartman Dragana",
@@ -6717,7 +6977,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 336
+"id": 349
 },
 {
 "n": "Top Motors",
@@ -6737,7 +6997,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 337
+"id": 350
 },
 {
 "n": "Mič Doče",
@@ -6757,7 +7017,47 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 338
+"id": 351
+},
+{
+"n": "Apartmani Jasminka",
+"grad": "Banja Vrujci",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "0604150515",
+"ig": "",
+"sent": "19.11",
+"note": "novi mockup, niša smeštaj",
+"site": "banjavrujci.info: da",
+"rt": 5.0,
+"rev": 10,
+"p": "A",
+"msg": "Dobro veče! Ja sam Stefan Stević, pravim sajtove za apartmane i smeštaj.\n\nVideo sam Apartmane Jasminka u Banji Vrujci, čista petica. Gosti hvale prelepo dvorište i terase, čistoću i potpunu tišinu, a bazeni su na par minuta.\n\nJedino što mi je zapalo za oko je da na Google mapama kao vaš sajt stoji banjavrujci.info, portal sa smeštajem iz cele banje, pa ste tamo u istoj listi sa svima ostalima.\n\nZato sam napravio primer kako bi vaš sajt mogao da izgleda, sa vašim fotografijama i utiscima gostiju, šaljem ga na slici. Gosti bi tu videli sve na jednom mestu i mogli da vas pozovu ili pišu na WhatsApp direktno. Bez ikakve obaveze, ako vam se dopadne, javite se da popričamo.",
+"email": "",
+"kanal": "WhatsApp",
+"tura": 4,
+"subj": "",
+"id": 352
+},
+{
+"n": "Apartmani Glavinić",
+"grad": "Ivanjica",
+"zona": "Ostatak Srbije",
+"cat": "Smeštaj",
+"tel": "062651404",
+"ig": "",
+"sent": "",
+"note": "nema WhatsApp",
+"site": "ivatourism.org: da",
+"rt": 4.7,
+"rev": 6,
+"p": "A",
+"msg": "",
+"email": "",
+"kanal": "Viber",
+"tura": 4,
+"subj": "",
+"id": 353
 },
 {
 "n": "Tauroll roletne i komarnici",
@@ -6777,7 +7077,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 339
+"id": 354
 },
 {
 "n": "Popravka prozora Sim Mont",
@@ -6797,7 +7097,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 340
+"id": 355
 },
 {
 "n": "Ratković Izgradnja",
@@ -6817,7 +7117,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 341
+"id": 356
 },
 {
 "n": "SAX Building",
@@ -6837,7 +7137,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 342
+"id": 357
 },
 {
 "n": "Antić 22",
@@ -6857,7 +7157,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 343
+"id": 358
 },
 {
 "n": "Auto centar Banjo",
@@ -6877,7 +7177,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 344
+"id": 359
 },
 {
 "n": "Auto plac Petrović",
@@ -6897,7 +7197,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 345
+"id": 360
 },
 {
 "n": "3M Automobili",
@@ -6917,7 +7217,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 346
+"id": 361
 },
 {
 "n": "Best Auto",
@@ -6937,7 +7237,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 347
+"id": 362
 },
 {
 "n": "VD Auto Valjevo",
@@ -6957,7 +7257,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 348
+"id": 363
 },
 {
 "n": "Auto Simić Valjevo",
@@ -6977,7 +7277,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 349
+"id": 364
 },
 {
 "n": "Auto Centar Živković 014",
@@ -6997,7 +7297,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 350
+"id": 365
 },
 {
 "n": "DMV 242 automobile",
@@ -7017,7 +7317,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 351
+"id": 366
 },
 {
 "n": "Auto plac LN Cars",
@@ -7037,7 +7337,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 352
+"id": 367
 },
 {
 "n": "MAKO Furniture",
@@ -7057,7 +7357,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 353
+"id": 368
 },
 {
 "n": "Auto centar Kostić",
@@ -7077,7 +7377,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 354
+"id": 369
 },
 {
 "n": "A Mobile",
@@ -7097,7 +7397,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 355
+"id": 370
 },
 {
 "n": "MPP Auto 013",
@@ -7117,7 +7417,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 356
+"id": 371
 },
 {
 "n": "Bojke Automobili",
@@ -7137,7 +7437,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 357
+"id": 372
 },
 {
 "n": "Exotic Cars",
@@ -7157,7 +7457,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 358
+"id": 373
 },
 {
 "n": "Robi Automobili",
@@ -7177,7 +7477,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 359
+"id": 374
 },
 {
 "n": "Balkan Pan",
@@ -7197,7 +7497,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 360
+"id": 375
 },
 {
 "n": "Urošević Cars",
@@ -7217,7 +7517,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 361
+"id": 376
 },
 {
 "n": "BG MIX Automobili",
@@ -7237,7 +7537,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 362
+"id": 377
 },
 {
 "n": "Auto Kuća Royal",
@@ -7257,7 +7557,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 363
+"id": 378
 },
 {
 "n": "Fiba Auto",
@@ -7277,7 +7577,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 364
+"id": 379
 },
 {
 "n": "Auto centar Moćan In",
@@ -7297,7 +7597,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 365
+"id": 380
 },
 {
 "n": "Auto kuća Milenković",
@@ -7317,7 +7617,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 366
+"id": 381
 },
 {
 "n": "AutoStore Niš",
@@ -7337,7 +7637,7 @@
 "kanal": "WhatsApp",
 "tura": 4,
 "subj": "",
-"id": 367
+"id": 382
 },
 {
 "n": "JNR Landscaping & Lawn Care",
@@ -7357,7 +7657,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 368
+"id": 383
 },
 {
 "n": "Mr. Help",
@@ -7377,7 +7677,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 369
+"id": 384
 },
 {
 "n": "Big Mike's Handyman Service",
@@ -7397,7 +7697,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 370
+"id": 385
 },
 {
 "n": "Red Line Lawn Care",
@@ -7417,7 +7717,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 371
+"id": 386
 },
 {
 "n": "Musselman Tree Service",
@@ -7437,7 +7737,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 372
+"id": 387
 },
 {
 "n": "J.A.W Excavating & Tree Services",
@@ -7457,7 +7757,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 373
+"id": 388
 },
 {
 "n": "Jennifer Smith Cleaning Service",
@@ -7477,7 +7777,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 374
+"id": 389
 },
 {
 "n": "Wilson's Lawn Care",
@@ -7497,7 +7797,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 375
+"id": 390
 },
 {
 "n": "Dragonfly Cleaning Services",
@@ -7517,7 +7817,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 376
+"id": 391
 },
 {
 "n": "Tuttle's Cleaning Services",
@@ -7537,7 +7837,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 377
+"id": 392
 },
 {
 "n": "Jessica's Fresh Start Cleaning",
@@ -7557,7 +7857,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 378
+"id": 393
 },
 {
 "n": "Premier Junk & Trash Removal",
@@ -7577,7 +7877,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 379
+"id": 394
 },
 {
 "n": "Namaste Cleaning LLC",
@@ -7597,7 +7897,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 380
+"id": 395
 },
 {
 "n": "Thompson's Turf Lawn Care",
@@ -7617,7 +7917,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 381
+"id": 396
 },
 {
 "n": "KK Cleaners",
@@ -7637,7 +7937,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 382
+"id": 397
 },
 {
 "n": "A-1 Precision Shine",
@@ -7657,7 +7957,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 383
+"id": 398
 },
 {
 "n": "Redemption Lawncare",
@@ -7677,7 +7977,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 384
+"id": 399
 },
 {
 "n": "Cutting Edge Lawn Care",
@@ -7697,7 +7997,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 385
+"id": 400
 },
 {
 "n": "Bachelder's Landscaping",
@@ -7717,7 +8017,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 386
+"id": 401
 },
 {
 "n": "Weilage Well Drilling",
@@ -7737,7 +8037,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 387
+"id": 402
 },
 {
 "n": "Old Town Upholstery",
@@ -7757,7 +8057,7 @@
 "kanal": "Email",
 "tura": 4,
 "subj": "",
-"id": 388
+"id": 403
 },
 {
 "n": "Kafana Zelengora",
@@ -7777,7 +8077,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 389
+"id": 404
 },
 {
 "n": "Mali Balkan",
@@ -7797,7 +8097,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 390
+"id": 405
 },
 {
 "n": "Lovački dom",
@@ -7817,7 +8117,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 391
+"id": 406
 },
 {
 "n": "Restoran Župan",
@@ -7837,7 +8137,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 392
+"id": 407
 },
 {
 "n": "DivčiBar",
@@ -7857,7 +8157,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 393
+"id": 408
 },
 {
 "n": "Etno selo Boškova voda",
@@ -7877,7 +8177,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 394
+"id": 409
 },
 {
 "n": "Exclusive NS",
@@ -7897,7 +8197,7 @@
 "kanal": "Instagram",
 "tura": 2,
 "subj": "",
-"id": 395
+"id": 410
 },
 {
 "n": "Central D",
@@ -7917,7 +8217,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 396
+"id": 411
 },
 {
 "n": "Zlatna dvorana",
@@ -7937,7 +8237,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 397
+"id": 412
 },
 {
 "n": "Markov konak",
@@ -7957,7 +8257,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 398
+"id": 413
 },
 {
 "n": "Restoran Stanković",
@@ -7977,7 +8277,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 399
+"id": 414
 },
 {
 "n": "Relax Time studio",
@@ -7997,7 +8297,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 400
+"id": 415
 },
 {
 "n": "Restoran Zaplet",
@@ -8017,7 +8317,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 401
+"id": 416
 },
 {
 "n": "Etno selo Gostoljublje",
@@ -8037,7 +8337,7 @@
 "kanal": "Mejl",
 "tura": 2,
 "subj": "Sajt za Etno selo Gostoljublje",
-"id": 402
+"id": 417
 },
 {
 "n": "Apartments Sunčani Vrhovi Konaci",
@@ -8057,7 +8357,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 403
+"id": 418
 },
 {
 "n": "Frizerski salon Ivaneja",
@@ -8077,7 +8377,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 404
+"id": 419
 },
 {
 "n": "Apartments Kop Konaci",
@@ -8097,7 +8397,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 405
+"id": 420
 },
 {
 "n": "Pizzeria Pecorino",
@@ -8117,7 +8417,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 406
+"id": 421
 },
 {
 "n": "Veličković Apartments",
@@ -8137,7 +8437,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 407
+"id": 422
 },
 {
 "n": "Stomatološka ordinacija Miletić",
@@ -8157,7 +8457,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 408
+"id": 423
 },
 {
 "n": "Apartmani Nikolić",
@@ -8177,7 +8477,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 409
+"id": 424
 },
 {
 "n": "Zlatibor apartmani centar",
@@ -8197,7 +8497,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 410
+"id": 425
 },
 {
 "n": "Vision apartmani",
@@ -8217,7 +8517,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 411
+"id": 426
 },
 {
 "n": "Drinska Bajka Apartmani",
@@ -8237,7 +8537,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 412
+"id": 427
 },
 {
 "n": "Apartmani Šumska staza",
@@ -8257,7 +8557,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 413
+"id": 428
 },
 {
 "n": "Barbershop Razor",
@@ -8277,7 +8577,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 414
+"id": 429
 },
 {
 "n": "Belvedere Hills Apartments & Spa",
@@ -8297,7 +8597,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 415
+"id": 430
 },
 {
 "n": "Muški frizer Igor",
@@ -8317,7 +8617,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 416
+"id": 431
 },
 {
 "n": "Apartmani Ivanović",
@@ -8337,7 +8637,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 417
+"id": 432
 },
 {
 "n": "Brvnare Vrdnik",
@@ -8357,7 +8657,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 418
+"id": 433
 },
 {
 "n": "Sunset Apartman",
@@ -8377,7 +8677,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 419
+"id": 434
 },
 {
 "n": "Silhouette Beauty Studio",
@@ -8397,7 +8697,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 420
+"id": 435
 },
 {
 "n": "Studio Cacao",
@@ -8417,7 +8717,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 421
+"id": 436
 },
 {
 "n": "Apartmani Kula",
@@ -8437,7 +8737,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 422
+"id": 437
 },
 {
 "n": "Maja Apartments",
@@ -8457,7 +8757,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 423
+"id": 438
 },
 {
 "n": "Apartmani Sarić",
@@ -8477,7 +8777,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 424
+"id": 439
 },
 {
 "n": "Dental Centar Stanković",
@@ -8497,7 +8797,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 425
+"id": 440
 },
 {
 "n": "Kozmetički salon Goga",
@@ -8517,7 +8817,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 426
+"id": 441
 },
 {
 "n": "Holiday Salon Lepote",
@@ -8537,7 +8837,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 427
+"id": 442
 },
 {
 "n": "Teretana Park (Zatvoreni bazeni)",
@@ -8557,7 +8857,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 428
+"id": 443
 },
 {
 "n": "Teretana Zlatan",
@@ -8577,7 +8877,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 429
+"id": 444
 },
 {
 "n": "Tanasijević Dental Clinic",
@@ -8597,7 +8897,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 430
+"id": 445
 },
 {
 "n": "Borovi Apartmani",
@@ -8617,7 +8917,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 431
+"id": 446
 },
 {
 "n": "Kozmetički salon Šarm",
@@ -8637,7 +8937,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 432
+"id": 447
 },
 {
 "n": "Zubni lekar dr Kalaba",
@@ -8657,7 +8957,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 433
+"id": 448
 },
 {
 "n": "Salon Papillon (Anita Simić)",
@@ -8677,7 +8977,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 434
+"id": 449
 },
 {
 "n": "Apartmani Borova Iglica",
@@ -8697,7 +8997,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 435
+"id": 450
 },
 {
 "n": "Apartments Đina",
@@ -8717,7 +9017,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 436
+"id": 451
 },
 {
 "n": "Jaca Style",
@@ -8737,7 +9037,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 437
+"id": 452
 },
 {
 "n": "Frizerski salon Zeka i Mira",
@@ -8757,7 +9057,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 438
+"id": 453
 },
 {
 "n": "Fitness One",
@@ -8777,7 +9077,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 439
+"id": 454
 },
 {
 "n": "Sirmium Dent",
@@ -8797,7 +9097,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 440
+"id": 455
 },
 {
 "n": "Restoran Avlija",
@@ -8817,7 +9117,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 441
+"id": 456
 },
 {
 "n": "Quintessa Luxury Salon",
@@ -8837,7 +9137,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 442
+"id": 457
 },
 {
 "n": "Sixty Barbershop",
@@ -8857,7 +9157,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 443
+"id": 458
 },
 {
 "n": "Auto servis Slavković",
@@ -8877,7 +9177,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 444
+"id": 459
 },
 {
 "n": "Kozmetički centar Aria",
@@ -8897,7 +9197,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 445
+"id": 460
 },
 {
 "n": "Beauty Centar Ona",
@@ -8917,7 +9217,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 446
+"id": 461
 },
 {
 "n": "Frizerski salon Galar",
@@ -8937,7 +9237,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 447
+"id": 462
 },
 {
 "n": "Le Salon Deluxe",
@@ -8957,7 +9257,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 448
+"id": 463
 },
 {
 "n": "Studio lepote Anđela",
@@ -8977,7 +9277,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 449
+"id": 464
 },
 {
 "n": "Crystal Studio Central",
@@ -8997,7 +9297,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 450
+"id": 465
 },
 {
 "n": "Cvećara DeceAA",
@@ -9017,7 +9317,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 451
+"id": 466
 },
 {
 "n": "Hram 032",
@@ -9037,7 +9337,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 452
+"id": 467
 },
 {
 "n": "Kozmetički salon Bellezza",
@@ -9057,7 +9357,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 453
+"id": 468
 },
 {
 "n": "Almari Beauty",
@@ -9077,7 +9377,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 454
+"id": 469
 },
 {
 "n": "Martin Hair Studio",
@@ -9097,7 +9397,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 455
+"id": 470
 },
 {
 "n": "Tara Apartmani",
@@ -9117,7 +9417,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 456
+"id": 471
 },
 {
 "n": "Tara3M Sobe i Apartmani",
@@ -9137,7 +9437,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 457
+"id": 472
 },
 {
 "n": "Frizerski salon Love 3",
@@ -9157,7 +9457,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 458
+"id": 473
 },
 {
 "n": "Restoran Potkovica",
@@ -9177,7 +9477,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 459
+"id": 474
 },
 {
 "n": "Salon lepote Mimi Hair",
@@ -9197,7 +9497,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 460
+"id": 475
 },
 {
 "n": "NB Auto Servis",
@@ -9217,7 +9517,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 461
+"id": 476
 },
 {
 "n": "Frizeraj",
@@ -9237,7 +9537,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 462
+"id": 477
 },
 {
 "n": "Autoservis Rakić",
@@ -9257,7 +9557,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 463
+"id": 478
 },
 {
 "n": "Sienna Beauty Concept",
@@ -9277,7 +9577,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 464
+"id": 479
 },
 {
 "n": "Kozmetički salon Juvena",
@@ -9297,7 +9597,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 465
+"id": 480
 },
 {
 "n": "Gora Apartments",
@@ -9317,7 +9617,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 466
+"id": 481
 },
 {
 "n": "Luxury Studio Valjevo",
@@ -9337,7 +9637,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 467
+"id": 482
 },
 {
 "n": "Mega Gym",
@@ -9357,7 +9657,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 468
+"id": 483
 },
 {
 "n": "Stomatološka ordinacija Jovančević",
@@ -9377,7 +9677,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 469
+"id": 484
 },
 {
 "n": "PizzaHub Kraljevo",
@@ -9397,7 +9697,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 470
+"id": 485
 },
 {
 "n": "Dental Centar Purić",
@@ -9417,7 +9717,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 471
+"id": 486
 },
 {
 "n": "Apartman Lepi Jova",
@@ -9437,7 +9737,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 472
+"id": 487
 },
 {
 "n": "Apartmani Nevena",
@@ -9457,7 +9757,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 473
+"id": 488
 },
 {
 "n": "Beauty centar Energy",
@@ -9477,7 +9777,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 474
+"id": 489
 },
 {
 "n": "Derma Vita Beauty Concept",
@@ -9497,7 +9797,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 475
+"id": 490
 },
 {
 "n": "Vulkanizer Whiskas",
@@ -9517,7 +9817,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 476
+"id": 491
 },
 {
 "n": "Beauty Time",
@@ -9537,7 +9837,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 477
+"id": 492
 },
 {
 "n": "Auto Servis Lukić",
@@ -9557,7 +9857,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 478
+"id": 493
 },
 {
 "n": "Auto servis Mirović",
@@ -9577,7 +9877,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 479
+"id": 494
 },
 {
 "n": "Guest House on Mountain Tara",
@@ -9597,7 +9897,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 480
+"id": 495
 },
 {
 "n": "Brick Apartment",
@@ -9617,7 +9917,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 481
+"id": 496
 },
 {
 "n": "Dental Aleksandar Đorđević",
@@ -9637,7 +9937,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 482
+"id": 497
 },
 {
 "n": "Stone Gym",
@@ -9657,7 +9957,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 483
+"id": 498
 },
 {
 "n": "Salon Celebrity Lauren",
@@ -9677,7 +9977,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 484
+"id": 499
 },
 {
 "n": "Kozmetički salon Jelena",
@@ -9697,7 +9997,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 485
+"id": 500
 },
 {
 "n": "Cvećara Orhideja",
@@ -9717,7 +10017,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 486
+"id": 501
 },
 {
 "n": "Dejana Beauty",
@@ -9737,7 +10037,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 487
+"id": 502
 },
 {
 "n": "Kozmetički studio Violeta Nails & Lashes",
@@ -9757,7 +10057,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 488
+"id": 503
 },
 {
 "n": "Milenković gradnja",
@@ -9777,7 +10077,7 @@
 "kanal": "Mejl",
 "tura": 2,
 "subj": "Sajt za Milenković gradnja",
-"id": 489
+"id": 504
 },
 {
 "n": "Blade frizerski studio",
@@ -9797,7 +10097,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 490
+"id": 505
 },
 {
 "n": "Auto servis Stepić",
@@ -9817,7 +10117,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 491
+"id": 506
 },
 {
 "n": "Restoran Golden View",
@@ -9837,7 +10137,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 492
+"id": 507
 },
 {
 "n": "Apartmani Zapis",
@@ -9857,7 +10157,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 493
+"id": 508
 },
 {
 "n": "ID Concept nameštaj po meri",
@@ -9877,7 +10177,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 494
+"id": 509
 },
 {
 "n": "Viva Glow Studio",
@@ -9897,7 +10197,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 495
+"id": 510
 },
 {
 "n": "Banquet Hall Stella",
@@ -9917,7 +10217,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 496
+"id": 511
 },
 {
 "n": "Auto servis Mijailović",
@@ -9937,7 +10237,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 497
+"id": 512
 },
 {
 "n": "Kozmetički salon Bella D",
@@ -9957,7 +10257,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 498
+"id": 513
 },
 {
 "n": "Muški frizerski salon Casanova",
@@ -9977,7 +10277,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 499
+"id": 514
 },
 {
 "n": "Owell Beauty Studio",
@@ -9997,7 +10297,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 500
+"id": 515
 },
 {
 "n": "Stamenković kuhinje",
@@ -10017,7 +10317,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 501
+"id": 516
 },
 {
 "n": "Stomatološka ordinacija Novaković",
@@ -10037,7 +10337,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 502
+"id": 517
 },
 {
 "n": "Frizerski salon Merlin",
@@ -10057,7 +10357,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 503
+"id": 518
 },
 {
 "n": "Kozmetički salon Maj Tač",
@@ -10077,7 +10377,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 504
+"id": 519
 },
 {
 "n": "Omega Apartments",
@@ -10097,7 +10397,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 505
+"id": 520
 },
 {
 "n": "Dental studio SD",
@@ -10117,7 +10417,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 506
+"id": 521
 },
 {
 "n": "Natural beauty lab",
@@ -10137,7 +10437,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 507
+"id": 522
 },
 {
 "n": "AS Apartmani",
@@ -10157,7 +10457,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 508
+"id": 523
 },
 {
 "n": "Maja Dental Care",
@@ -10177,7 +10477,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 509
+"id": 524
 },
 {
 "n": "Eurostil nameštaj",
@@ -10197,7 +10497,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 510
+"id": 525
 },
 {
 "n": "Auto servis PAJA",
@@ -10217,7 +10517,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 511
+"id": 526
 },
 {
 "n": "Beauty Star SN",
@@ -10237,7 +10537,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 512
+"id": 527
 },
 {
 "n": "Kozmetički salon Marijana R",
@@ -10257,7 +10557,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 513
+"id": 528
 },
 {
 "n": "Auto Servis Tanasković",
@@ -10277,7 +10577,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 514
+"id": 529
 },
 {
 "n": "START Trening Centar",
@@ -10297,7 +10597,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 515
+"id": 530
 },
 {
 "n": "Studio lepote Lady IN",
@@ -10317,7 +10617,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 516
+"id": 531
 },
 {
 "n": "Beauty room Vrčin",
@@ -10337,7 +10637,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 517
+"id": 532
 },
 {
 "n": "Auto servis Roksandić",
@@ -10357,7 +10657,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 518
+"id": 533
 },
 {
 "n": "Vial NR",
@@ -10377,7 +10677,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 519
+"id": 534
 },
 {
 "n": "Aleksandar Gradnja",
@@ -10397,7 +10697,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 520
+"id": 535
 },
 {
 "n": "Servis Radojević",
@@ -10417,7 +10717,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 521
+"id": 536
 },
 {
 "n": "Samson Studio",
@@ -10437,7 +10737,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 522
+"id": 537
 },
 {
 "n": "Tip Top nameštaj po meri",
@@ -10457,7 +10757,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 523
+"id": 538
 },
 {
 "n": "SIEGELN PVC stolarija",
@@ -10477,7 +10777,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 524
+"id": 539
 },
 {
 "n": "Fitnes Centar Nivo Gym",
@@ -10497,7 +10797,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 525
+"id": 540
 },
 {
 "n": "Lucky Barber",
@@ -10517,7 +10817,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 526
+"id": 541
 },
 {
 "n": "Smeštaj Biba",
@@ -10537,7 +10837,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 527
+"id": 542
 },
 {
 "n": "Avenija Gradnja",
@@ -10557,7 +10857,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 528
+"id": 543
 },
 {
 "n": "Salon Jami",
@@ -10577,7 +10877,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 529
+"id": 544
 },
 {
 "n": "Altabo Beauty",
@@ -10597,7 +10897,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 530
+"id": 545
 },
 {
 "n": "Enjoy in beauty",
@@ -10617,7 +10917,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 531
+"id": 546
 },
 {
 "n": "Auto servis i šlep Milošević",
@@ -10637,7 +10937,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 532
+"id": 547
 },
 {
 "n": "Car Clinic Tomić",
@@ -10657,7 +10957,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 533
+"id": 548
 },
 {
 "n": "Doll event",
@@ -10677,7 +10977,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 534
+"id": 549
 },
 {
 "n": "Make Muscles 24/7",
@@ -10697,7 +10997,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 535
+"id": 550
 },
 {
 "n": "Face care and beauty",
@@ -10717,7 +11017,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 536
+"id": 551
 },
 {
 "n": "Foto Bogićević",
@@ -10737,7 +11037,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 537
+"id": 552
 },
 {
 "n": "Foto Studio Medenica",
@@ -10757,7 +11057,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 538
+"id": 553
 },
 {
 "n": "Kozmetički salon Bebe",
@@ -10777,7 +11077,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 539
+"id": 554
 },
 {
 "n": "Vila Fruškica",
@@ -10797,7 +11097,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 540
+"id": 555
 },
 {
 "n": "MM Haircut Waves",
@@ -10817,7 +11117,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 541
+"id": 556
 },
 {
 "n": "Mirjana Hair & Cut Studio",
@@ -10837,7 +11137,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 542
+"id": 557
 },
 {
 "n": "LaDerm",
@@ -10857,7 +11157,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 543
+"id": 558
 },
 {
 "n": "Kalman NS košuljice",
@@ -10877,7 +11177,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 544
+"id": 559
 },
 {
 "n": "Buket cvetni studio",
@@ -10897,7 +11197,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 545
+"id": 560
 },
 {
 "n": "Magic salon lepote",
@@ -10917,7 +11217,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 546
+"id": 561
 },
 {
 "n": "Hair by Iki",
@@ -10937,7 +11237,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 547
+"id": 562
 },
 {
 "n": "Nemit nameštaj po meri",
@@ -10957,7 +11257,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 548
+"id": 563
 },
 {
 "n": "Celestial Beauty",
@@ -10977,7 +11277,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 549
+"id": 564
 },
 {
 "n": "MS Dental Studio",
@@ -10997,7 +11297,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 550
+"id": 565
 },
 {
 "n": "Goldi kozmetički salon",
@@ -11017,7 +11317,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 551
+"id": 566
 },
 {
 "n": "Vulkanizer Dejan Skala",
@@ -11037,7 +11337,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 552
+"id": 567
 },
 {
 "n": "Muški frizerski salon Jasmina",
@@ -11057,7 +11357,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 553
+"id": 568
 },
 {
 "n": "Mila beauty centar",
@@ -11077,7 +11377,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 554
+"id": 569
 },
 {
 "n": "Studio Body",
@@ -11097,7 +11397,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 555
+"id": 570
 },
 {
 "n": "EXTOL stolarija",
@@ -11117,7 +11417,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 556
+"id": 571
 },
 {
 "n": "LDN Glow Room",
@@ -11137,7 +11437,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 557
+"id": 572
 },
 {
 "n": "Bloom SM studio",
@@ -11157,7 +11457,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 558
+"id": 573
 },
 {
 "n": "Salon lepote Senka Moćan",
@@ -11177,7 +11477,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 559
+"id": 574
 },
 {
 "n": "Lux Al Mont stolarija",
@@ -11197,7 +11497,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 560
+"id": 575
 },
 {
 "n": "Teretana Park",
@@ -11217,7 +11517,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 561
+"id": 576
 },
 {
 "n": "Barber shop Gentleman 1",
@@ -11237,7 +11537,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 562
+"id": 577
 },
 {
 "n": "Queen Beauty by Anastasia",
@@ -11257,7 +11557,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 563
+"id": 578
 },
 {
 "n": "Kozmetički salon Madam Ok",
@@ -11277,7 +11577,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 564
+"id": 579
 },
 {
 "n": "Pino Dorado nameštaj po meri",
@@ -11297,7 +11597,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 565
+"id": 580
 },
 {
 "n": "NeXtgen beauty studio",
@@ -11317,7 +11617,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 566
+"id": 581
 },
 {
 "n": "Frizerski salon Dream Cut",
@@ -11337,7 +11637,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 567
+"id": 582
 },
 {
 "n": "Urban Cut",
@@ -11357,7 +11657,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 568
+"id": 583
 },
 {
 "n": "Infinity Beauty Studio",
@@ -11377,7 +11677,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 569
+"id": 584
 },
 {
 "n": "Infinity Beauty House SM",
@@ -11397,7 +11697,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 570
+"id": 585
 },
 {
 "n": "New Look",
@@ -11417,7 +11717,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 571
+"id": 586
 },
 {
 "n": "Glumac Dent",
@@ -11437,7 +11737,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 572
+"id": 587
 },
 {
 "n": "Beauty room Bulevar",
@@ -11457,7 +11757,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 573
+"id": 588
 },
 {
 "n": "Portal Šabac PVC stolarija",
@@ -11477,7 +11777,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 574
+"id": 589
 },
 {
 "n": "Opulent Beauty Lounge",
@@ -11497,7 +11797,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 575
+"id": 590
 },
 {
 "n": "Frizerski salon Šizerka",
@@ -11517,7 +11817,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 576
+"id": 591
 },
 {
 "n": "Alekstyle nameštaj po meri",
@@ -11537,7 +11837,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 577
+"id": 592
 },
 {
 "n": "Frizerski salon Danijela",
@@ -11557,7 +11857,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 578
+"id": 593
 },
 {
 "n": "Beauty bar kozmetički studio",
@@ -11577,7 +11877,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 579
+"id": 594
 },
 {
 "n": "Wolf Gym",
@@ -11597,7 +11897,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 580
+"id": 595
 },
 {
 "n": "BeautyStudio AS",
@@ -11617,7 +11917,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 581
+"id": 596
 },
 {
 "n": "Mikron nameštaj",
@@ -11637,7 +11937,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 582
+"id": 597
 },
 {
 "n": "Beauty house J&O",
@@ -11657,7 +11957,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 583
+"id": 598
 },
 {
 "n": "Euro ND PVC ALU stolarija",
@@ -11677,7 +11977,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 584
+"id": 599
 },
 {
 "n": "Studio NN",
@@ -11697,7 +11997,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 585
+"id": 600
 },
 {
 "n": "Lola Beauty Room",
@@ -11717,7 +12017,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 586
+"id": 601
 },
 {
 "n": "Plakar in doo",
@@ -11737,7 +12037,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 587
+"id": 602
 },
 {
 "n": "Stolarija Čačak",
@@ -11757,7 +12057,7 @@
 "kanal": "",
 "tura": 0,
 "subj": "",
-"id": 588
+"id": 603
 },
 {
 "n": "Foto studio Moments",
@@ -11777,7 +12077,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 589
+"id": 604
 },
 {
 "n": "Senka beauty studio",
@@ -11797,7 +12097,7 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 590
+"id": 605
 },
 {
 "n": "Frizerski salon Saša",
@@ -11817,6 +12117,6 @@
 "kanal": "WhatsApp",
 "tura": 3,
 "subj": "",
-"id": 591
+"id": 606
 }
 ]
