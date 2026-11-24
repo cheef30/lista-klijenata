@@ -41,3 +41,20 @@ apartmani Banja Vrujci
 apartmani Ribarska Banja
 apartmani Sjenica
 etno selo Srbija smeštaj
+apartmani Niška Banja
+apartmani Mataruška Banja
+apartmani Sremski Karlovci
+apartmani Knjaževac
+apartmani Užice
+apartmani Uvac Nova Varoš
+brvnare Zlatibor
+apartmani Kraljevo
+apartmani Novi Sad centar
+apartmani Šabac
+apartmani Zaječar
+apartmani Negotin
+apartmani Bela Crkva
+apartmani Čajetina
+apartmani Sirogojno
+apartmani Tara Kremna
+apartmani Mitrovac Tara
