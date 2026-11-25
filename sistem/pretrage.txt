@@ -58,3 +58,7 @@ apartmani Čajetina
 apartmani Sirogojno
 apartmani Tara Kremna
 apartmani Mitrovac Tara
+kuća za odmor Tara
+planinska kuća Tara
+vikendica Zlatibor
+kuća za odmor Zlatibor
