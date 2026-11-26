@@ -80,3 +80,19 @@ smestaj Ivanjica Golija
 apartmani Zlatibor privatni smestaj
 apartmani Kopaonik privatni smestaj
 apartmani Divcibare privatni smestaj
+vila Zlatibor apartmani
+apartmani Srebrno jezero
+apartmani Sokobanja vila
+apartmani Zlatibor Kraljeve vode
+apartmani Golubac
+apartmani Palić
+apartmani Vrdnik Fruška gora
+apartmani Ivanjica
+apartmani Zlatibor Ribnica
+apartmani Mokra Gora
+apartmani Sremski Karlovci
+apartmani Banja Koviljača
+apartmani Banja Vrujci
+apartmani Ribarska Banja
+apartmani Donji Milanovac
+apartmani Bajina Bašta
