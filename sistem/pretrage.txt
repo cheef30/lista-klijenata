@@ -62,3 +62,21 @@ kuća za odmor Tara
 planinska kuća Tara
 vikendica Zlatibor
 kuća za odmor Zlatibor
+brvnara Divčibare
+kuća za odmor Divčibare
+kuća za odmor Kopaonik
+vikendica Tara
+apartmani Kaluđerske bare
+planinska kuća Zlatibor
+vikendica Golija
+vikendice Sokobanja
+brvnara Stara planina
+vikendica Zlatar
+smestaj Zlatar Nova Varoš
+apartmani Sokobanja centar
+apartmani Kopaonik Treska
+apartmani Vrdnik
+smestaj Ivanjica Golija
+apartmani Zlatibor privatni smestaj
+apartmani Kopaonik privatni smestaj
+apartmani Divcibare privatni smestaj
